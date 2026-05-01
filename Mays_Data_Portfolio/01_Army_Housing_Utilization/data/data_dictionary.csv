@@ -1,0 +1,16 @@
+Field_Name,Definition,Example
+Record_ID,Synthetic unique row identifier for each monthly building record.,1001
+Month,Month associated with the occupancy record.,2026-01-01
+Installation,Fictional installation name; not a real operational location.,Fort Adams
+Building_Number,Synthetic building identifier.,BLDG-101
+Region,Synthetic region classification.,CONUS
+Housing_Type,Synthetic housing category used for analysis.,Permanent Party Enlisted
+Design_Category_Code,Synthetic design category code used for reporting segmentation.,72111
+Total_Beds,Total available bed spaces in a building.,250
+Occupied_Beds,Number of occupied bed spaces.,198
+Vacant_Beds,Total beds minus occupied beds.,52
+Net_Use_Percent,"Occupied beds divided by total beds, shown as a percentage.",79.2
+Condition_Score,Synthetic facility condition score from 0 to 100.,84
+Open_Work_Orders,Synthetic count of open maintenance work orders.,17
+Priority_Level,Synthetic prioritization value based on utilization and work orders.,Medium
+Data_Quality_Flag,"Indicates whether the row is clean, messy, or corrected.",Cleaned

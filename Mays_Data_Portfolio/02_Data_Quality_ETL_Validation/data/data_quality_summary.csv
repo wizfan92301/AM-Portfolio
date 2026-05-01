@@ -1,0 +1,8 @@
+Metric,Before_Cleaning,After_Cleaning
+Total Records,1542,1526
+Duplicate Record IDs,6,0
+Missing Building Numbers,10,0
+Invalid Occupancy Records,8,0
+Incorrect Net Use Percent,7,0
+Invalid Category Codes,6,0
+Inconsistent Installation Names,6,0

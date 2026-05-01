@@ -1,0 +1,451 @@
+Requisition_ID,Fiscal_Year,Office,Job_Series,Grade_Level,Applicants,Qualified_Applicants,Interviewed,Selected,Time_To_Fill_Days,Hiring_Stage,Vacancy_Type,Location,Qualification_Rate,Interview_Rate,Selection_Rate
+REQ-1001,FY2025,Operations,0343 Management Analyst,GS-13,218,133,58,7,128,Open,Backfill,Remote,61.01,43.61,12.07
+REQ-1002,FY2024,Human Resources,0301 Program Analyst,GS-9,174,102,35,6,88,Selected,New Position,"Washington, DC",58.62,34.31,17.14
+REQ-1003,FY2025,Finance,0201 HR Specialist,GS-9,248,152,42,8,91,Review,Temporary Surge,"Arlington, VA",61.29,27.63,19.05
+REQ-1004,FY2026,Finance,0343 Management Analyst,GS-11,282,174,27,4,40,Open,Temporary Surge,"Baltimore, MD",61.7,15.52,14.81
+REQ-1005,FY2025,Finance,1515 Operations Research Analyst,GS-13,300,138,48,4,119,Selected,New Position,Hybrid,46.0,34.78,8.33
+REQ-1006,FY2024,Human Resources,0501 Financial Analyst,GS-12,348,95,32,3,95,Selected,New Position,"Baltimore, MD",27.3,33.68,9.38
+REQ-1007,FY2024,Program Management,0501 Financial Analyst,GS-13,177,48,9,2,86,Selected,New Position,Remote,27.12,18.75,22.22
+REQ-1008,FY2025,Human Resources,0201 HR Specialist,GS-9,263,99,44,10,37,Open,New Position,Hybrid,37.64,44.44,22.73
+REQ-1009,FY2025,Human Resources,0301 Program Analyst,GS-13,190,115,35,7,93,Cancelled,Backfill,Hybrid,60.53,30.43,20.0
+REQ-1010,FY2026,Operations,0343 Management Analyst,GS-12,342,150,51,12,49,Open,Backfill,"Baltimore, MD",43.86,34.0,23.53
+REQ-1011,FY2026,Policy,1515 Operations Research Analyst,GS-13,315,145,51,3,56,Interview,New Position,"Baltimore, MD",46.03,35.17,5.88
+REQ-1012,FY2024,Policy,2210 IT Specialist,GS-9,347,114,18,5,62,Interview,Backfill,"Washington, DC",32.85,15.79,27.78
+REQ-1013,FY2024,Program Management,0343 Management Analyst,GS-9,336,101,42,7,110,Cancelled,Temporary Surge,Remote,30.06,41.58,16.67
+REQ-1014,FY2024,Policy,0301 Program Analyst,GS-9,334,148,43,12,57,Selected,Backfill,Hybrid,44.31,29.05,27.91
+REQ-1015,FY2024,Finance,0501 Financial Analyst,GS-12,345,208,60,9,112,Selected,Backfill,Remote,60.29,28.85,15.0
+REQ-1016,FY2026,IT Services,2210 IT Specialist,GS-11,103,31,10,3,100,Review,New Position,"Arlington, VA",30.1,32.26,30.0
+REQ-1017,FY2024,IT Services,0201 HR Specialist,GS-12,183,96,41,3,125,Selected,Temporary Surge,"Washington, DC",52.46,42.71,7.32
+REQ-1018,FY2026,IT Services,2210 IT Specialist,GS-13,215,102,32,9,125,Review,New Position,Hybrid,47.44,31.37,28.12
+REQ-1019,FY2024,Finance,1515 Operations Research Analyst,GS-12,89,23,4,1,60,Review,New Position,"Washington, DC",25.84,17.39,25.0
+REQ-1020,FY2026,Policy,0201 HR Specialist,GS-11,186,62,19,3,92,Open,Temporary Surge,Hybrid,33.33,30.65,15.79
+REQ-1021,FY2024,Program Management,0501 Financial Analyst,GS-13,234,81,31,8,71,Selected,Temporary Surge,"Baltimore, MD",34.62,38.27,25.81
+REQ-1022,FY2025,Operations,1515 Operations Research Analyst,GS-12,317,86,31,3,134,Selected,Temporary Surge,Hybrid,27.13,36.05,9.68
+REQ-1023,FY2026,Human Resources,0301 Program Analyst,GS-11,343,113,41,4,92,Open,Temporary Surge,Hybrid,32.94,36.28,9.76
+REQ-1024,FY2025,Human Resources,2210 IT Specialist,GS-13,96,38,10,2,51,Open,Temporary Surge,"Arlington, VA",39.58,26.32,20.0
+REQ-1025,FY2025,Program Management,0201 HR Specialist,GS-12,55,17,4,0,113,Selected,New Position,"Baltimore, MD",30.91,23.53,0.0
+REQ-1026,FY2026,IT Services,0501 Financial Analyst,GS-9,304,103,19,1,99,Open,Backfill,"Arlington, VA",33.88,18.45,5.26
+REQ-1027,FY2025,IT Services,1515 Operations Research Analyst,GS-9,144,74,17,2,131,Interview,New Position,"Baltimore, MD",51.39,22.97,11.76
+REQ-1028,FY2026,Finance,0501 Financial Analyst,GS-9,263,91,30,8,66,Cancelled,Backfill,"Baltimore, MD",34.6,32.97,26.67
+REQ-1029,FY2026,Program Management,0501 Financial Analyst,GS-9,311,168,22,4,133,Review,Backfill,"Arlington, VA",54.02,13.1,18.18
+REQ-1030,FY2024,Policy,0343 Management Analyst,GS-11,199,91,39,4,133,Interview,Temporary Surge,"Arlington, VA",45.73,42.86,10.26
+REQ-1031,FY2026,Human Resources,1515 Operations Research Analyst,GS-11,252,147,28,7,129,Selected,New Position,Remote,58.33,19.05,25.0
+REQ-1032,FY2026,Operations,2210 IT Specialist,GS-13,204,54,8,1,67,Interview,Backfill,Remote,26.47,14.81,12.5
+REQ-1033,FY2026,IT Services,0343 Management Analyst,GS-9,242,102,13,3,103,Open,Temporary Surge,"Washington, DC",42.15,12.75,23.08
+REQ-1034,FY2025,Program Management,0501 Financial Analyst,GS-13,218,135,21,5,73,Interview,Temporary Surge,"Washington, DC",61.93,15.56,23.81
+REQ-1035,FY2026,Operations,2210 IT Specialist,GS-12,277,87,17,4,104,Review,New Position,Hybrid,31.41,19.54,23.53
+REQ-1036,FY2024,Finance,0301 Program Analyst,GS-12,319,98,13,3,85,Interview,New Position,Remote,30.72,13.27,23.08
+REQ-1037,FY2024,Policy,0201 HR Specialist,GS-9,297,91,16,3,67,Review,Temporary Surge,Remote,30.64,17.58,18.75
+REQ-1038,FY2025,Finance,2210 IT Specialist,GS-11,316,88,30,3,60,Selected,Temporary Surge,"Arlington, VA",27.85,34.09,10.0
+REQ-1039,FY2025,Policy,0201 HR Specialist,GS-11,86,31,4,1,77,Interview,Temporary Surge,Hybrid,36.05,12.9,25.0
+REQ-1040,FY2024,Policy,1515 Operations Research Analyst,GS-13,221,127,55,5,75,Review,Backfill,"Baltimore, MD",57.47,43.31,9.09
+REQ-1041,FY2025,Program Management,0201 HR Specialist,GS-9,103,54,12,2,92,Review,New Position,Hybrid,52.43,22.22,16.67
+REQ-1042,FY2026,Policy,0343 Management Analyst,GS-9,76,45,18,2,103,Review,New Position,Hybrid,59.21,40.0,11.11
+REQ-1043,FY2026,Finance,0201 HR Specialist,GS-13,50,29,9,2,62,Selected,Temporary Surge,"Arlington, VA",58.0,31.03,22.22
+REQ-1044,FY2026,IT Services,0343 Management Analyst,GS-13,222,90,37,7,72,Open,Backfill,Hybrid,40.54,41.11,18.92
+REQ-1045,FY2026,Operations,0501 Financial Analyst,GS-11,40,21,8,2,113,Selected,New Position,Hybrid,52.5,38.1,25.0
+REQ-1046,FY2024,Operations,0501 Financial Analyst,GS-11,324,166,73,17,96,Selected,New Position,"Baltimore, MD",51.23,43.98,23.29
+REQ-1047,FY2025,Human Resources,0343 Management Analyst,GS-12,224,77,26,5,81,Review,New Position,Hybrid,34.38,33.77,19.23
+REQ-1048,FY2025,Finance,0201 HR Specialist,GS-9,175,102,21,4,57,Review,Temporary Surge,"Baltimore, MD",58.29,20.59,19.05
+REQ-1049,FY2025,IT Services,0343 Management Analyst,GS-11,227,145,28,4,79,Interview,Backfill,"Arlington, VA",63.88,19.31,14.29
+REQ-1050,FY2026,Policy,0343 Management Analyst,GS-11,152,43,14,1,58,Open,Backfill,"Baltimore, MD",28.29,32.56,7.14
+REQ-1051,FY2025,Human Resources,0301 Program Analyst,GS-9,93,41,11,1,55,Selected,New Position,Hybrid,44.09,26.83,9.09
+REQ-1052,FY2024,Finance,0301 Program Analyst,GS-13,338,106,35,2,108,Open,Temporary Surge,Hybrid,31.36,33.02,5.71
+REQ-1053,FY2026,Program Management,0501 Financial Analyst,GS-11,44,26,9,2,45,Review,New Position,Remote,59.09,34.62,22.22
+REQ-1054,FY2025,Operations,1515 Operations Research Analyst,GS-12,342,105,33,8,114,Selected,Backfill,Hybrid,30.7,31.43,24.24
+REQ-1055,FY2026,Policy,0501 Financial Analyst,GS-11,337,94,23,2,37,Review,Temporary Surge,"Washington, DC",27.89,24.47,8.7
+REQ-1056,FY2024,Human Resources,0501 Financial Analyst,GS-11,125,55,18,1,135,Interview,Temporary Surge,Hybrid,44.0,32.73,5.56
+REQ-1057,FY2024,Policy,0201 HR Specialist,GS-13,35,21,8,2,101,Review,New Position,Remote,60.0,38.1,25.0
+REQ-1058,FY2025,Operations,2210 IT Specialist,GS-13,230,90,35,10,124,Interview,New Position,"Washington, DC",39.13,38.89,28.57
+REQ-1059,FY2024,IT Services,0201 HR Specialist,GS-9,180,88,26,3,35,Selected,Temporary Surge,"Washington, DC",48.89,29.55,11.54
+REQ-1060,FY2025,Policy,0201 HR Specialist,GS-12,227,116,40,5,81,Open,Backfill,Hybrid,51.1,34.48,12.5
+REQ-1061,FY2025,IT Services,0201 HR Specialist,GS-13,251,119,38,11,85,Selected,New Position,"Baltimore, MD",47.41,31.93,28.95
+REQ-1062,FY2025,Policy,0301 Program Analyst,GS-9,321,152,31,4,79,Selected,Temporary Surge,"Arlington, VA",47.35,20.39,12.9
+REQ-1063,FY2025,IT Services,0201 HR Specialist,GS-9,263,148,64,5,100,Review,New Position,Remote,56.27,43.24,7.81
+REQ-1064,FY2024,Finance,0301 Program Analyst,GS-12,37,21,8,1,111,Interview,New Position,Hybrid,56.76,38.1,12.5
+REQ-1065,FY2026,IT Services,0343 Management Analyst,GS-11,54,29,12,2,118,Interview,Temporary Surge,Remote,53.7,41.38,16.67
+REQ-1066,FY2024,IT Services,0201 HR Specialist,GS-11,259,66,26,7,101,Review,Temporary Surge,"Arlington, VA",25.48,39.39,26.92
+REQ-1067,FY2025,Finance,1515 Operations Research Analyst,GS-13,53,21,7,2,46,Cancelled,Backfill,Hybrid,39.62,33.33,28.57
+REQ-1068,FY2026,IT Services,0201 HR Specialist,GS-12,137,63,23,2,46,Interview,Backfill,"Baltimore, MD",45.99,36.51,8.7
+REQ-1069,FY2024,Program Management,0201 HR Specialist,GS-9,150,74,14,4,108,Open,Temporary Surge,"Washington, DC",49.33,18.92,28.57
+REQ-1070,FY2026,Finance,1515 Operations Research Analyst,GS-13,292,107,46,12,67,Selected,Backfill,Hybrid,36.64,42.99,26.09
+REQ-1071,FY2026,Human Resources,0501 Financial Analyst,GS-9,282,157,58,17,93,Selected,Backfill,"Washington, DC",55.67,36.94,29.31
+REQ-1072,FY2025,Finance,0201 HR Specialist,GS-9,230,116,52,11,64,Selected,Temporary Surge,"Baltimore, MD",50.43,44.83,21.15
+REQ-1073,FY2024,Program Management,2210 IT Specialist,GS-12,162,59,15,4,78,Open,New Position,Hybrid,36.42,25.42,26.67
+REQ-1074,FY2024,Operations,1515 Operations Research Analyst,GS-11,172,56,21,6,59,Interview,Backfill,"Arlington, VA",32.56,37.5,28.57
+REQ-1075,FY2024,Human Resources,1515 Operations Research Analyst,GS-13,152,50,10,2,54,Selected,Temporary Surge,"Washington, DC",32.89,20.0,20.0
+REQ-1076,FY2026,Finance,0501 Financial Analyst,GS-11,312,198,79,11,75,Interview,Temporary Surge,"Baltimore, MD",63.46,39.9,13.92
+REQ-1077,FY2026,Human Resources,0201 HR Specialist,GS-12,238,81,25,2,89,Interview,Backfill,"Arlington, VA",34.03,30.86,8.0
+REQ-1078,FY2026,Operations,0501 Financial Analyst,GS-9,269,172,60,10,123,Open,Backfill,"Baltimore, MD",63.94,34.88,16.67
+REQ-1079,FY2026,Finance,2210 IT Specialist,GS-11,348,207,38,4,69,Interview,Backfill,Remote,59.48,18.36,10.53
+REQ-1080,FY2024,IT Services,0301 Program Analyst,GS-11,142,59,22,3,86,Review,New Position,"Baltimore, MD",41.55,37.29,13.64
+REQ-1081,FY2024,Operations,0501 Financial Analyst,GS-13,155,73,29,3,129,Open,New Position,Hybrid,47.1,39.73,10.34
+REQ-1082,FY2024,Program Management,0343 Management Analyst,GS-11,308,166,63,8,106,Selected,New Position,"Arlington, VA",53.9,37.95,12.7
+REQ-1083,FY2025,IT Services,0201 HR Specialist,GS-12,165,73,24,4,77,Review,Backfill,"Washington, DC",44.24,32.88,16.67
+REQ-1084,FY2026,Policy,0201 HR Specialist,GS-11,245,73,30,9,60,Interview,Backfill,"Baltimore, MD",29.8,41.1,30.0
+REQ-1085,FY2025,Program Management,1515 Operations Research Analyst,GS-11,201,104,29,7,45,Review,New Position,"Baltimore, MD",51.74,27.88,24.14
+REQ-1086,FY2025,Operations,2210 IT Specialist,GS-12,250,126,39,10,44,Open,Temporary Surge,"Baltimore, MD",50.4,30.95,25.64
+REQ-1087,FY2025,Policy,0201 HR Specialist,GS-13,171,84,21,6,134,Selected,Backfill,"Arlington, VA",49.12,25.0,28.57
+REQ-1088,FY2026,Policy,0343 Management Analyst,GS-11,129,76,12,1,67,Selected,New Position,Remote,58.91,15.79,8.33
+REQ-1089,FY2025,IT Services,0343 Management Analyst,GS-9,87,25,11,2,41,Open,Backfill,Hybrid,28.74,44.0,18.18
+REQ-1090,FY2025,Program Management,1515 Operations Research Analyst,GS-11,114,32,14,2,64,Review,New Position,Hybrid,28.07,43.75,14.29
+REQ-1091,FY2025,IT Services,2210 IT Specialist,GS-13,122,32,11,3,76,Selected,New Position,Hybrid,26.23,34.38,27.27
+REQ-1092,FY2026,Policy,0201 HR Specialist,GS-12,125,61,17,4,107,Interview,Backfill,Remote,48.8,27.87,23.53
+REQ-1093,FY2025,Human Resources,0343 Management Analyst,GS-11,311,106,16,2,87,Review,Backfill,"Baltimore, MD",34.08,15.09,12.5
+REQ-1094,FY2024,Program Management,2210 IT Specialist,GS-11,275,128,44,8,131,Interview,New Position,Hybrid,46.55,34.38,18.18
+REQ-1095,FY2026,Policy,0501 Financial Analyst,GS-13,226,74,30,5,66,Open,New Position,"Baltimore, MD",32.74,40.54,16.67
+REQ-1096,FY2026,Finance,2210 IT Specialist,GS-12,75,31,6,1,113,Selected,Backfill,"Arlington, VA",41.33,19.35,16.67
+REQ-1097,FY2026,IT Services,0501 Financial Analyst,GS-11,70,23,5,1,114,Interview,Backfill,"Washington, DC",32.86,21.74,20.0
+REQ-1098,FY2024,Policy,0501 Financial Analyst,GS-9,112,30,9,1,48,Review,New Position,"Washington, DC",26.79,30.0,11.11
+REQ-1099,FY2025,Program Management,1515 Operations Research Analyst,GS-9,112,29,6,1,135,Selected,Backfill,"Washington, DC",25.89,20.69,16.67
+REQ-1100,FY2025,Program Management,0343 Management Analyst,GS-9,109,30,11,1,95,Review,Temporary Surge,"Arlington, VA",27.52,36.67,9.09
+REQ-1101,FY2026,Human Resources,0201 HR Specialist,GS-11,232,130,35,8,39,Review,Backfill,Remote,56.03,26.92,22.86
+REQ-1102,FY2026,Human Resources,2210 IT Specialist,GS-13,194,121,21,5,130,Selected,Temporary Surge,"Baltimore, MD",62.37,17.36,23.81
+REQ-1103,FY2025,Finance,0343 Management Analyst,GS-11,136,54,7,2,49,Review,Backfill,Hybrid,39.71,12.96,28.57
+REQ-1104,FY2025,Policy,0201 HR Specialist,GS-11,96,39,8,2,109,Selected,Backfill,"Washington, DC",40.62,20.51,25.0
+REQ-1105,FY2024,Finance,1515 Operations Research Analyst,GS-11,162,51,8,2,132,Interview,Temporary Surge,Hybrid,31.48,15.69,25.0
+REQ-1106,FY2025,Program Management,1515 Operations Research Analyst,GS-11,89,27,5,1,135,Selected,New Position,Remote,30.34,18.52,20.0
+REQ-1107,FY2025,IT Services,1515 Operations Research Analyst,GS-13,218,118,24,1,125,Interview,New Position,Hybrid,54.13,20.34,4.17
+REQ-1108,FY2026,Operations,0343 Management Analyst,GS-11,130,61,14,2,111,Selected,Backfill,"Baltimore, MD",46.92,22.95,14.29
+REQ-1109,FY2024,Human Resources,0201 HR Specialist,GS-12,169,79,21,5,99,Review,Temporary Surge,"Arlington, VA",46.75,26.58,23.81
+REQ-1110,FY2026,Program Management,0201 HR Specialist,GS-11,199,107,36,7,84,Review,Temporary Surge,"Baltimore, MD",53.77,33.64,19.44
+REQ-1111,FY2024,Operations,0343 Management Analyst,GS-11,200,83,19,1,119,Open,New Position,Remote,41.5,22.89,5.26
+REQ-1112,FY2026,Policy,0201 HR Specialist,GS-12,133,39,12,3,119,Interview,New Position,"Baltimore, MD",29.32,30.77,25.0
+REQ-1113,FY2024,Program Management,1515 Operations Research Analyst,GS-9,148,73,10,3,61,Selected,Backfill,Hybrid,49.32,13.7,30.0
+REQ-1114,FY2024,Policy,0343 Management Analyst,GS-12,247,143,55,4,113,Review,New Position,"Arlington, VA",57.89,38.46,7.27
+REQ-1115,FY2026,Operations,0201 HR Specialist,GS-11,300,87,31,6,59,Review,Temporary Surge,Hybrid,29.0,35.63,19.35
+REQ-1116,FY2026,Program Management,0343 Management Analyst,GS-11,247,135,50,10,121,Interview,New Position,Hybrid,54.66,37.04,20.0
+REQ-1117,FY2025,Finance,0201 HR Specialist,GS-12,240,108,36,7,111,Interview,Backfill,Remote,45.0,33.33,19.44
+REQ-1118,FY2026,Policy,2210 IT Specialist,GS-12,255,148,34,4,104,Review,Backfill,Remote,58.04,22.97,11.76
+REQ-1119,FY2025,Human Resources,2210 IT Specialist,GS-11,238,60,8,1,37,Interview,New Position,"Baltimore, MD",25.21,13.33,12.5
+REQ-1120,FY2026,IT Services,0301 Program Analyst,GS-9,46,26,11,3,105,Interview,New Position,Remote,56.52,42.31,27.27
+REQ-1121,FY2025,Human Resources,0201 HR Specialist,GS-13,217,68,14,4,66,Review,Temporary Surge,"Arlington, VA",31.34,20.59,28.57
+REQ-1122,FY2024,IT Services,1515 Operations Research Analyst,GS-12,74,40,15,1,123,Selected,New Position,Hybrid,54.05,37.5,6.67
+REQ-1123,FY2025,Program Management,0343 Management Analyst,GS-11,230,65,9,2,79,Selected,Temporary Surge,Hybrid,28.26,13.85,22.22
+REQ-1124,FY2024,Finance,0201 HR Specialist,GS-11,40,20,7,1,75,Interview,New Position,"Washington, DC",50.0,35.0,14.29
+REQ-1125,FY2025,Program Management,0301 Program Analyst,GS-11,236,151,56,11,46,Review,Backfill,"Washington, DC",63.98,37.09,19.64
+REQ-1126,FY2025,Policy,0301 Program Analyst,GS-11,278,133,18,3,45,Review,Backfill,Hybrid,47.84,13.53,16.67
+REQ-1127,FY2026,Operations,0301 Program Analyst,GS-9,136,61,20,2,113,Cancelled,Backfill,Remote,44.85,32.79,10.0
+REQ-1128,FY2025,Operations,2210 IT Specialist,GS-12,200,105,33,3,87,Review,Temporary Surge,"Washington, DC",52.5,31.43,9.09
+REQ-1129,FY2025,Human Resources,0301 Program Analyst,GS-11,191,61,14,4,91,Interview,Temporary Surge,"Baltimore, MD",31.94,22.95,28.57
+REQ-1130,FY2026,Operations,2210 IT Specialist,GS-9,114,63,25,2,41,Review,Backfill,"Washington, DC",55.26,39.68,8.0
+REQ-1131,FY2026,IT Services,2210 IT Specialist,GS-13,191,82,10,1,103,Review,Temporary Surge,"Arlington, VA",42.93,12.2,10.0
+REQ-1132,FY2025,Operations,1515 Operations Research Analyst,GS-12,44,18,8,1,67,Open,New Position,Remote,40.91,44.44,12.5
+REQ-1133,FY2024,Human Resources,2210 IT Specialist,GS-13,39,11,4,1,119,Review,New Position,Remote,28.21,36.36,25.0
+REQ-1134,FY2024,Operations,0201 HR Specialist,GS-13,295,189,29,4,111,Interview,Temporary Surge,"Washington, DC",64.07,15.34,13.79
+REQ-1135,FY2024,Finance,1515 Operations Research Analyst,GS-12,55,19,6,1,85,Selected,Backfill,"Baltimore, MD",34.55,31.58,16.67
+REQ-1136,FY2025,Human Resources,0201 HR Specialist,GS-12,155,101,45,5,42,Interview,New Position,"Arlington, VA",65.16,44.55,11.11
+REQ-1137,FY2026,IT Services,1515 Operations Research Analyst,GS-11,209,127,43,3,83,Interview,Backfill,"Arlington, VA",60.77,33.86,6.98
+REQ-1138,FY2024,Operations,1515 Operations Research Analyst,GS-11,328,102,45,12,77,Interview,Temporary Surge,Hybrid,31.1,44.12,26.67
+REQ-1139,FY2025,Operations,1515 Operations Research Analyst,GS-11,138,82,18,4,102,Selected,Backfill,"Washington, DC",59.42,21.95,22.22
+REQ-1140,FY2025,Program Management,0501 Financial Analyst,GS-12,320,148,53,5,53,Selected,Backfill,"Baltimore, MD",46.25,35.81,9.43
+REQ-1141,FY2026,Finance,0201 HR Specialist,GS-11,112,63,10,1,132,Cancelled,Temporary Surge,"Arlington, VA",56.25,15.87,10.0
+REQ-1142,FY2026,Program Management,1515 Operations Research Analyst,GS-12,153,80,19,4,96,Open,New Position,Remote,52.29,23.75,21.05
+REQ-1143,FY2024,Finance,0501 Financial Analyst,GS-11,286,126,22,2,87,Selected,Temporary Surge,"Arlington, VA",44.06,17.46,9.09
+REQ-1144,FY2025,Program Management,0301 Program Analyst,GS-13,139,38,16,5,113,Interview,Backfill,"Washington, DC",27.34,42.11,31.25
+REQ-1145,FY2026,IT Services,0201 HR Specialist,GS-9,346,188,46,6,113,Selected,Temporary Surge,"Washington, DC",54.34,24.47,13.04
+REQ-1146,FY2025,Policy,0343 Management Analyst,GS-13,266,115,47,13,66,Interview,Temporary Surge,"Washington, DC",43.23,40.87,27.66
+REQ-1147,FY2025,Finance,0201 HR Specialist,GS-9,132,48,12,2,71,Interview,Temporary Surge,Hybrid,36.36,25.0,16.67
+REQ-1148,FY2026,Policy,0201 HR Specialist,GS-11,107,47,16,1,99,Open,Backfill,Remote,43.93,34.04,6.25
+REQ-1149,FY2025,Human Resources,2210 IT Specialist,GS-12,200,86,15,3,126,Selected,Temporary Surge,"Arlington, VA",43.0,17.44,20.0
+REQ-1150,FY2025,Policy,0201 HR Specialist,GS-11,98,28,10,2,45,Interview,Backfill,Hybrid,28.57,35.71,20.0
+REQ-1151,FY2024,Operations,0301 Program Analyst,GS-9,229,61,11,1,119,Selected,Backfill,"Baltimore, MD",26.64,18.03,9.09
+REQ-1152,FY2024,Operations,0343 Management Analyst,GS-12,193,105,46,6,58,Open,New Position,Remote,54.4,43.81,13.04
+REQ-1153,FY2026,Policy,0501 Financial Analyst,GS-13,289,171,51,3,98,Review,Backfill,Remote,59.17,29.82,5.88
+REQ-1154,FY2026,Operations,0343 Management Analyst,GS-11,75,37,5,1,70,Interview,New Position,"Washington, DC",49.33,13.51,20.0
+REQ-1155,FY2024,Human Resources,0343 Management Analyst,GS-13,213,56,22,5,112,Review,New Position,"Arlington, VA",26.29,39.29,22.73
+REQ-1156,FY2025,Policy,0201 HR Specialist,GS-12,180,89,31,6,135,Interview,New Position,"Washington, DC",49.44,34.83,19.35
+REQ-1157,FY2026,Human Resources,2210 IT Specialist,GS-13,188,71,30,8,132,Review,New Position,"Washington, DC",37.77,42.25,26.67
+REQ-1158,FY2024,IT Services,1515 Operations Research Analyst,GS-9,175,67,17,2,61,Interview,Backfill,Hybrid,38.29,25.37,11.76
+REQ-1159,FY2025,Operations,0201 HR Specialist,GS-13,182,77,31,4,108,Cancelled,Temporary Surge,Remote,42.31,40.26,12.9
+REQ-1160,FY2024,Human Resources,0343 Management Analyst,GS-13,287,165,68,7,72,Cancelled,Temporary Surge,"Washington, DC",57.49,41.21,10.29
+REQ-1161,FY2026,Operations,0343 Management Analyst,GS-11,141,80,36,6,77,Review,Temporary Surge,"Baltimore, MD",56.74,45.0,16.67
+REQ-1162,FY2024,Policy,2210 IT Specialist,GS-12,165,93,21,4,76,Selected,Backfill,Hybrid,56.36,22.58,19.05
+REQ-1163,FY2025,Program Management,0343 Management Analyst,GS-11,350,222,88,9,78,Selected,Backfill,"Arlington, VA",63.43,39.64,10.23
+REQ-1164,FY2026,Human Resources,0201 HR Specialist,GS-12,270,164,49,7,135,Selected,Temporary Surge,"Baltimore, MD",60.74,29.88,14.29
+REQ-1165,FY2024,Finance,0343 Management Analyst,GS-12,319,148,28,6,80,Open,Backfill,Hybrid,46.39,18.92,21.43
+REQ-1166,FY2026,Finance,1515 Operations Research Analyst,GS-9,119,57,14,3,135,Selected,Backfill,Remote,47.9,24.56,21.43
+REQ-1167,FY2025,Operations,0343 Management Analyst,GS-12,79,35,7,1,73,Review,New Position,"Arlington, VA",44.3,20.0,14.29
+REQ-1168,FY2025,Program Management,1515 Operations Research Analyst,GS-12,82,35,4,1,99,Open,Backfill,"Arlington, VA",42.68,11.43,25.0
+REQ-1169,FY2024,Program Management,0501 Financial Analyst,GS-9,85,49,21,5,51,Review,New Position,"Baltimore, MD",57.65,42.86,23.81
+REQ-1170,FY2024,IT Services,1515 Operations Research Analyst,GS-12,57,30,9,1,94,Selected,New Position,Hybrid,52.63,30.0,11.11
+REQ-1171,FY2025,Program Management,1515 Operations Research Analyst,GS-9,194,98,19,2,71,Review,Backfill,"Arlington, VA",50.52,19.39,10.53
+REQ-1172,FY2026,Finance,0201 HR Specialist,GS-12,115,41,5,1,100,Open,Backfill,"Arlington, VA",35.65,12.2,20.0
+REQ-1173,FY2024,Operations,0343 Management Analyst,GS-13,180,86,15,2,78,Interview,Temporary Surge,"Washington, DC",47.78,17.44,13.33
+REQ-1174,FY2026,Policy,1515 Operations Research Analyst,GS-13,89,36,5,1,125,Interview,Temporary Surge,"Baltimore, MD",40.45,13.89,20.0
+REQ-1175,FY2025,IT Services,0301 Program Analyst,GS-9,194,74,14,3,103,Open,Temporary Surge,Remote,38.14,18.92,21.43
+REQ-1176,FY2024,Operations,0201 HR Specialist,GS-12,84,36,12,3,94,Interview,Backfill,Remote,42.86,33.33,25.0
+REQ-1177,FY2024,Human Resources,0501 Financial Analyst,GS-9,128,68,23,6,76,Interview,Backfill,Remote,53.12,33.82,26.09
+REQ-1178,FY2024,Program Management,1515 Operations Research Analyst,GS-9,271,159,34,5,108,Open,Backfill,Hybrid,58.67,21.38,14.71
+REQ-1179,FY2024,IT Services,0301 Program Analyst,GS-13,71,40,12,2,87,Review,Backfill,"Washington, DC",56.34,30.0,16.67
+REQ-1180,FY2025,IT Services,1515 Operations Research Analyst,GS-11,209,70,24,4,90,Interview,New Position,"Washington, DC",33.49,34.29,16.67
+REQ-1181,FY2025,Operations,2210 IT Specialist,GS-13,328,192,30,6,76,Interview,New Position,Hybrid,58.54,15.62,20.0
+REQ-1182,FY2026,Human Resources,0343 Management Analyst,GS-11,90,47,15,4,76,Interview,New Position,Hybrid,52.22,31.91,26.67
+REQ-1183,FY2026,Program Management,0301 Program Analyst,GS-11,35,19,6,1,72,Review,Temporary Surge,"Baltimore, MD",54.29,31.58,16.67
+REQ-1184,FY2025,Human Resources,0201 HR Specialist,GS-9,188,90,38,5,90,Selected,Temporary Surge,Hybrid,47.87,42.22,13.16
+REQ-1185,FY2024,Policy,0201 HR Specialist,GS-12,241,142,57,4,105,Cancelled,New Position,"Baltimore, MD",58.92,40.14,7.02
+REQ-1186,FY2025,Program Management,0501 Financial Analyst,GS-11,50,17,6,1,75,Selected,Temporary Surge,"Arlington, VA",34.0,35.29,16.67
+REQ-1187,FY2024,Finance,1515 Operations Research Analyst,GS-11,278,85,26,7,81,Selected,New Position,"Washington, DC",30.58,30.59,26.92
+REQ-1188,FY2024,Human Resources,0301 Program Analyst,GS-13,71,36,6,2,119,Interview,Backfill,Hybrid,50.7,16.67,33.33
+REQ-1189,FY2024,Operations,0501 Financial Analyst,GS-9,252,126,34,5,92,Review,Temporary Surge,Remote,50.0,26.98,14.71
+REQ-1190,FY2024,IT Services,0501 Financial Analyst,GS-12,156,83,17,5,108,Review,New Position,Hybrid,53.21,20.48,29.41
+REQ-1191,FY2025,Program Management,0201 HR Specialist,GS-9,281,178,26,6,102,Cancelled,Temporary Surge,Hybrid,63.35,14.61,23.08
+REQ-1192,FY2026,IT Services,0201 HR Specialist,GS-12,80,28,9,2,120,Open,Temporary Surge,"Washington, DC",35.0,32.14,22.22
+REQ-1193,FY2025,Program Management,2210 IT Specialist,GS-12,210,97,12,2,95,Interview,Backfill,"Arlington, VA",46.19,12.37,16.67
+REQ-1194,FY2024,Policy,0501 Financial Analyst,GS-11,53,28,9,1,135,Interview,Temporary Surge,"Washington, DC",52.83,32.14,11.11
+REQ-1195,FY2024,Finance,2210 IT Specialist,GS-11,184,106,35,4,45,Open,Temporary Surge,"Baltimore, MD",57.61,33.02,11.43
+REQ-1196,FY2026,Operations,1515 Operations Research Analyst,GS-13,175,104,13,1,57,Selected,Backfill,"Arlington, VA",59.43,12.5,7.69
+REQ-1197,FY2025,Human Resources,0301 Program Analyst,GS-11,168,95,19,2,102,Selected,Backfill,Remote,56.55,20.0,10.53
+REQ-1198,FY2025,Human Resources,1515 Operations Research Analyst,GS-12,231,80,21,4,61,Interview,New Position,"Washington, DC",34.63,26.25,19.05
+REQ-1199,FY2024,Program Management,1515 Operations Research Analyst,GS-13,120,52,14,2,131,Selected,Backfill,"Baltimore, MD",43.33,26.92,14.29
+REQ-1200,FY2025,IT Services,1515 Operations Research Analyst,GS-9,109,50,13,2,92,Review,New Position,Hybrid,45.87,26.0,15.38
+REQ-1201,FY2025,Human Resources,2210 IT Specialist,GS-13,216,137,36,10,69,Review,Backfill,"Arlington, VA",63.43,26.28,27.78
+REQ-1202,FY2024,Policy,0343 Management Analyst,GS-9,336,188,55,12,58,Review,New Position,Remote,55.95,29.26,21.82
+REQ-1203,FY2024,Human Resources,0343 Management Analyst,GS-9,85,39,14,2,127,Review,New Position,Hybrid,45.88,35.9,14.29
+REQ-1204,FY2026,Operations,0501 Financial Analyst,GS-11,146,92,30,7,50,Open,New Position,"Arlington, VA",63.01,32.61,23.33
+REQ-1205,FY2025,Program Management,1515 Operations Research Analyst,GS-12,164,60,20,1,93,Selected,Backfill,"Arlington, VA",36.59,33.33,5.0
+REQ-1206,FY2025,Operations,0501 Financial Analyst,GS-9,72,26,4,1,42,Review,Backfill,"Arlington, VA",36.11,15.38,25.0
+REQ-1207,FY2024,IT Services,1515 Operations Research Analyst,GS-9,347,141,47,4,104,Selected,Backfill,"Baltimore, MD",40.63,33.33,8.51
+REQ-1208,FY2025,Operations,1515 Operations Research Analyst,GS-9,87,23,3,1,134,Interview,New Position,Remote,26.44,13.04,33.33
+REQ-1209,FY2025,Program Management,0501 Financial Analyst,GS-13,171,53,12,2,35,Interview,Temporary Surge,"Washington, DC",30.99,22.64,16.67
+REQ-1210,FY2026,IT Services,2210 IT Specialist,GS-12,311,106,26,6,134,Interview,Temporary Surge,"Baltimore, MD",34.08,24.53,23.08
+REQ-1211,FY2025,Human Resources,0501 Financial Analyst,GS-12,240,65,29,6,81,Interview,Temporary Surge,"Arlington, VA",27.08,44.62,20.69
+REQ-1212,FY2024,Policy,1515 Operations Research Analyst,GS-12,125,59,26,6,73,Selected,Backfill,"Washington, DC",47.2,44.07,23.08
+REQ-1213,FY2024,Program Management,0501 Financial Analyst,GS-9,259,141,23,2,127,Cancelled,Temporary Surge,"Baltimore, MD",54.44,16.31,8.7
+REQ-1214,FY2024,Finance,1515 Operations Research Analyst,GS-9,290,134,53,9,37,Open,Backfill,"Washington, DC",46.21,39.55,16.98
+REQ-1215,FY2026,Operations,1515 Operations Research Analyst,GS-11,143,82,28,5,121,Selected,New Position,"Washington, DC",57.34,34.15,17.86
+REQ-1216,FY2026,Policy,0301 Program Analyst,GS-9,107,48,6,2,114,Open,New Position,"Washington, DC",44.86,12.5,33.33
+REQ-1217,FY2024,Human Resources,0501 Financial Analyst,GS-11,192,111,17,3,110,Open,New Position,"Arlington, VA",57.81,15.32,17.65
+REQ-1218,FY2026,IT Services,0201 HR Specialist,GS-11,253,97,38,9,86,Review,Backfill,"Arlington, VA",38.34,39.18,23.68
+REQ-1219,FY2025,IT Services,0301 Program Analyst,GS-13,58,28,6,1,88,Open,New Position,Hybrid,48.28,21.43,16.67
+REQ-1220,FY2024,Program Management,0343 Management Analyst,GS-9,55,17,6,1,83,Selected,New Position,"Arlington, VA",30.91,35.29,16.67
+REQ-1221,FY2025,Policy,0301 Program Analyst,GS-11,80,43,14,2,123,Selected,New Position,"Baltimore, MD",53.75,32.56,14.29
+REQ-1222,FY2024,Policy,0501 Financial Analyst,GS-9,302,130,26,2,123,Open,Temporary Surge,"Baltimore, MD",43.05,20.0,7.69
+REQ-1223,FY2026,Finance,0201 HR Specialist,GS-11,213,89,27,3,102,Cancelled,Backfill,"Arlington, VA",41.78,30.34,11.11
+REQ-1224,FY2024,Policy,0343 Management Analyst,GS-9,176,48,8,1,95,Interview,Temporary Surge,"Baltimore, MD",27.27,16.67,12.5
+REQ-1225,FY2024,Policy,0343 Management Analyst,GS-11,180,60,12,2,132,Interview,New Position,"Washington, DC",33.33,20.0,16.67
+REQ-1226,FY2025,Program Management,0301 Program Analyst,GS-12,283,129,18,2,91,Interview,New Position,"Washington, DC",45.58,13.95,11.11
+REQ-1227,FY2024,Human Resources,0501 Financial Analyst,GS-13,201,69,14,2,60,Review,New Position,Remote,34.33,20.29,14.29
+REQ-1228,FY2026,Operations,1515 Operations Research Analyst,GS-12,109,37,12,1,82,Open,Backfill,"Arlington, VA",33.94,32.43,8.33
+REQ-1229,FY2025,Program Management,0501 Financial Analyst,GS-11,206,62,22,1,52,Open,Backfill,"Arlington, VA",30.1,35.48,4.55
+REQ-1230,FY2026,IT Services,0301 Program Analyst,GS-9,186,91,35,7,113,Selected,Backfill,Hybrid,48.92,38.46,20.0
+REQ-1231,FY2026,Program Management,1515 Operations Research Analyst,GS-11,285,170,33,6,94,Review,New Position,"Baltimore, MD",59.65,19.41,18.18
+REQ-1232,FY2024,Program Management,0343 Management Analyst,GS-9,257,124,51,10,54,Selected,Backfill,Hybrid,48.25,41.13,19.61
+REQ-1233,FY2025,Program Management,0301 Program Analyst,GS-9,52,22,6,2,124,Selected,Temporary Surge,"Washington, DC",42.31,27.27,33.33
+REQ-1234,FY2024,Program Management,1515 Operations Research Analyst,GS-12,243,153,25,3,117,Cancelled,New Position,Remote,62.96,16.34,12.0
+REQ-1235,FY2026,Program Management,0301 Program Analyst,GS-12,327,179,23,4,133,Open,Temporary Surge,Remote,54.74,12.85,17.39
+REQ-1236,FY2025,Program Management,2210 IT Specialist,GS-11,35,21,3,1,77,Interview,Temporary Surge,"Washington, DC",60.0,14.29,33.33
+REQ-1237,FY2024,Human Resources,0501 Financial Analyst,GS-12,206,112,15,4,121,Review,Backfill,Hybrid,54.37,13.39,26.67
+REQ-1238,FY2024,Operations,2210 IT Specialist,GS-11,55,22,4,1,43,Interview,Temporary Surge,"Washington, DC",40.0,18.18,25.0
+REQ-1239,FY2026,Operations,2210 IT Specialist,GS-12,279,152,56,15,124,Review,Backfill,Hybrid,54.48,36.84,26.79
+REQ-1240,FY2024,Program Management,1515 Operations Research Analyst,GS-12,251,91,13,2,97,Interview,Backfill,Hybrid,36.25,14.29,15.38
+REQ-1241,FY2025,Human Resources,0343 Management Analyst,GS-13,223,127,55,14,43,Review,New Position,"Baltimore, MD",56.95,43.31,25.45
+REQ-1242,FY2024,IT Services,1515 Operations Research Analyst,GS-9,74,22,5,1,98,Open,Backfill,Remote,29.73,22.73,20.0
+REQ-1243,FY2025,Operations,0343 Management Analyst,GS-9,312,194,54,8,129,Selected,New Position,Hybrid,62.18,27.84,14.81
+REQ-1244,FY2026,Policy,0201 HR Specialist,GS-13,206,85,20,4,76,Interview,Backfill,"Baltimore, MD",41.26,23.53,20.0
+REQ-1245,FY2025,Finance,0343 Management Analyst,GS-11,325,98,37,3,68,Review,Backfill,"Baltimore, MD",30.15,37.76,8.11
+REQ-1246,FY2024,Policy,1515 Operations Research Analyst,GS-11,268,170,55,5,103,Review,New Position,"Arlington, VA",63.43,32.35,9.09
+REQ-1247,FY2026,Human Resources,1515 Operations Research Analyst,GS-12,94,25,6,1,58,Review,Backfill,"Arlington, VA",26.6,24.0,16.67
+REQ-1248,FY2025,Program Management,0301 Program Analyst,GS-13,225,97,43,8,50,Selected,Backfill,"Arlington, VA",43.11,44.33,18.6
+REQ-1249,FY2025,Finance,0201 HR Specialist,GS-11,37,24,7,1,117,Selected,Temporary Surge,Remote,64.86,29.17,14.29
+REQ-1250,FY2024,Finance,0343 Management Analyst,GS-13,208,109,39,11,52,Selected,Temporary Surge,"Arlington, VA",52.4,35.78,28.21
+REQ-1251,FY2024,Finance,0301 Program Analyst,GS-9,263,103,23,5,59,Interview,New Position,Hybrid,39.16,22.33,21.74
+REQ-1252,FY2025,IT Services,0201 HR Specialist,GS-9,263,137,60,18,85,Review,Temporary Surge,"Baltimore, MD",52.09,43.8,30.0
+REQ-1253,FY2025,Finance,2210 IT Specialist,GS-13,238,74,30,4,82,Open,Temporary Surge,"Washington, DC",31.09,40.54,13.33
+REQ-1254,FY2026,Program Management,1515 Operations Research Analyst,GS-13,145,78,21,6,91,Review,New Position,Hybrid,53.79,26.92,28.57
+REQ-1255,FY2024,IT Services,0501 Financial Analyst,GS-9,341,97,18,3,102,Cancelled,New Position,Remote,28.45,18.56,16.67
+REQ-1256,FY2024,Operations,0501 Financial Analyst,GS-12,174,72,22,5,131,Selected,Temporary Surge,Remote,41.38,30.56,22.73
+REQ-1257,FY2025,Operations,0343 Management Analyst,GS-9,56,32,7,1,98,Interview,New Position,"Baltimore, MD",57.14,21.88,14.29
+REQ-1258,FY2025,Program Management,0301 Program Analyst,GS-13,188,119,47,8,118,Selected,Temporary Surge,"Arlington, VA",63.3,39.5,17.02
+REQ-1259,FY2025,IT Services,0501 Financial Analyst,GS-13,49,15,3,1,43,Interview,Backfill,Remote,30.61,20.0,33.33
+REQ-1260,FY2024,Operations,2210 IT Specialist,GS-13,96,38,14,1,68,Open,Temporary Surge,"Arlington, VA",39.58,36.84,7.14
+REQ-1261,FY2025,IT Services,1515 Operations Research Analyst,GS-9,217,68,14,2,80,Open,Temporary Surge,"Arlington, VA",31.34,20.59,14.29
+REQ-1262,FY2026,Finance,2210 IT Specialist,GS-12,128,71,23,2,76,Selected,New Position,Hybrid,55.47,32.39,8.7
+REQ-1263,FY2025,Program Management,2210 IT Specialist,GS-11,331,129,22,2,71,Review,New Position,"Arlington, VA",38.97,17.05,9.09
+REQ-1264,FY2026,IT Services,1515 Operations Research Analyst,GS-9,114,51,20,5,106,Interview,Backfill,Remote,44.74,39.22,25.0
+REQ-1265,FY2025,IT Services,0201 HR Specialist,GS-12,74,22,4,1,123,Review,New Position,"Baltimore, MD",29.73,18.18,25.0
+REQ-1266,FY2024,Operations,0301 Program Analyst,GS-9,49,27,4,1,123,Review,Backfill,"Washington, DC",55.1,14.81,25.0
+REQ-1267,FY2026,IT Services,0201 HR Specialist,GS-9,74,19,5,1,60,Open,Backfill,"Washington, DC",25.68,26.32,20.0
+REQ-1268,FY2026,Operations,0201 HR Specialist,GS-11,164,44,10,1,47,Selected,New Position,"Baltimore, MD",26.83,22.73,10.0
+REQ-1269,FY2024,IT Services,1515 Operations Research Analyst,GS-11,49,14,6,2,109,Review,Temporary Surge,Hybrid,28.57,42.86,33.33
+REQ-1270,FY2024,IT Services,0343 Management Analyst,GS-9,69,20,6,1,59,Cancelled,New Position,Hybrid,28.99,30.0,16.67
+REQ-1271,FY2025,Program Management,0501 Financial Analyst,GS-11,278,110,35,6,48,Review,Temporary Surge,"Arlington, VA",39.57,31.82,17.14
+REQ-1272,FY2025,Finance,1515 Operations Research Analyst,GS-12,243,72,32,3,49,Interview,Temporary Surge,"Washington, DC",29.63,44.44,9.38
+REQ-1273,FY2026,Program Management,0301 Program Analyst,GS-13,77,29,5,1,111,Selected,Backfill,Remote,37.66,17.24,20.0
+REQ-1274,FY2024,Policy,0501 Financial Analyst,GS-9,131,78,32,8,121,Review,Backfill,Remote,59.54,41.03,25.0
+REQ-1275,FY2024,Policy,0301 Program Analyst,GS-9,302,155,23,2,86,Selected,Backfill,"Arlington, VA",51.32,14.84,8.7
+REQ-1276,FY2026,Program Management,2210 IT Specialist,GS-12,208,69,27,4,64,Selected,Temporary Surge,Remote,33.17,39.13,14.81
+REQ-1277,FY2024,Program Management,0343 Management Analyst,GS-9,217,96,31,5,97,Interview,Backfill,Remote,44.24,32.29,16.13
+REQ-1278,FY2024,Program Management,1515 Operations Research Analyst,GS-9,289,99,43,2,129,Open,New Position,Remote,34.26,43.43,4.65
+REQ-1279,FY2026,IT Services,0501 Financial Analyst,GS-13,344,179,31,6,47,Selected,New Position,"Baltimore, MD",52.03,17.32,19.35
+REQ-1280,FY2024,Program Management,0343 Management Analyst,GS-13,289,129,27,4,104,Interview,Backfill,"Baltimore, MD",44.64,20.93,14.81
+REQ-1281,FY2025,Policy,0301 Program Analyst,GS-13,227,97,13,1,119,Selected,Backfill,"Arlington, VA",42.73,13.4,7.69
+REQ-1282,FY2026,Policy,0201 HR Specialist,GS-13,194,104,29,2,121,Interview,Backfill,Hybrid,53.61,27.88,6.9
+REQ-1283,FY2025,Finance,2210 IT Specialist,GS-9,115,52,13,2,83,Interview,New Position,Hybrid,45.22,25.0,15.38
+REQ-1284,FY2026,Finance,0501 Financial Analyst,GS-9,58,17,4,1,109,Open,Backfill,"Baltimore, MD",29.31,23.53,25.0
+REQ-1285,FY2026,Human Resources,1515 Operations Research Analyst,GS-9,217,90,12,1,65,Selected,Backfill,"Washington, DC",41.47,13.33,8.33
+REQ-1286,FY2026,IT Services,0501 Financial Analyst,GS-12,207,66,20,1,119,Selected,New Position,Remote,31.88,30.3,5.0
+REQ-1287,FY2025,Human Resources,1515 Operations Research Analyst,GS-11,336,87,20,4,76,Interview,Backfill,Remote,25.89,22.99,20.0
+REQ-1288,FY2025,Operations,0501 Financial Analyst,GS-9,292,168,57,5,73,Review,Temporary Surge,"Arlington, VA",57.53,33.93,8.77
+REQ-1289,FY2024,Policy,0201 HR Specialist,GS-9,182,65,14,3,63,Interview,Temporary Surge,"Baltimore, MD",35.71,21.54,21.43
+REQ-1290,FY2024,Policy,2210 IT Specialist,GS-12,174,48,18,3,61,Review,Backfill,Hybrid,27.59,37.5,16.67
+REQ-1291,FY2026,Operations,0343 Management Analyst,GS-11,195,64,16,3,93,Selected,Temporary Surge,Remote,32.82,25.0,18.75
+REQ-1292,FY2026,IT Services,0501 Financial Analyst,GS-9,144,74,29,8,69,Selected,Temporary Surge,"Arlington, VA",51.39,39.19,27.59
+REQ-1293,FY2025,Program Management,2210 IT Specialist,GS-9,221,96,19,4,132,Review,Temporary Surge,"Arlington, VA",43.44,19.79,21.05
+REQ-1294,FY2025,Operations,0343 Management Analyst,GS-11,246,88,19,2,122,Interview,New Position,"Washington, DC",35.77,21.59,10.53
+REQ-1295,FY2024,Operations,0301 Program Analyst,GS-12,160,91,20,3,90,Review,New Position,"Washington, DC",56.88,21.98,15.0
+REQ-1296,FY2026,Program Management,0343 Management Analyst,GS-9,167,94,20,4,117,Selected,New Position,"Baltimore, MD",56.29,21.28,20.0
+REQ-1297,FY2024,Program Management,1515 Operations Research Analyst,GS-11,343,127,18,5,81,Selected,New Position,"Washington, DC",37.03,14.17,27.78
+REQ-1298,FY2026,Finance,0501 Financial Analyst,GS-9,327,178,76,14,109,Selected,New Position,Hybrid,54.43,42.7,18.42
+REQ-1299,FY2026,Policy,0301 Program Analyst,GS-13,97,54,12,3,129,Review,New Position,"Arlington, VA",55.67,22.22,25.0
+REQ-1300,FY2024,Program Management,0201 HR Specialist,GS-12,89,28,12,2,67,Selected,Temporary Surge,"Washington, DC",31.46,42.86,16.67
+REQ-1301,FY2024,Finance,0501 Financial Analyst,GS-12,197,92,25,3,70,Selected,Backfill,"Washington, DC",46.7,27.17,12.0
+REQ-1302,FY2026,Operations,2210 IT Specialist,GS-13,345,91,33,8,41,Selected,Backfill,"Baltimore, MD",26.38,36.26,24.24
+REQ-1303,FY2025,Finance,2210 IT Specialist,GS-9,97,45,9,1,36,Selected,New Position,"Baltimore, MD",46.39,20.0,11.11
+REQ-1304,FY2026,Program Management,0343 Management Analyst,GS-12,142,84,15,2,75,Selected,New Position,Remote,59.15,17.86,13.33
+REQ-1305,FY2024,Operations,1515 Operations Research Analyst,GS-12,276,150,64,9,89,Selected,Temporary Surge,"Washington, DC",54.35,42.67,14.06
+REQ-1306,FY2024,Human Resources,1515 Operations Research Analyst,GS-11,215,90,32,6,76,Interview,Temporary Surge,Remote,41.86,35.56,18.75
+REQ-1307,FY2024,Operations,0201 HR Specialist,GS-11,104,26,5,1,108,Open,Temporary Surge,Remote,25.0,19.23,20.0
+REQ-1308,FY2025,Finance,0301 Program Analyst,GS-9,198,85,35,3,57,Selected,Backfill,"Baltimore, MD",42.93,41.18,8.57
+REQ-1309,FY2024,IT Services,1515 Operations Research Analyst,GS-11,128,52,13,3,108,Review,New Position,Remote,40.62,25.0,23.08
+REQ-1310,FY2025,Operations,0343 Management Analyst,GS-12,136,48,19,1,114,Review,New Position,Hybrid,35.29,39.58,5.26
+REQ-1311,FY2025,Human Resources,0301 Program Analyst,GS-11,95,24,7,2,93,Selected,New Position,"Baltimore, MD",25.26,29.17,28.57
+REQ-1312,FY2025,Policy,1515 Operations Research Analyst,GS-11,182,100,25,4,61,Interview,Backfill,"Arlington, VA",54.95,25.0,16.0
+REQ-1313,FY2024,Finance,0201 HR Specialist,GS-13,244,138,18,5,65,Interview,New Position,"Washington, DC",56.56,13.04,27.78
+REQ-1314,FY2025,Policy,0501 Financial Analyst,GS-12,275,83,19,4,122,Review,New Position,"Washington, DC",30.18,22.89,21.05
+REQ-1315,FY2026,IT Services,1515 Operations Research Analyst,GS-9,320,88,20,2,80,Cancelled,New Position,"Baltimore, MD",27.5,22.73,10.0
+REQ-1316,FY2026,Human Resources,0201 HR Specialist,GS-11,293,146,32,5,82,Open,Backfill,"Arlington, VA",49.83,21.92,15.62
+REQ-1317,FY2026,Program Management,0301 Program Analyst,GS-12,292,131,30,5,46,Review,New Position,"Baltimore, MD",44.86,22.9,16.67
+REQ-1318,FY2025,Finance,2210 IT Specialist,GS-12,57,37,11,3,70,Selected,Temporary Surge,"Baltimore, MD",64.91,29.73,27.27
+REQ-1319,FY2026,Policy,1515 Operations Research Analyst,GS-13,258,157,35,10,132,Cancelled,New Position,"Arlington, VA",60.85,22.29,28.57
+REQ-1320,FY2025,Human Resources,0501 Financial Analyst,GS-9,111,30,5,1,55,Selected,Backfill,"Baltimore, MD",27.03,16.67,20.0
+REQ-1321,FY2024,Operations,2210 IT Specialist,GS-11,322,143,40,10,53,Open,New Position,Hybrid,44.41,27.97,25.0
+REQ-1322,FY2026,Operations,0501 Financial Analyst,GS-9,174,83,28,3,35,Interview,New Position,Remote,47.7,33.73,10.71
+REQ-1323,FY2025,IT Services,0343 Management Analyst,GS-12,83,50,6,1,122,Open,New Position,"Washington, DC",60.24,12.0,16.67
+REQ-1324,FY2026,Policy,0343 Management Analyst,GS-12,76,33,12,2,115,Cancelled,New Position,Hybrid,43.42,36.36,16.67
+REQ-1325,FY2024,Policy,2210 IT Specialist,GS-12,266,101,37,9,107,Open,New Position,"Washington, DC",37.97,36.63,24.32
+REQ-1326,FY2025,Human Resources,0343 Management Analyst,GS-11,315,199,49,7,57,Review,New Position,Remote,63.17,24.62,14.29
+REQ-1327,FY2025,Policy,2210 IT Specialist,GS-11,241,88,32,7,50,Review,Backfill,"Washington, DC",36.51,36.36,21.88
+REQ-1328,FY2026,Program Management,0343 Management Analyst,GS-13,223,101,28,8,95,Review,Backfill,Hybrid,45.29,27.72,28.57
+REQ-1329,FY2026,Operations,1515 Operations Research Analyst,GS-11,130,55,14,1,78,Cancelled,Backfill,Hybrid,42.31,25.45,7.14
+REQ-1330,FY2024,Policy,2210 IT Specialist,GS-11,303,86,24,2,96,Review,Temporary Surge,Remote,28.38,27.91,8.33
+REQ-1331,FY2025,Program Management,0343 Management Analyst,GS-13,186,89,27,8,100,Open,Temporary Surge,Hybrid,47.85,30.34,29.63
+REQ-1332,FY2026,Program Management,0301 Program Analyst,GS-11,164,64,20,5,37,Open,Backfill,"Washington, DC",39.02,31.25,25.0
+REQ-1333,FY2026,Program Management,0201 HR Specialist,GS-12,77,32,11,1,127,Interview,Backfill,"Arlington, VA",41.56,34.38,9.09
+REQ-1334,FY2026,Human Resources,0343 Management Analyst,GS-13,143,46,17,3,121,Open,New Position,"Washington, DC",32.17,36.96,17.65
+REQ-1335,FY2026,Policy,0501 Financial Analyst,GS-12,122,63,17,3,119,Cancelled,Temporary Surge,Hybrid,51.64,26.98,17.65
+REQ-1336,FY2024,Human Resources,0301 Program Analyst,GS-9,219,115,50,11,73,Open,New Position,"Arlington, VA",52.51,43.48,22.0
+REQ-1337,FY2026,Operations,0343 Management Analyst,GS-12,48,16,5,1,90,Selected,Backfill,"Arlington, VA",33.33,31.25,20.0
+REQ-1338,FY2025,Program Management,0343 Management Analyst,GS-13,277,116,18,5,129,Selected,Temporary Surge,"Arlington, VA",41.88,15.52,27.78
+REQ-1339,FY2026,Policy,0501 Financial Analyst,GS-13,138,51,20,3,77,Open,Backfill,Hybrid,36.96,39.22,15.0
+REQ-1340,FY2026,Policy,0201 HR Specialist,GS-13,340,184,83,5,86,Interview,New Position,"Washington, DC",54.12,45.11,6.02
+REQ-1341,FY2025,Program Management,0343 Management Analyst,GS-13,305,79,25,5,69,Selected,Temporary Surge,"Baltimore, MD",25.9,31.65,20.0
+REQ-1342,FY2025,Operations,0201 HR Specialist,GS-11,264,140,18,2,59,Interview,Temporary Surge,"Baltimore, MD",53.03,12.86,11.11
+REQ-1343,FY2025,Program Management,1515 Operations Research Analyst,GS-12,343,203,72,12,72,Selected,Backfill,"Arlington, VA",59.18,35.47,16.67
+REQ-1344,FY2024,IT Services,0501 Financial Analyst,GS-9,141,51,19,4,51,Open,Backfill,Remote,36.17,37.25,21.05
+REQ-1345,FY2025,Policy,0301 Program Analyst,GS-11,190,65,20,6,80,Selected,Temporary Surge,"Washington, DC",34.21,30.77,30.0
+REQ-1346,FY2025,Finance,0343 Management Analyst,GS-12,67,26,4,1,97,Review,New Position,Hybrid,38.81,15.38,25.0
+REQ-1347,FY2024,Human Resources,0201 HR Specialist,GS-9,344,178,63,18,91,Selected,Temporary Surge,"Washington, DC",51.74,35.39,28.57
+REQ-1348,FY2025,Policy,0501 Financial Analyst,GS-13,294,86,28,7,81,Open,Temporary Surge,"Washington, DC",29.25,32.56,25.0
+REQ-1349,FY2025,Human Resources,0301 Program Analyst,GS-13,113,57,13,1,60,Interview,Backfill,"Baltimore, MD",50.44,22.81,7.69
+REQ-1350,FY2026,Operations,0301 Program Analyst,GS-13,293,93,19,4,88,Review,New Position,"Arlington, VA",31.74,20.43,21.05
+REQ-1351,FY2025,Human Resources,0501 Financial Analyst,GS-11,254,106,27,4,101,Selected,New Position,Hybrid,41.73,25.47,14.81
+REQ-1352,FY2025,Human Resources,1515 Operations Research Analyst,GS-11,70,20,4,1,56,Interview,Temporary Surge,"Washington, DC",28.57,20.0,25.0
+REQ-1353,FY2025,Policy,1515 Operations Research Analyst,GS-12,301,192,50,14,124,Interview,Backfill,"Washington, DC",63.79,26.04,28.0
+REQ-1354,FY2024,IT Services,0201 HR Specialist,GS-13,178,109,35,3,86,Interview,Temporary Surge,"Baltimore, MD",61.24,32.11,8.57
+REQ-1355,FY2026,Policy,1515 Operations Research Analyst,GS-11,242,136,56,4,103,Review,Temporary Surge,Hybrid,56.2,41.18,7.14
+REQ-1356,FY2024,Human Resources,0343 Management Analyst,GS-12,180,60,17,2,78,Selected,New Position,"Baltimore, MD",33.33,28.33,11.76
+REQ-1357,FY2026,Finance,0343 Management Analyst,GS-9,251,162,25,2,82,Review,Temporary Surge,"Washington, DC",64.54,15.43,8.0
+REQ-1358,FY2026,IT Services,1515 Operations Research Analyst,GS-11,264,97,35,6,65,Selected,Backfill,"Baltimore, MD",36.74,36.08,17.14
+REQ-1359,FY2026,Policy,0301 Program Analyst,GS-9,180,93,36,7,52,Selected,Backfill,Hybrid,51.67,38.71,19.44
+REQ-1360,FY2025,Human Resources,0343 Management Analyst,GS-9,333,109,41,7,53,Selected,Backfill,"Arlington, VA",32.73,37.61,17.07
+REQ-1361,FY2026,Program Management,2210 IT Specialist,GS-13,278,93,14,3,86,Interview,Temporary Surge,Remote,33.45,15.05,21.43
+REQ-1362,FY2024,IT Services,0301 Program Analyst,GS-13,260,137,59,14,88,Selected,Temporary Surge,Remote,52.69,43.07,23.73
+REQ-1363,FY2025,Human Resources,1515 Operations Research Analyst,GS-11,101,64,19,3,123,Review,Temporary Surge,"Baltimore, MD",63.37,29.69,15.79
+REQ-1364,FY2026,Operations,0343 Management Analyst,GS-12,95,47,12,1,108,Review,Backfill,"Baltimore, MD",49.47,25.53,8.33
+REQ-1365,FY2024,Finance,2210 IT Specialist,GS-11,190,70,9,1,135,Interview,New Position,Remote,36.84,12.86,11.11
+REQ-1366,FY2025,IT Services,0501 Financial Analyst,GS-12,36,11,3,1,88,Interview,Backfill,Remote,30.56,27.27,33.33
+REQ-1367,FY2025,Operations,1515 Operations Research Analyst,GS-12,345,105,17,4,132,Interview,New Position,Hybrid,30.43,16.19,23.53
+REQ-1368,FY2025,Policy,2210 IT Specialist,GS-9,244,99,41,6,40,Cancelled,New Position,"Washington, DC",40.57,41.41,14.63
+REQ-1369,FY2026,Human Resources,0301 Program Analyst,GS-9,327,164,61,8,117,Open,Temporary Surge,Hybrid,50.15,37.2,13.11
+REQ-1370,FY2024,Human Resources,2210 IT Specialist,GS-11,131,72,21,1,119,Selected,New Position,Hybrid,54.96,29.17,4.76
+REQ-1371,FY2024,Finance,0501 Financial Analyst,GS-11,262,74,22,3,110,Open,Backfill,"Washington, DC",28.24,29.73,13.64
+REQ-1372,FY2025,Operations,0301 Program Analyst,GS-12,305,115,24,2,47,Interview,New Position,"Arlington, VA",37.7,20.87,8.33
+REQ-1373,FY2026,Human Resources,2210 IT Specialist,GS-13,192,121,42,3,76,Review,New Position,"Baltimore, MD",63.02,34.71,7.14
+REQ-1374,FY2024,IT Services,0201 HR Specialist,GS-11,107,44,10,1,50,Open,Backfill,Hybrid,41.12,22.73,10.0
+REQ-1375,FY2024,Program Management,0343 Management Analyst,GS-13,293,118,19,1,94,Interview,Temporary Surge,"Arlington, VA",40.27,16.1,5.26
+REQ-1376,FY2026,Operations,2210 IT Specialist,GS-13,44,16,7,2,66,Selected,Backfill,"Washington, DC",36.36,43.75,28.57
+REQ-1377,FY2026,Program Management,0201 HR Specialist,GS-13,291,96,42,6,56,Selected,New Position,"Washington, DC",32.99,43.75,14.29
+REQ-1378,FY2025,Finance,0201 HR Specialist,GS-12,272,173,56,12,56,Open,Temporary Surge,Remote,63.6,32.37,21.43
+REQ-1379,FY2026,IT Services,0201 HR Specialist,GS-9,214,126,24,6,71,Open,Backfill,"Washington, DC",58.88,19.05,25.0
+REQ-1380,FY2024,IT Services,0201 HR Specialist,GS-12,237,125,49,11,70,Selected,Temporary Surge,"Baltimore, MD",52.74,39.2,22.45
+REQ-1381,FY2025,Operations,0501 Financial Analyst,GS-12,168,108,38,4,119,Cancelled,New Position,"Arlington, VA",64.29,35.19,10.53
+REQ-1382,FY2026,Program Management,0501 Financial Analyst,GS-9,36,18,2,1,106,Selected,Temporary Surge,"Washington, DC",50.0,11.11,50.0
+REQ-1383,FY2025,IT Services,2210 IT Specialist,GS-13,310,81,32,7,121,Open,New Position,"Washington, DC",26.13,39.51,21.88
+REQ-1384,FY2025,Policy,1515 Operations Research Analyst,GS-12,98,43,18,3,63,Selected,New Position,"Washington, DC",43.88,41.86,16.67
+REQ-1385,FY2024,Finance,0501 Financial Analyst,GS-11,349,175,68,7,98,Cancelled,New Position,"Arlington, VA",50.14,38.86,10.29
+REQ-1386,FY2026,Policy,0201 HR Specialist,GS-11,237,70,15,3,56,Interview,New Position,Hybrid,29.54,21.43,20.0
+REQ-1387,FY2026,Finance,0301 Program Analyst,GS-9,100,55,9,3,64,Selected,Temporary Surge,Hybrid,55.0,16.36,33.33
+REQ-1388,FY2026,Human Resources,2210 IT Specialist,GS-13,349,123,37,6,89,Selected,Backfill,"Baltimore, MD",35.24,30.08,16.22
+REQ-1389,FY2026,Operations,0343 Management Analyst,GS-12,97,51,14,2,132,Open,Backfill,Hybrid,52.58,27.45,14.29
+REQ-1390,FY2026,Operations,1515 Operations Research Analyst,GS-13,264,99,25,3,108,Selected,New Position,"Arlington, VA",37.5,25.25,12.0
+REQ-1391,FY2025,Human Resources,0201 HR Specialist,GS-12,135,43,10,2,47,Open,Backfill,"Arlington, VA",31.85,23.26,20.0
+REQ-1392,FY2024,Human Resources,0201 HR Specialist,GS-13,90,40,17,4,77,Interview,New Position,Remote,44.44,42.5,23.53
+REQ-1393,FY2026,Human Resources,0301 Program Analyst,GS-9,331,99,44,12,83,Review,Backfill,"Washington, DC",29.91,44.44,27.27
+REQ-1394,FY2025,Program Management,0501 Financial Analyst,GS-9,189,93,24,2,42,Interview,Temporary Surge,Remote,49.21,25.81,8.33
+REQ-1395,FY2025,IT Services,0201 HR Specialist,GS-9,154,92,35,7,93,Review,Backfill,"Washington, DC",59.74,38.04,20.0
+REQ-1396,FY2024,IT Services,0301 Program Analyst,GS-11,267,122,38,3,36,Interview,Temporary Surge,Hybrid,45.69,31.15,7.89
+REQ-1397,FY2024,Human Resources,0301 Program Analyst,GS-12,166,65,18,4,58,Review,Temporary Surge,Remote,39.16,27.69,22.22
+REQ-1398,FY2024,Program Management,2210 IT Specialist,GS-12,297,188,69,9,104,Selected,Backfill,"Baltimore, MD",63.3,36.7,13.04
+REQ-1399,FY2026,Human Resources,0501 Financial Analyst,GS-12,39,18,6,1,65,Interview,New Position,"Arlington, VA",46.15,33.33,16.67
+REQ-1400,FY2025,IT Services,1515 Operations Research Analyst,GS-12,138,78,18,4,123,Selected,Temporary Surge,Hybrid,56.52,23.08,22.22
+REQ-1401,FY2024,Program Management,0301 Program Analyst,GS-9,206,102,26,2,93,Selected,Temporary Surge,"Arlington, VA",49.51,25.49,7.69
+REQ-1402,FY2025,Policy,0501 Financial Analyst,GS-11,152,66,13,2,133,Cancelled,Backfill,"Arlington, VA",43.42,19.7,15.38
+REQ-1403,FY2026,IT Services,2210 IT Specialist,GS-9,38,15,2,1,72,Interview,New Position,"Arlington, VA",39.47,13.33,50.0
+REQ-1404,FY2026,Operations,0301 Program Analyst,GS-11,136,49,9,1,57,Review,New Position,"Arlington, VA",36.03,18.37,11.11
+REQ-1405,FY2024,Finance,0301 Program Analyst,GS-12,169,104,13,3,83,Selected,Backfill,"Arlington, VA",61.54,12.5,23.08
+REQ-1406,FY2026,Human Resources,0343 Management Analyst,GS-11,224,129,44,13,114,Selected,New Position,"Arlington, VA",57.59,34.11,29.55
+REQ-1407,FY2024,Human Resources,0201 HR Specialist,GS-11,133,62,22,3,89,Cancelled,Temporary Surge,"Baltimore, MD",46.62,35.48,13.64
+REQ-1408,FY2026,Program Management,0301 Program Analyst,GS-9,111,42,6,1,51,Selected,Backfill,Hybrid,37.84,14.29,16.67
+REQ-1409,FY2025,IT Services,0501 Financial Analyst,GS-11,68,22,5,1,131,Interview,Backfill,"Baltimore, MD",32.35,22.73,20.0
+REQ-1410,FY2026,IT Services,1515 Operations Research Analyst,GS-9,304,160,57,10,69,Interview,New Position,"Arlington, VA",52.63,35.62,17.54
+REQ-1411,FY2026,Operations,2210 IT Specialist,GS-12,138,59,12,1,89,Selected,Temporary Surge,"Washington, DC",42.75,20.34,8.33
+REQ-1412,FY2025,IT Services,0201 HR Specialist,GS-12,103,57,12,2,64,Interview,Backfill,Remote,55.34,21.05,16.67
+REQ-1413,FY2024,Program Management,0301 Program Analyst,GS-12,274,116,28,5,69,Review,Temporary Surge,"Washington, DC",42.34,24.14,17.86
+REQ-1414,FY2025,Operations,0343 Management Analyst,GS-9,218,133,29,5,104,Selected,New Position,"Baltimore, MD",61.01,21.8,17.24
+REQ-1415,FY2026,Finance,0301 Program Analyst,GS-11,54,25,6,1,67,Review,Temporary Surge,Hybrid,46.3,24.0,16.67
+REQ-1416,FY2025,IT Services,1515 Operations Research Analyst,GS-9,168,43,9,2,135,Cancelled,Backfill,Hybrid,25.6,20.93,22.22
+REQ-1417,FY2026,IT Services,0201 HR Specialist,GS-13,111,66,13,3,61,Interview,Temporary Surge,Remote,59.46,19.7,23.08
+REQ-1418,FY2025,Operations,0501 Financial Analyst,GS-13,209,118,26,3,133,Selected,Temporary Surge,"Washington, DC",56.46,22.03,11.54
+REQ-1419,FY2026,Finance,2210 IT Specialist,GS-11,226,69,28,4,129,Open,Backfill,Remote,30.53,40.58,14.29
+REQ-1420,FY2024,Operations,0301 Program Analyst,GS-12,241,134,47,6,110,Open,Temporary Surge,Hybrid,55.6,35.07,12.77
+REQ-1421,FY2025,Operations,0501 Financial Analyst,GS-9,346,166,41,6,85,Open,Backfill,Hybrid,47.98,24.7,14.63
+REQ-1422,FY2024,Policy,0201 HR Specialist,GS-13,266,134,30,3,121,Interview,New Position,"Arlington, VA",50.38,22.39,10.0
+REQ-1423,FY2026,Human Resources,0501 Financial Analyst,GS-9,136,38,17,2,64,Review,Backfill,Hybrid,27.94,44.74,11.76
+REQ-1424,FY2024,IT Services,0501 Financial Analyst,GS-13,40,13,5,1,55,Cancelled,Temporary Surge,"Washington, DC",32.5,38.46,20.0
+REQ-1425,FY2026,Policy,0501 Financial Analyst,GS-11,234,148,60,5,61,Review,Temporary Surge,Hybrid,63.25,40.54,8.33
+REQ-1426,FY2024,Program Management,0343 Management Analyst,GS-13,193,94,27,6,70,Review,Temporary Surge,"Arlington, VA",48.7,28.72,22.22
+REQ-1427,FY2026,Human Resources,2210 IT Specialist,GS-13,304,116,36,6,94,Interview,Backfill,"Baltimore, MD",38.16,31.03,16.67
+REQ-1428,FY2026,Policy,0501 Financial Analyst,GS-13,235,116,45,4,66,Open,Backfill,"Arlington, VA",49.36,38.79,8.89
+REQ-1429,FY2026,IT Services,2210 IT Specialist,GS-9,326,94,33,2,55,Review,Temporary Surge,"Arlington, VA",28.83,35.11,6.06
+REQ-1430,FY2024,IT Services,2210 IT Specialist,GS-13,287,119,44,4,82,Open,Backfill,"Arlington, VA",41.46,36.97,9.09
+REQ-1431,FY2025,Finance,1515 Operations Research Analyst,GS-13,164,55,7,1,121,Selected,New Position,Remote,33.54,12.73,14.29
+REQ-1432,FY2025,Program Management,0501 Financial Analyst,GS-9,54,14,2,1,76,Selected,New Position,Hybrid,25.93,14.29,50.0
+REQ-1433,FY2024,Human Resources,0201 HR Specialist,GS-9,159,85,22,4,70,Selected,New Position,"Baltimore, MD",53.46,25.88,18.18
+REQ-1434,FY2025,Operations,0501 Financial Analyst,GS-12,98,45,11,1,132,Open,New Position,"Arlington, VA",45.92,24.44,9.09
+REQ-1435,FY2026,Policy,1515 Operations Research Analyst,GS-9,52,32,9,1,41,Selected,Backfill,"Baltimore, MD",61.54,28.12,11.11
+REQ-1436,FY2024,Finance,0301 Program Analyst,GS-11,262,71,9,2,133,Review,New Position,"Washington, DC",27.1,12.68,22.22
+REQ-1437,FY2024,Human Resources,1515 Operations Research Analyst,GS-11,250,65,8,2,122,Selected,Temporary Surge,"Arlington, VA",26.0,12.31,25.0
+REQ-1438,FY2026,Operations,0201 HR Specialist,GS-13,57,24,4,1,106,Interview,Backfill,"Washington, DC",42.11,16.67,25.0
+REQ-1439,FY2024,Program Management,0301 Program Analyst,GS-13,153,51,12,1,86,Selected,New Position,"Washington, DC",33.33,23.53,8.33
+REQ-1440,FY2026,Program Management,0343 Management Analyst,GS-11,177,90,22,1,62,Review,Backfill,"Washington, DC",50.85,24.44,4.55
+REQ-1441,FY2025,Operations,1515 Operations Research Analyst,GS-12,342,130,43,6,133,Selected,Temporary Surge,Remote,38.01,33.08,13.95
+REQ-1442,FY2026,Operations,0201 HR Specialist,GS-9,69,26,8,2,83,Interview,New Position,"Washington, DC",37.68,30.77,25.0
+REQ-1443,FY2026,Human Resources,0343 Management Analyst,GS-11,350,194,31,3,89,Selected,Backfill,Remote,55.43,15.98,9.68
+REQ-1444,FY2026,Program Management,1515 Operations Research Analyst,GS-12,186,62,15,3,65,Selected,New Position,"Baltimore, MD",33.33,24.19,20.0
+REQ-1445,FY2025,Human Resources,0301 Program Analyst,GS-12,197,100,37,7,88,Selected,Backfill,"Arlington, VA",50.76,37.0,18.92
+REQ-1446,FY2026,Policy,0301 Program Analyst,GS-13,140,65,27,6,66,Selected,Temporary Surge,"Baltimore, MD",46.43,41.54,22.22
+REQ-1447,FY2024,Policy,0301 Program Analyst,GS-11,128,55,7,2,43,Cancelled,New Position,"Washington, DC",42.97,12.73,28.57
+REQ-1448,FY2025,Policy,0501 Financial Analyst,GS-12,123,60,24,7,65,Interview,New Position,"Arlington, VA",48.78,40.0,29.17
+REQ-1449,FY2026,Operations,2210 IT Specialist,GS-13,160,67,21,3,108,Interview,New Position,"Baltimore, MD",41.88,31.34,14.29
+REQ-1450,FY2024,Program Management,0343 Management Analyst,GS-13,238,95,26,4,113,Selected,Backfill,"Washington, DC",39.92,27.37,15.38

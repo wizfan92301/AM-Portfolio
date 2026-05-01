@@ -1,0 +1,1543 @@
+Record_ID,Month,Installation,Building_Number,Region,Housing_Type,Design_Category_Code,Total_Beds,Occupied_Beds,Vacant_Beds,Net_Use_Percent,Condition_Score,Open_Work_Orders,Priority_Level,Data_Quality_Flag
+1001,2025-01-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,97,3,97.0,72,3,Low,Clean
+1002,2025-01-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,122,28,81.33,61,6,Medium,Clean
+1003,2025-01-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,88,12,88.0,57,18,Medium,Clean
+1004,2025-01-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,75,25,75.0,87,19,Medium,Clean
+1005,2025-01-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,78,2,97.5,96,0,Low,Clean
+1006,2025-01-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,280,-30,112.0,92,4,Low,Invalid Occupancy
+1007,2025-01-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,61,19,76.25,65,12,Medium,Clean
+1008,2025-01-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,222,28,88.8,64,8,Low,Clean
+1009,2025-01-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,171,29,85.5,79,20,Medium,Clean
+1010,2025-01-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,162,38,81.0,93,9,Medium,Clean
+1011,2025-01-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,72,8,90.0,89,5,Low,Clean
+1012,2025-01-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,215,35,86.0,73,13,Low,Clean
+1013,2025-01-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,126,74,63.0,59,25,High,Clean
+1014,2025-01-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,121,29,80.67,60,15,Medium,Clean
+1015,2025-01-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,79,21,79.0,84,6,Medium,Clean
+1016,2025-01-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,188,12,94.0,77,11,Low,Clean
+1017,2025-01-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,174,6,96.67,98,6,Low,Clean
+1018,2025-01-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,82,18,82.0,65,14,Medium,Clean
+1019,2025-01-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,135,15,90.0,79,10,Low,Clean
+1020,2025-01-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,120,30,80.0,58,20,Medium,Clean
+1021,2025-01-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,65,15,81.25,80,7,Medium,Clean
+1022,2025-01-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,79,21,79.0,91,5,Medium,Clean
+1023,2025-01-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,152,48,76.0,86,14,Medium,Clean
+1024,2025-01-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,222,78,74.0,63,23,Medium,Clean
+1025,2025-01-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,176,4,97.78,82,11,Low,Clean
+1026,2025-01-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,148,102,59.2,63,13,High,Clean
+1027,2025-01-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,326,-26,108.67,58,9,Medium,Invalid Occupancy
+1028,2025-01-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,107,13,89.17,98,8,Low,Clean
+1029,2025-01-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,85,15,85.0,93,4,Low,Clean
+1030,2025-01-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,113,67,62.78,55,26,High,Clean
+1031,2025-01-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,86,14,86.0,89,5,Low,Clean
+1032,2025-01-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,161,39,80.5,82,15,Medium,Clean
+1033,2025-01-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,215,85,71.67,71,16,Medium,Clean
+1034,2025-01-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,97,23,80.83,61,19,Medium,Clean
+1035,2025-01-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,176,4,97.78,87,6,Low,Clean
+1036,2025-01-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,130,20,86.67,65,11,Low,Clean
+1037,2025-01-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,66,14,82.5,86,15,Medium,Clean
+1038,2025-01-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,88,12,88.0,74,13,Low,Clean
+1039,2025-01-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,61,19,76.25,91,11,Medium,Clean
+1040,2025-01-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,66,34,66.0,59,12,High,Clean
+1041,2025-01-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,95,25,79.17,85,11,Medium,Clean
+1042,2025-01-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,72114,120,82,38,68.33,93,10,High,Clean
+1043,2025-01-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,117,33,78.0,67,11,Medium,Clean
+1044,2025-01-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,176,4,97.78,97,10,Low,Clean
+1045,2025-01-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,162,38,81.0,88,6,Medium,Clean
+1046,2025-01-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,79,21,79.0,59,9,Medium,Clean
+1047,2025-01-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,59,21,73.75,69,11,Medium,Clean
+1048,2025-01-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,137,13,91.33,95,8,Low,Clean
+1049,2025-01-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,108,42,72.0,57,22,Medium,Clean
+1050,2025-01-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,81,19,81.0,72,11,Medium,Clean
+1051,2025-01-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,187,113,62.33,63,19,High,Clean
+1052,2025-01-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,272,28,90.67,85,17,Medium,Clean
+1053,2025-01-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,126,24,84.0,97,7,Medium,Clean
+1054,2025-01-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,169,31,84.5,84,10,Medium,Clean
+1055,2025-01-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,73,7,91.25,96,0,Low,Clean
+1056,2025-01-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,71,9,88.75,76,15,Low,Clean
+1057,2025-01-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,147,3,98.0,89,20,Medium,Clean
+1058,2025-01-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,91,29,75.83,72,13,Medium,Clean
+1059,2025-01-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,109,41,72.67,59,26,High,Clean
+1060,2025-01-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,70,30,70.0,89,11,Medium,Clean
+1061,2025-01-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,63,37,63.0,70,1,High,Clean
+1062,2025-01-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,142,108,56.8,68,7,High,Clean
+1063,2025-01-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,65,15,81.25,55,13,Medium,Clean
+1064,2025-01-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,149,31,82.78,84,4,Medium,Clean
+1065,2025-01-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,235,15,94.0,90,3,Low,Clean
+1066,2025-01-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,278,22,92.67,73,8,Low,Clean
+1067,2025-01-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,64,16,80.0,89,9,Medium,Clean
+1068,2025-01-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,178,22,89.0,92,15,Low,Clean
+1069,2025-01-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,105,15,87.5,87,3,Low,Clean
+1070,2025-01-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,80,40,66.67,59,13,High,Clean
+1071,2025-01-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,144,6,96.0,91,10,Low,Clean
+1072,2025-01-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,66,14,82.5,81,15,Medium,Clean
+1073,2025-01-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,143,57,71.5,68,13,Medium,Clean
+1074,2025-01-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,170,30,85.0,80,19,Medium,Clean
+1075,2025-01-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,129,51,71.67,59,14,Medium,Clean
+1076,2025-01-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,234,66,78.0,91,12,Medium,Clean
+1077,2025-01-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,81,19,81.0,87,11,Medium,Clean
+1078,2025-01-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,64,56,53.33,59,21,High,Clean
+1079,2025-01-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,142,58,71.0,83,6,Medium,Clean
+1080,2025-01-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,176,4,97.78,96,0,Low,Clean
+1081,2025-01-01,Ft Eagle,BLDG-709,CONUS,PP Officer,72114,80,70,10,87.5,90,9,Low,Inconsistent Installation Name
+1082,2025-01-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,65,35,65.0,63,22,High,Clean
+1083,2025-01-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,98,2,98.0,90,0,Low,Clean
+1084,2025-01-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,113,67,62.78,68,18,High,Clean
+1085,2025-01-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,155,45,77.5,95,5,Medium,Clean
+1086,2025-01-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,220,80,73.33,58,20,Medium,Clean
+1087,2025-01-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,173,77,69.2,57,17,High,Clean
+1088,2025-01-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,165,35,82.5,95,14,Medium,Clean
+1089,2025-01-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,100,20,83.33,90,10,Medium,Clean
+1090,2025-01-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,172,78,68.8,62,16,High,Clean
+1091,2025-01-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,96,24,80.0,78,11,Medium,Clean
+1092,2025-01-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,74,46,61.67,57,21,High,Clean
+1093,2025-01-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,171,29,85.5,57,18,Medium,Clean
+1094,2025-01-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,147,3,98.0,97,11,Low,Clean
+1095,2025-01-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,186,14,93.0,81,12,Low,Clean
+1096,2025-01-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,96,24,80.0,70,18,Medium,Clean
+1097,2025-02-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,80,20,80.0,72,8,Medium,Clean
+1098,2025-02-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,111,39,74.0,61,6,Medium,Clean
+1099,2025-02-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,71,29,71.0,57,19,Medium,Clean
+1100,2025-02-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,98,2,98.0,87,10,Low,Clean
+1101,2025-02-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,78,2,97.5,96,7,Low,Clean
+1102,2025-02-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,197,53,78.8,92,1,Medium,Clean
+1103,2025-02-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,53,27,66.25,65,8,High,Clean
+1104,2025-02-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,203,47,81.2,64,14,Medium,Clean
+1105,2025-02-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,176,24,88.0,79,12,Low,Clean
+1106,2025-02-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,196,4,98.0,93,13,Low,Clean
+1107,2025-02-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,65,15,81.25,89,7,Medium,Clean
+1108,2025-02-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,185,65,74.0,73,5,Medium,Clean
+1109,2025-02-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,159,41,79.5,59,22,Medium,Clean
+1110,2025-02-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,109,41,72.67,60,14,Medium,Clean
+1111,2025-02-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,96,4,96.0,84,0,Low,Clean
+1112,2025-02-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,167,33,83.5,77,12,Medium,Clean
+1113,2025-02-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,155,25,86.11,98,13,Low,Clean
+1114,2025-02-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,85,15,85.0,65,13,Low,Clean
+1115,2025-02-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,122,28,81.33,79,9,Medium,Clean
+1116,2025-02-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,100,50,66.67,58,10,High,Clean
+1117,2025-02-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,77,3,96.25,80,16,Medium,Clean
+1118,2025-02-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,96,4,96.0,91,3,Low,Clean
+1119,2025-02-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,196,4,98.0,86,19,Medium,Clean
+1120,2025-02-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,229,71,76.33,63,11,Medium,Clean
+1121,2025-02-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,136,44,75.56,82,13,Medium,Clean
+1122,2025-02-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,163,87,65.2,63,15,High,Clean
+1123,2025-02-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,249,51,83.0,58,9,Medium,Clean
+1124,2025-02-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,118,2,98.33,98,14,Low,Clean
+1125,2025-02-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,77,23,77.0,93,1,Medium,Clean
+1126,2025-02-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,122,58,67.78,55,12,High,Clean
+1127,2025-02-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,85,15,85.0,89,0,Low,Clean
+1128,2025-02-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,163,37,81.5,82,20,Medium,Clean
+1129,2025-02-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,202,98,67.33,71,12,High,Clean
+1130,2025-02-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,70,50,58.33,61,19,High,Clean
+1131,2025-02-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,152,28,84.44,87,19,Medium,Clean
+1132,2025-02-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,116,34,77.33,65,13,Medium,Clean
+1133,2025-02-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,73,7,91.25,86,7,Low,Clean
+1134,2025-02-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,67,33,67.0,74,14,High,Clean
+1135,2025-02-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,69,11,86.25,91,9,Low,Clean
+1136,2025-02-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,76,24,76.0,59,14,Medium,Clean
+1137,2025-02-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,108,12,90.0,85,18,Medium,Clean
+1138,2025-02-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,72114,120,94,26,78.33,93,16,Medium,Clean
+1139,2025-02-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,111,39,74.0,67,10,Medium,Clean
+1140,2025-02-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,176,4,97.78,97,8,Low,Clean
+1141,2025-02-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,196,4,98.0,88,13,Low,Clean
+1142,2025-02-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,56,44,56.0,59,17,High,Clean
+1143,2025-02-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,58,22,72.5,69,7,Medium,Clean
+1144,2025-02-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,109,41,72.67,95,8,Medium,Clean
+1145,2025-02-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,116,34,77.33,57,19,Medium,Clean
+1146,2025-02-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,76,24,76.0,72,9,Medium,Clean
+1147,2025-02-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,194,106,64.67,63,12,High,Clean
+1148,2025-02-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,226,74,75.33,85,9,Medium,Clean
+1149,2025-02-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,137,13,91.33,97,2,Low,Clean
+1150,2025-02-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,165,35,82.5,84,6,Medium,Clean
+1151,2025-02-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,73,7,91.25,96,10,Low,Clean
+1152,2025-02-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,66,14,82.5,76,14,Medium,Clean
+1153,2025-02-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,106,44,70.67,89,7,Medium,Clean
+1154,2025-02-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,99999,120,98,22,81.67,72,16,Medium,Invalid Category Code
+1155,2025-02-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,85,65,56.67,59,17,High,Clean
+1156,2025-02-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,98,2,98.0,89,8,Low,Clean
+1157,2025-02-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,77,23,77.0,70,16,Medium,Clean
+1158,2025-02-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,199,51,79.6,68,17,Medium,Clean
+1159,2025-02-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,57,23,71.25,55,18,Medium,Clean
+1160,2025-02-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,139,41,77.22,84,9,Medium,Clean
+1161,2025-02-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,245,5,98.0,90,7,Low,Clean
+1162,2025-02-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,233,67,77.67,73,10,Medium,Clean
+1163,2025-02-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,76,4,95.0,89,4,Low,Clean
+1164,2025-02-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,196,4,98.0,92,3,Low,Clean
+1165,2025-02-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,91,29,75.83,87,10,Medium,Clean
+1166,2025-02-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,89,31,74.17,59,18,Medium,Clean
+1167,2025-02-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,147,3,98.0,91,6,Low,Clean
+1168,2025-02-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,70,10,87.5,81,6,Low,Clean
+1169,2025-02-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,179,21,89.5,68,17,Medium,Clean
+1170,2025-02-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,177,23,88.5,80,12,Low,Clean
+1171,2025-02-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,116,64,64.44,59,15,High,Clean
+1172,2025-02-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,281,19,93.67,91,8,Low,Clean
+1173,2025-02-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,88,12,88.0,87,2,Low,Clean
+1174,2025-02-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,89,31,74.17,59,13,Medium,Clean
+1175,2025-02-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,147,53,73.5,83,9,Medium,Clean
+1176,2025-02-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,130,50,72.22,96,10,Medium,Clean
+1177,2025-02-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,77,3,96.25,90,8,Low,Clean
+1178,2025-02-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,65,35,65.0,63,11,High,Clean
+1179,2025-02-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,86,14,86.0,90,0,Low,Clean
+1180,2025-02-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,142,38,78.89,68,17,Medium,Clean
+1181,2025-02-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,175,25,87.5,95,5,Low,Clean
+1182,2025-02-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,221,79,73.67,58,18,Medium,Clean
+1183,2025-02-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,268,-18,107.2,57,17,Medium,Invalid Occupancy
+1184,2025-02-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,167,33,83.5,95,5,Medium,Clean
+1185,2025-02-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,108,12,97.64,90,16,Medium,Incorrect Net Use Percent
+1186,2025-02-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,177,73,70.8,62,10,Medium,Clean
+1187,2025-02-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,88,32,73.33,78,1,Medium,Clean
+1188,2025-02-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,90,30,75.0,57,10,Medium,Clean
+1189,2025-02-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,118,82,59.0,57,7,High,Clean
+1190,2025-02-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,120,30,80.0,97,10,Medium,Clean
+1191,2025-02-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,141,59,70.5,81,2,Medium,Clean
+1192,2025-02-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,96,24,80.0,70,12,Medium,Clean
+1193,2025-03-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,83,17,83.0,72,17,Medium,Clean
+1194,2025-03-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,110,40,73.33,61,9,Medium,Clean
+1195,2025-03-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,70,30,70.0,57,19,Medium,Clean
+1196,2025-03-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,81,19,81.0,87,2,Medium,Clean
+1197,2025-03-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,78,2,97.5,96,5,Low,Clean
+1198,2025-03-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,212,38,84.8,92,8,Medium,Clean
+1199,2025-03-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,69,11,86.25,65,16,Medium,Clean
+1200,2025-03-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,179,71,71.6,64,18,Medium,Clean
+1201,2025-03-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,196,4,98.0,79,18,Medium,Clean
+1202,2025-03-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,192,8,96.0,93,2,Low,Clean
+1203,2025-03-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,78,2,97.5,89,3,Low,Clean
+1204,2025-03-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,189,61,75.6,73,9,Medium,Clean
+1205,2025-03-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,178,22,89.0,59,18,Medium,Clean
+1206,2025-03-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,88,62,58.67,60,17,High,Clean
+1207,2025-03-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,90,10,90.0,84,8,Low,Clean
+1208,2025-03-01,Fort Mason,BLDG-204,CONUS,Transient Training,99999,200,139,61,69.5,77,8,High,Invalid Category Code
+1209,2025-03-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,158,22,87.78,98,7,Low,Clean
+1210,2025-03-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,70,30,70.0,65,18,Medium,Clean
+1211,2025-03-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,110,40,73.33,79,3,Medium,Clean
+1212,2025-03-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,97,53,64.67,58,23,High,Clean
+1213,2025-03-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,62,18,77.5,80,23,Medium,Clean
+1214,2025-03-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,93,7,93.0,91,2,Low,Clean
+1215,2025-03-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,155,45,77.5,86,11,Medium,Clean
+1216,2025-03-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,188,112,62.67,63,27,High,Clean
+1217,2025-03-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,133,47,73.89,82,14,Medium,Clean
+1218,2025-03-01,Camp Harbor,,CONUS,PP Officer,72114,250,223,27,89.2,63,15,Low,Missing Building
+1219,2025-03-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,186,114,62.0,58,15,High,Clean
+1220,2025-03-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,115,5,95.83,98,11,Low,Clean
+1221,2025-03-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,90,10,90.0,93,1,Low,Clean
+1222,2025-03-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,128,52,71.11,55,14,Medium,Clean
+1223,2025-03-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,66,34,66.0,89,5,High,Clean
+1224,2025-03-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,139,61,69.5,82,13,High,Clean
+1225,2025-03-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,294,6,98.0,71,23,Medium,Clean
+1226,2025-03-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,81,39,67.5,61,13,High,Clean
+1227,2025-03-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,168,12,101.5,87,15,Low,Incorrect Net Use Percent
+1228,2025-03-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,107,43,71.33,65,14,Medium,Clean
+1229,2025-03-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,78,2,97.5,86,9,Low,Clean
+1230,2025-03-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,75,25,75.0,74,13,Medium,Clean
+1231,2025-03-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,75,5,93.75,91,3,Low,Clean
+1232,2025-03-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,70,30,70.0,59,10,Medium,Clean
+1233,2025-03-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,99,21,82.5,85,19,Medium,Clean
+1234,2025-03-01,Fort Sentinel,,CONUS,PP Officer,72114,120,116,4,96.67,93,7,Low,Missing Building
+1235,2025-03-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,101,49,67.33,67,13,High,Clean
+1236,2025-03-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,176,4,97.78,97,4,Low,Clean
+1237,2025-03-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,196,4,98.0,88,2,Low,Clean
+1238,2025-03-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,70,30,70.0,59,25,Medium,Clean
+1239,2025-03-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,46,34,57.5,69,20,High,Clean
+1240,2025-03-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,108,42,72.0,95,7,Medium,Clean
+1241,2025-03-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,105,45,70.0,57,21,Medium,Clean
+1242,2025-03-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,47,53,47.0,72,3,High,Clean
+1243,2025-03-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,207,93,69.0,63,15,High,Clean
+1244,2025-03-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,230,70,76.67,85,9,Medium,Clean
+1245,2025-03-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,119,31,79.33,97,5,Medium,Clean
+1246,2025-03-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,153,47,76.5,84,11,Medium,Clean
+1247,2025-03-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,77,3,96.25,96,14,Low,Clean
+1248,2025-03-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,60,20,75.0,76,10,Medium,Clean
+1249,2025-03-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,132,18,88.0,89,7,Low,Clean
+1250,2025-03-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,94,26,78.33,72,5,Medium,Clean
+1251,2025-03-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,114,36,76.0,59,12,Medium,Clean
+1252,2025-03-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,78,22,78.0,89,1,Medium,Clean
+1253,2025-03-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,90,10,90.0,70,13,Low,Clean
+1254,2025-03-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,221,29,88.4,68,15,Low,Clean
+1255,2025-03-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,43,37,53.75,55,12,High,Clean
+1256,2025-03-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,167,13,92.78,84,6,Low,Clean
+1257,2025-03-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,193,57,77.2,90,8,Medium,Clean
+1258,2025-03-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,233,67,77.67,73,8,Medium,Clean
+1259,2025-03-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,67,13,83.75,89,6,Medium,Clean
+1260,2025-03-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,126,74,63.0,92,11,High,Clean
+1261,2025-03-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,94,26,78.33,87,16,Medium,Clean
+1262,2025-03-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,73,47,60.83,59,8,High,Clean
+1263,2025-03-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,147,3,98.0,91,0,Low,Clean
+1264,2025-03-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,62,18,77.5,81,14,Medium,Clean
+1265,2025-03-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,147,53,73.5,68,6,Medium,Clean
+1266,2025-03-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,170,30,85.0,80,10,Low,Clean
+1267,2025-03-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,154,26,85.56,59,19,Medium,Clean
+1268,2025-03-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,294,6,98.0,91,0,Low,Clean
+1269,2025-03-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,86,14,86.0,87,4,Low,Clean
+1270,2025-03-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,101,19,84.17,59,20,Medium,Clean
+1271,2025-03-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,184,16,92.0,83,6,Low,Clean
+1272,2025-03-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,150,30,83.33,96,0,Medium,Clean
+1273,2025-03-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,78,2,97.5,90,11,Low,Clean
+1274,2025-03-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,72,28,72.0,63,20,Medium,Clean
+1275,2025-03-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,96,4,96.0,90,13,Low,Clean
+1276,2025-03-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,109,71,60.56,68,10,High,Clean
+1277,2025-03-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,185,15,92.5,95,9,Low,Clean
+1278,2025-03-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,245,55,81.67,58,11,Medium,Clean
+1279,2025-03-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,182,68,72.8,57,28,High,Clean
+1280,2025-03-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,195,5,97.5,95,12,Low,Clean
+1281,2025-03-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,105,15,87.5,90,12,Low,Clean
+1282,2025-03-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,230,20,92.0,62,16,Medium,Clean
+1283,2025-03-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,113,7,94.17,78,7,Low,Clean
+1284,2025-03-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,93,27,77.5,57,21,Medium,Clean
+1285,2025-03-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,128,72,64.0,57,22,High,Clean
+1286,2025-03-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,127,23,84.67,97,3,Medium,Clean
+1287,2025-03-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,167,33,83.5,81,20,Medium,Clean
+1288,2025-03-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,97,23,80.83,70,18,Medium,Clean
+1289,2025-04-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,72,28,72.0,72,13,Medium,Clean
+1290,2025-04-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,93,57,62.0,61,13,High,Clean
+1291,2025-04-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,80,20,80.0,57,17,Medium,Clean
+1292,2025-04-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,98,2,98.0,87,8,Low,Clean
+1293,2025-04-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,71,9,88.75,96,13,Low,Clean
+1294,2025-04-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,206,44,82.4,92,0,Medium,Clean
+1295,2025-04-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,71,9,88.75,65,17,Medium,Clean
+1296,2025-04-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,133,117,53.2,64,15,High,Clean
+1297,2025-04-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,157,43,78.5,79,20,Medium,Clean
+1298,2025-04-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,164,36,82.0,93,5,Medium,Clean
+1299,2025-04-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,63,17,78.75,89,3,Medium,Clean
+1300,2025-04-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,181,69,72.4,73,6,Medium,Clean
+1301,2025-04-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,124,76,62.0,59,8,High,Clean
+1302,2025-04-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,87,63,58.0,60,8,High,Clean
+1303,2025-04-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,80,20,80.0,84,7,Medium,Clean
+1304,2025-04-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,138,62,69.0,77,14,High,Clean
+1305,2025-04-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,165,15,91.67,98,4,Low,Clean
+1306,2025-04-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,71,29,79.96,65,23,Medium,Incorrect Net Use Percent
+1307,2025-04-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,127,23,84.67,79,14,Medium,Clean
+1308,2025-04-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,69,81,46.0,58,13,High,Clean
+1309,2025-04-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,49,31,61.25,80,9,High,Clean
+1310,2025-04-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,92,8,92.0,91,5,Low,Clean
+1311,2025-04-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,182,18,91.0,86,4,Low,Clean
+1312,2025-04-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,241,59,80.33,63,7,Medium,Clean
+1313,2025-04-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,146,34,81.11,82,13,Medium,Clean
+1314,2025-04-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,200,50,80.0,63,15,Medium,Clean
+1315,2025-04-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,274,26,91.33,58,14,Low,Clean
+1316,2025-04-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,105,15,87.5,98,0,Low,Clean
+1317,2025-04-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,98,2,98.0,93,6,Low,Clean
+1318,2025-04-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,106,74,58.89,55,24,High,Clean
+1319,2025-04-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,98,2,98.0,89,9,Low,Clean
+1320,2025-04-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,139,61,69.5,82,13,High,Clean
+1321,2025-04-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,217,83,72.33,71,7,Medium,Clean
+1322,2025-04-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,101,19,84.17,61,5,Medium,Clean
+1323,2025-04-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,166,14,92.22,87,12,Low,Clean
+1324,2025-04-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,144,6,96.0,65,16,Medium,Clean
+1325,2025-04-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,52,28,65.0,86,5,High,Clean
+1326,2025-04-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,81,19,81.0,74,14,Medium,Clean
+1327,2025-04-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,78,2,97.5,91,0,Low,Clean
+1328,2025-04-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,69,31,69.0,59,21,High,Clean
+1329,2025-04-01,Ft Sentinel,BLDG-405,CONUS,PP Officer,72114,120,118,2,98.33,85,19,Medium,Inconsistent Installation Name
+1330,2025-04-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,72114,120,103,17,85.83,93,13,Low,Clean
+1331,2025-04-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,140,10,93.33,67,20,Medium,Clean
+1332,2025-04-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,176,4,97.78,97,11,Low,Clean
+1333,2025-04-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,158,42,79.0,88,2,Medium,Clean
+1334,2025-04-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,82,18,82.0,59,15,Medium,Clean
+1335,2025-04-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,62,18,77.5,69,11,Medium,Clean
+1336,2025-04-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,130,20,86.67,95,8,Low,Clean
+1337,2025-04-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,92,58,61.33,57,17,High,Clean
+1338,2025-04-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,81,19,81.0,72,13,Medium,Clean
+1339,2025-04-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,201,99,67.0,63,19,High,Clean
+1340,2025-04-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,294,6,98.0,85,7,Low,Clean
+1341,2025-04-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,147,3,98.0,97,11,Low,Clean
+1342,2025-04-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,117,83,58.5,84,6,High,Clean
+1343,2025-04-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,68,12,85.0,96,11,Low,Clean
+1344,2025-04-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,66,14,82.5,76,14,Medium,Clean
+1345,2025-04-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,141,9,94.0,89,4,Low,Clean
+1346,2025-04-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,86,34,71.67,72,7,Medium,Clean
+1347,2025-04-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,106,44,70.67,59,16,Medium,Clean
+1348,2025-04-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,89,11,89.0,89,5,Low,Clean
+1349,2025-04-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,87,13,87.0,70,18,Medium,Clean
+1350,2025-04-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,231,19,92.4,68,18,Medium,Clean
+1351,2025-04-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,58,22,72.5,55,21,Medium,Clean
+1352,2025-04-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,164,16,91.11,84,7,Low,Clean
+1353,2025-04-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,245,5,98.0,90,17,Medium,Clean
+1354,2025-04-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,294,6,98.0,73,13,Low,Clean
+1355,2025-04-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,73,7,91.25,89,11,Low,Clean
+1356,2025-04-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,178,22,89.0,92,11,Low,Clean
+1357,2025-04-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,102,18,85.0,87,8,Low,Clean
+1358,2025-04-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,108,12,90.0,59,17,Medium,Clean
+1359,2025-04-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,134,16,89.33,91,13,Low,Clean
+1360,2025-04-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,68,12,85.0,81,12,Low,Clean
+1361,2025-04-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,153,47,76.5,68,8,Medium,Clean
+1362,2025-04-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,165,35,82.5,80,5,Medium,Clean
+1363,2025-04-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,134,46,74.44,59,10,Medium,Clean
+1364,2025-04-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,293,7,97.67,91,12,Low,Clean
+1365,2025-04-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,89,11,89.0,87,9,Low,Clean
+1366,2025-04-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,92,28,76.67,59,6,Medium,Clean
+1367,2025-04-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,147,53,73.5,83,10,Medium,Clean
+1368,2025-04-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,170,10,94.44,96,7,Low,Clean
+1369,2025-04-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,62,18,77.5,90,9,Medium,Clean
+1370,2025-04-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,70,30,70.0,63,10,Medium,Clean
+1371,2025-04-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,91,9,91.0,90,7,Low,Clean
+1372,2025-04-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,160,20,88.89,68,17,Medium,Clean
+1373,2025-04-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,196,4,98.0,95,9,Low,Clean
+1374,2025-04-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,191,109,63.67,58,12,High,Clean
+1375,2025-04-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,142,108,56.8,57,31,High,Clean
+1376,2025-04-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,159,41,79.5,95,6,Medium,Clean
+1377,2025-04-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,101,19,84.17,90,7,Medium,Clean
+1378,2025-04-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,170,80,68.0,62,6,High,Clean
+1379,2025-04-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,86,34,71.67,78,5,Medium,Clean
+1380,2025-04-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,84,36,70.0,57,13,Medium,Clean
+1381,2025-04-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,129,71,64.5,57,18,High,Clean
+1382,2025-04-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,129,21,86.0,97,11,Low,Clean
+1383,2025-04-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,159,41,79.5,81,12,Medium,Clean
+1384,2025-04-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,78,42,65.0,70,17,High,Clean
+1385,2025-05-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,75,25,75.0,72,15,Medium,Clean
+1386,2025-05-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,115,35,76.67,61,15,Medium,Clean
+1387,2025-05-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,74,26,74.0,57,15,Medium,Clean
+1388,2025-05-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,98,2,98.0,87,14,Low,Clean
+1389,2025-05-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,77,3,96.25,96,1,Low,Clean
+1390,2025-05-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,195,55,78.0,92,5,Medium,Clean
+1391,2025-05-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,58,22,72.5,65,17,Medium,Clean
+1392,2025-05-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,165,85,66.0,64,21,High,Clean
+1393,2025-05-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,165,35,82.5,79,1,Medium,Clean
+1394,2025-05-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,169,31,84.5,93,0,Medium,Clean
+1395,2025-05-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,64,16,80.0,89,6,Medium,Clean
+1396,2025-05-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,183,67,73.2,73,11,Medium,Clean
+1397,2025-05-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,137,63,68.5,59,13,High,Clean
+1398,2025-05-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,132,18,88.0,60,22,Medium,Clean
+1399,2025-05-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,74,26,74.0,84,16,Medium,Clean
+1400,2025-05-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,131,69,65.5,77,8,High,Clean
+1401,2025-05-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,176,4,97.78,98,0,Low,Clean
+1402,2025-05-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,81,19,81.0,65,8,Medium,Clean
+1403,2025-05-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,122,28,81.33,79,10,Medium,Clean
+1404,2025-05-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,133,17,88.67,58,12,Low,Clean
+1405,2025-05-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,66,14,82.5,80,14,Medium,Clean
+1406,2025-05-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,86,14,86.0,91,4,Low,Clean
+1407,2025-05-01,Fort Mason,,CONUS,Transient Training,72116,200,171,29,85.5,86,10,Low,Missing Building
+1408,2025-05-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,250,50,83.33,63,11,Medium,Clean
+1409,2025-05-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,143,37,79.44,82,12,Medium,Clean
+1410,2025-05-01,Camp Harbor,,CONUS,PP Officer,72114,250,182,68,72.8,63,14,Medium,Missing Building
+1411,2025-05-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,215,85,71.67,58,13,Medium,Clean
+1412,2025-05-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,101,19,84.17,98,9,Medium,Clean
+1413,2025-05-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,79,21,79.0,93,14,Medium,Clean
+1414,2025-05-01,Camp Harbor,,OCONUS,PP Senior NCO,72113,180,131,49,72.78,55,11,Medium,Missing Building
+1415,2025-05-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,90,10,90.0,89,10,Low,Clean
+1416,2025-05-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,183,17,91.5,82,16,Medium,Clean
+1417,2025-05-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,225,75,75.0,71,10,Medium,Clean
+1418,2025-05-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,81,39,67.5,61,11,High,Clean
+1419,2025-05-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,142,38,78.89,87,11,Medium,Clean
+1420,2025-05-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,113,37,75.33,65,12,Medium,Clean
+1421,2025-05-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,63,17,78.75,86,11,Medium,Clean
+1422,2025-05-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,75,25,75.0,74,7,Medium,Clean
+1423,2025-05-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,70,10,87.5,91,7,Low,Clean
+1424,2025-05-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,62,38,62.0,59,20,High,Clean
+1425,2025-05-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,113,7,94.17,85,10,Low,Clean
+1426,2025-05-01,Ft Sentinel,BLDG-406,CONUS,PP Officer,72114,120,109,11,90.83,93,10,Low,Inconsistent Installation Name
+1427,2025-05-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,114,36,76.0,67,19,Medium,Clean
+1428,2025-05-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,176,4,97.78,97,7,Low,Clean
+1429,2025-05-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,183,17,91.5,88,13,Low,Clean
+1430,2025-05-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,69,31,69.0,59,11,High,Clean
+1431,2025-05-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,69,11,86.25,69,6,Low,Clean
+1432,2025-05-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,147,3,98.0,95,12,Low,Clean
+1433,2025-05-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,110,40,73.33,57,17,Medium,Clean
+1434,2025-05-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,97,3,97.0,72,8,Low,Clean
+1435,2025-05-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,189,111,63.0,63,12,High,Clean
+1436,2025-05-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,249,51,83.0,85,5,Medium,Clean
+1437,2025-05-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,140,10,93.33,97,7,Low,Clean
+1438,2025-05-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,154,46,77.0,84,18,Medium,Clean
+1439,2025-05-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,62,18,77.5,96,1,Medium,Clean
+1440,2025-05-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,68,12,85.0,76,11,Low,Clean
+1441,2025-05-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,138,12,92.0,89,6,Low,Clean
+1442,2025-05-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,82,38,68.33,72,10,High,Clean
+1443,2025-05-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,98,52,65.33,59,19,High,Clean
+1444,2025-05-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,83,17,83.0,89,13,Medium,Clean
+1445,2025-05-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,84,16,84.0,70,19,Medium,Clean
+1446,2025-05-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,215,35,86.0,68,18,Medium,Clean
+1447,2025-05-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,63,17,78.75,55,15,Medium,Clean
+1448,2025-05-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,148,32,82.22,84,1,Medium,Clean
+1449,2025-05-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,227,23,90.8,90,5,Low,Clean
+1450,2025-05-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,251,49,83.67,73,15,Medium,Clean
+1451,2025-05-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,59,21,73.75,89,4,Medium,Clean
+1452,2025-05-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,171,29,85.5,92,5,Low,Clean
+1453,2025-05-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,106,14,88.33,87,3,Low,Clean
+1454,2025-05-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,88,32,73.33,59,8,Medium,Clean
+1455,2025-05-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,100,50,66.67,91,12,High,Clean
+1456,2025-05-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,56,24,70.0,81,8,Medium,Clean
+1457,2025-05-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,126,74,63.0,68,7,High,Clean
+1458,2025-05-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,158,42,79.0,80,9,Medium,Clean
+1459,2025-05-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,148,32,82.22,59,18,Medium,Clean
+1460,2025-05-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,258,42,86.0,91,12,Low,Clean
+1461,2025-05-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,98,2,98.0,87,11,Low,Clean
+1462,2025-05-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,82,38,68.33,59,21,High,Clean
+1463,2025-05-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,196,4,98.0,83,14,Low,Clean
+1464,2025-05-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,176,4,97.78,96,12,Low,Clean
+1465,2025-05-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,77,3,96.25,90,3,Low,Clean
+1466,2025-05-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,63,37,63.0,63,15,High,Clean
+1467,2025-05-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,71,29,71.0,90,6,Medium,Clean
+1468,2025-05-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,154,26,85.56,68,11,Low,Clean
+1469,2025-05-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,192,8,96.0,95,0,Low,Clean
+1470,2025-05-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,201,99,67.0,58,22,High,Clean
+1471,2025-05-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,184,66,73.6,57,18,Medium,Clean
+1472,2025-05-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,196,4,98.0,95,14,Low,Clean
+1473,2025-05-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,95,25,79.17,90,15,Medium,Clean
+1474,2025-05-01,Fort Monroe,BLDG-806,CONUS,Transient Training,99999,250,170,80,68.0,62,15,High,Invalid Category Code
+1475,2025-05-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,99,21,82.5,78,17,Medium,Clean
+1476,2025-05-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,72,48,60.0,57,19,High,Clean
+1477,2025-05-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,153,47,76.5,57,21,Medium,Clean
+1478,2025-05-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,134,16,89.33,97,12,Low,Clean
+1479,2025-05-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,153,47,76.5,81,16,Medium,Clean
+1480,2025-05-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,98,22,81.67,70,6,Medium,Clean
+1481,2025-06-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,116,-16,116.0,72,14,Medium,Invalid Occupancy
+1482,2025-06-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,117,33,78.0,61,12,Medium,Clean
+1483,2025-06-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,69,31,69.0,57,10,High,Clean
+1484,2025-06-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,98,2,98.0,87,4,Low,Clean
+1485,2025-06-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,68,12,85.0,96,13,Low,Clean
+1486,2025-06-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,237,13,94.8,92,12,Low,Clean
+1487,2025-06-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,78,2,97.5,65,13,Low,Clean
+1488,2025-06-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,161,89,64.4,64,19,High,Clean
+1489,2025-06-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,196,4,98.0,79,10,Low,Clean
+1490,2025-06-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,154,46,77.0,93,14,Medium,Clean
+1491,2025-06-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,78,2,97.5,89,2,Low,Clean
+1492,2025-06-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,218,32,87.2,73,6,Low,Clean
+1493,2025-06-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,135,65,67.5,59,11,High,Clean
+1494,2025-06-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,100,50,66.67,60,12,High,Clean
+1495,2025-06-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,87,13,87.0,84,14,Low,Clean
+1496,2025-06-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,169,31,84.5,77,15,Medium,Clean
+1497,2025-06-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,176,4,97.78,98,5,Low,Clean
+1498,2025-06-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,76,24,76.0,65,17,Medium,Clean
+1499,2025-06-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,147,3,98.0,79,16,Medium,Clean
+1500,2025-06-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,141,9,94.0,58,22,Medium,Clean
+1501,2025-06-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,78,2,97.5,80,2,Low,Clean
+1502,2025-06-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,98,2,98.0,91,9,Low,Clean
+1503,2025-06-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,173,27,86.5,86,7,Low,Clean
+1504,2025-06-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,211,89,70.33,63,17,Medium,Clean
+1505,2025-06-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,176,4,97.78,82,3,Low,Clean
+1506,2025-06-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,192,58,76.8,63,12,Medium,Clean
+1507,2025-06-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,187,113,62.33,58,18,High,Clean
+1508,2025-06-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,106,14,88.33,98,3,Low,Clean
+1509,2025-06-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,82,18,82.0,93,9,Medium,Clean
+1510,2025-06-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,127,53,70.56,55,12,Medium,Clean
+1511,2025-06-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,79,21,79.0,89,8,Medium,Clean
+1512,2025-06-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,192,8,96.0,82,5,Low,Clean
+1513,2025-06-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,274,26,91.33,71,9,Low,Clean
+1514,2025-06-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,118,2,98.33,61,11,Low,Clean
+1515,2025-06-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,141,39,78.33,87,10,Medium,Clean
+1516,2025-06-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,100,50,66.67,65,19,High,Clean
+1517,2025-06-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,78,2,97.5,86,8,Low,Clean
+1518,2025-06-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,82,18,82.0,74,10,Medium,Clean
+1519,2025-06-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,77,3,96.25,91,15,Low,Clean
+1520,2025-06-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,81,19,81.0,59,12,Medium,Clean
+1521,2025-06-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,118,2,98.33,85,16,Medium,Clean
+1522,2025-06-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,72114,120,113,7,94.17,93,4,Low,Clean
+1523,2025-06-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,116,34,77.33,67,10,Medium,Clean
+1524,2025-06-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,173,7,96.11,97,5,Low,Clean
+1525,2025-06-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,99999,200,129,71,64.5,88,14,High,Invalid Category Code
+1526,2025-06-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,74,26,74.0,59,22,Medium,Clean
+1527,2025-06-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,67,13,83.75,69,15,Medium,Clean
+1528,2025-06-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,147,3,98.0,95,9,Low,Clean
+1529,2025-06-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,112,38,74.67,57,33,High,Clean
+1530,2025-06-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,85,15,85.0,72,14,Low,Clean
+1531,2025-06-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,276,24,92.0,63,11,Low,Clean
+1532,2025-06-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,225,75,75.0,85,3,Medium,Clean
+1533,2025-06-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,145,5,96.67,97,10,Low,Clean
+1534,2025-06-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,185,15,92.5,84,3,Low,Clean
+1535,2025-06-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,78,2,97.5,96,13,Low,Clean
+1536,2025-06-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,64,16,80.0,76,12,Medium,Clean
+1537,2025-06-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,141,9,94.0,89,11,Low,Clean
+1538,2025-06-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,103,17,85.83,72,8,Low,Clean
+1539,2025-06-01,Camp Liberty,,OCONUS,PP Senior NCO,72113,150,106,44,70.67,59,10,Medium,Missing Building
+1540,2025-06-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,94,6,94.0,89,11,Low,Clean
+1541,2025-06-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,77,23,77.0,70,15,Medium,Clean
+1542,2025-06-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,174,76,69.6,68,18,High,Clean
+1543,2025-06-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,53,27,66.25,55,18,High,Clean
+1544,2025-06-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,173,7,96.11,84,6,Low,Clean
+1545,2025-06-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,245,5,98.0,90,9,Low,Clean
+1546,2025-06-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,239,61,79.67,73,16,Medium,Clean
+1547,2025-06-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,66,14,82.5,89,12,Medium,Clean
+1548,2025-06-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,179,21,89.5,92,13,Low,Clean
+1549,2025-06-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,101,19,84.17,87,7,Medium,Clean
+1550,2025-06-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,91,29,75.83,59,16,Medium,Clean
+1551,2025-06-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,115,35,76.67,91,7,Medium,Clean
+1552,2025-06-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,78,2,97.5,81,10,Low,Clean
+1553,2025-06-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,137,63,68.5,68,18,High,Clean
+1554,2025-06-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,129,71,64.5,80,0,High,Clean
+1555,2025-06-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,145,35,80.56,59,17,Medium,Clean
+1556,2025-06-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,272,28,90.67,91,4,Low,Clean
+1557,2025-06-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,85,15,85.0,87,2,Low,Clean
+1558,2025-06-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,99,21,82.5,59,8,Medium,Clean
+1559,2025-06-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,182,18,91.0,83,12,Low,Clean
+1560,2025-06-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,132,48,73.33,96,4,Medium,Clean
+1561,2025-06-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,77,3,96.25,90,16,Medium,Clean
+1562,2025-06-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,67,33,67.0,63,17,High,Clean
+1563,2025-06-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,84,16,84.0,90,2,Medium,Clean
+1564,2025-06-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,176,4,97.78,68,17,Medium,Clean
+1565,2025-06-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,165,35,82.5,95,8,Medium,Clean
+1566,2025-06-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,259,41,86.33,58,17,Medium,Clean
+1567,2025-06-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,235,15,94.0,57,20,Medium,Clean
+1568,2025-06-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,121,79,60.5,95,6,High,Clean
+1569,2025-06-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,106,14,88.33,90,7,Low,Clean
+1570,2025-06-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,185,65,74.0,62,12,Medium,Clean
+1571,2025-06-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,85,35,70.83,78,18,Medium,Clean
+1572,2025-06-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,93,27,77.5,57,13,Medium,Clean
+1573,2025-06-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,173,27,86.5,57,20,Medium,Clean
+1574,2025-06-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,147,3,98.0,97,1,Low,Clean
+1575,2025-06-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,183,17,91.5,81,8,Low,Clean
+1576,2025-06-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,107,13,89.17,70,13,Low,Clean
+1577,2025-07-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,56,44,56.0,72,13,High,Clean
+1578,2025-07-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,95,55,63.33,61,15,High,Clean
+1579,2025-07-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,71,29,71.0,57,15,Medium,Clean
+1580,2025-07-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,72,28,72.0,87,4,Medium,Clean
+1581,2025-07-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,66,14,82.5,96,6,Medium,Clean
+1582,2025-07-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,245,5,98.0,92,12,Low,Clean
+1583,2025-07-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,63,17,78.75,65,21,Medium,Clean
+1584,2025-07-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,153,97,61.2,64,18,High,Clean
+1585,2025-07-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,177,23,88.5,79,12,Low,Clean
+1586,2025-07-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,192,8,96.0,93,4,Low,Clean
+1587,2025-07-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,78,2,97.5,89,9,Low,Clean
+1588,2025-07-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,245,5,98.0,73,11,Low,Clean
+1589,2025-07-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,170,30,85.0,59,19,Medium,Clean
+1590,2025-07-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,92,58,61.33,60,23,High,Clean
+1591,2025-07-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,82,18,82.0,84,0,Medium,Clean
+1592,2025-07-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,180,20,90.0,77,17,Medium,Clean
+1593,2025-07-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,176,4,97.78,98,5,Low,Clean
+1594,2025-07-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,91,9,91.0,65,18,Medium,Clean
+1595,2025-07-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,114,36,76.0,79,15,Medium,Clean
+1596,2025-07-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,101,49,67.33,58,14,High,Clean
+1597,2025-07-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,64,16,80.0,80,0,Medium,Clean
+1598,2025-07-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,85,15,85.0,91,14,Low,Clean
+1599,2025-07-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,150,50,75.0,86,7,Medium,Clean
+1600,2025-07-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,189,111,63.0,63,20,High,Clean
+1601,2025-07-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,166,14,92.22,82,13,Low,Clean
+1602,2025-07-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,184,66,73.6,63,9,Medium,Clean
+1603,2025-07-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,187,113,62.33,58,21,High,Clean
+1604,2025-07-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,110,10,91.67,98,10,Low,Clean
+1605,2025-07-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,58,42,58.0,93,13,High,Inconsistent Installation Name
+1606,2025-07-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,118,62,65.56,55,28,High,Clean
+1607,2025-07-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,82,18,82.0,89,9,Medium,Clean
+1608,2025-07-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,196,4,98.0,82,6,Low,Clean
+1609,2025-07-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,286,14,95.33,71,10,Low,Clean
+1610,2025-07-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,104,16,86.67,61,20,Medium,Clean
+1611,2025-07-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,165,15,91.67,87,6,Low,Clean
+1612,2025-07-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,110,40,73.33,65,16,Medium,Clean
+1613,2025-07-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,53,27,66.25,86,7,High,Clean
+1614,2025-07-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,89,11,89.0,74,6,Low,Clean
+1615,2025-07-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,78,2,97.5,91,5,Low,Clean
+1616,2025-07-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,76,24,76.0,59,11,Medium,Clean
+1617,2025-07-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,108,12,90.0,85,12,Low,Clean
+1618,2025-07-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,72114,120,118,2,98.33,93,15,Low,Clean
+1619,2025-07-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,134,16,89.33,67,15,Low,Clean
+1620,2025-07-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,143,37,79.44,97,13,Medium,Clean
+1621,2025-07-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,148,52,74.0,88,7,Medium,Clean
+1622,2025-07-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,80,20,80.0,59,18,Medium,Clean
+1623,2025-07-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,78,2,97.5,69,14,Low,Clean
+1624,2025-07-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,110,40,73.33,95,6,Medium,Clean
+1625,2025-07-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,110,40,73.33,57,15,Medium,Clean
+1626,2025-07-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,98,2,98.0,72,12,Low,Clean
+1627,2025-07-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,180,120,60.0,63,18,High,Clean
+1628,2025-07-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,222,78,74.0,85,18,Medium,Clean
+1629,2025-07-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,141,9,94.0,97,0,Low,Clean
+1630,2025-07-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,192,8,96.0,84,22,Medium,Clean
+1631,2025-07-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,57,23,71.25,96,12,Medium,Clean
+1632,2025-07-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,69,11,86.25,76,13,Low,Clean
+1633,2025-07-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,136,14,90.67,89,11,Low,Clean
+1634,2025-07-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,86,34,71.67,72,20,Medium,Clean
+1635,2025-07-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,89,61,59.33,59,26,High,Clean
+1636,2025-07-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,98,2,98.0,89,3,Low,Clean
+1637,2025-07-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,78,22,78.0,70,21,Medium,Clean
+1638,2025-07-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,200,50,80.0,68,13,Medium,Clean
+1639,2025-07-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,53,27,66.25,55,23,High,Clean
+1640,2025-07-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,142,38,78.89,84,10,Medium,Clean
+1641,2025-07-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,245,5,98.0,90,7,Low,Clean
+1642,2025-07-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,213,87,71.0,73,6,Medium,Clean
+1643,2025-07-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,64,16,80.0,89,3,Medium,Clean
+1644,2025-07-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,144,56,72.0,92,4,Medium,Clean
+1645,2025-07-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,107,13,89.17,87,10,Low,Clean
+1646,2025-07-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,77,43,64.17,59,11,High,Clean
+1647,2025-07-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,118,32,78.67,91,1,Medium,Clean
+1648,2025-07-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,63,17,78.75,81,14,Medium,Clean
+1649,2025-07-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,126,74,63.0,68,14,High,Clean
+1650,2025-07-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,154,46,77.0,80,23,Medium,Clean
+1651,2025-07-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,113,67,62.78,59,17,High,Clean
+1652,2025-07-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,255,45,85.0,91,4,Low,Clean
+1653,2025-07-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,90,10,90.0,87,10,Low,Clean
+1654,2025-07-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,84,36,70.0,59,18,Medium,Clean
+1655,2025-07-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,193,7,96.5,83,17,Medium,Clean
+1656,2025-07-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,153,27,85.0,96,14,Low,Clean
+1657,2025-07-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,69,11,86.25,90,0,Low,Clean
+1658,2025-07-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,88,12,88.0,63,15,Low,Clean
+1659,2025-07-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,87,13,87.0,90,13,Low,Clean
+1660,2025-07-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,145,35,80.56,68,19,Medium,Clean
+1661,2025-07-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,179,21,89.5,95,11,Low,Clean
+1662,2025-07-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,260,40,86.67,58,19,Medium,Clean
+1663,2025-07-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,153,97,61.2,57,21,High,Clean
+1664,2025-07-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,181,19,90.5,95,17,Medium,Clean
+1665,2025-07-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,118,2,98.33,90,12,Low,Clean
+1666,2025-07-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,166,84,66.4,62,13,High,Clean
+1667,2025-07-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,100,20,83.33,78,6,Medium,Clean
+1668,2025-07-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,72,48,60.0,57,16,High,Clean
+1669,2025-07-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,157,43,78.5,57,18,Medium,Clean
+1670,2025-07-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,147,3,98.0,97,5,Low,Clean
+1671,2025-07-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,181,19,90.5,81,10,Low,Clean
+1672,2025-07-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,91,29,75.83,70,15,Medium,Clean
+1673,2025-08-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,58,42,58.0,72,13,High,Clean
+1674,2025-08-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,113,37,75.33,61,11,Medium,Clean
+1675,2025-08-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,53,47,53.0,57,15,High,Clean
+1676,2025-08-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,68,32,68.0,87,14,High,Clean
+1677,2025-08-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,71,9,88.75,96,0,Low,Clean
+1678,2025-08-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,264,-14,105.6,92,12,Medium,Invalid Occupancy
+1679,2025-08-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,62,18,77.5,65,13,Medium,Clean
+1680,2025-08-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,178,72,71.2,64,14,Medium,Clean
+1681,2025-08-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,147,53,73.5,79,11,Medium,Clean
+1682,2025-08-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,168,32,84.0,93,23,Medium,Clean
+1683,2025-08-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,75,5,93.75,89,6,Low,Clean
+1684,2025-08-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,223,27,89.2,73,12,Low,Clean
+1685,2025-08-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,150,50,75.0,59,12,Medium,Clean
+1686,2025-08-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,133,17,88.67,60,13,Low,Clean
+1687,2025-08-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,97,3,97.0,84,16,Medium,Clean
+1688,2025-08-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,157,43,78.5,77,12,Medium,Clean
+1689,2025-08-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,176,4,97.78,98,10,Low,Clean
+1690,2025-08-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,65,35,65.0,65,16,High,Clean
+1691,2025-08-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,110,40,73.33,79,8,Medium,Clean
+1692,2025-08-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,110,40,73.33,58,23,Medium,Clean
+1693,2025-08-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,78,2,97.5,80,24,Medium,Clean
+1694,2025-08-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,96,4,96.0,91,4,Low,Clean
+1695,2025-08-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,153,47,76.5,86,18,Medium,Clean
+1696,2025-08-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,177,123,59.0,63,14,High,Clean
+1697,2025-08-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,155,25,86.11,82,19,Medium,Clean
+1698,2025-08-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,161,89,64.4,63,21,High,Clean
+1699,2025-08-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,255,45,85.0,58,16,Medium,Clean
+1700,2025-08-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,116,4,96.67,98,0,Low,Clean
+1701,2025-08-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,89,11,89.0,93,7,Low,Clean
+1702,2025-08-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,81,99,45.0,55,19,High,Clean
+1703,2025-08-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,91,9,91.0,89,0,Low,Clean
+1704,2025-08-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,156,44,78.0,82,7,Medium,Clean
+1705,2025-08-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,244,56,81.33,71,12,Medium,Clean
+1706,2025-08-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,77,43,64.17,61,11,High,Clean
+1707,2025-08-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,161,19,89.44,87,7,Low,Clean
+1708,2025-08-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,112,38,74.67,65,14,Medium,Clean
+1709,2025-08-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,72,8,90.0,86,9,Low,Clean
+1710,2025-08-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,89,11,89.0,74,13,Low,Clean
+1711,2025-08-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,78,2,97.5,91,14,Low,Clean
+1712,2025-08-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,58,42,58.0,59,21,High,Clean
+1713,2025-08-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,118,2,98.33,85,5,Low,Clean
+1714,2025-08-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,72114,120,107,13,89.17,93,6,Low,Clean
+1715,2025-08-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,121,29,80.67,67,17,Medium,Clean
+1716,2025-08-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,153,27,85.0,97,13,Low,Clean
+1717,2025-08-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,157,43,78.5,88,8,Medium,Clean
+1718,2025-08-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,83,17,83.0,59,26,High,Clean
+1719,2025-08-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,64,16,80.0,69,18,Medium,Clean
+1720,2025-08-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,139,11,92.67,95,0,Low,Clean
+1721,2025-08-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,93,57,62.0,57,11,High,Clean
+1722,2025-08-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,82,18,82.0,72,11,Medium,Clean
+1723,2025-08-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,224,76,74.67,63,22,Medium,Clean
+1724,2025-08-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,269,31,89.67,85,23,Medium,Clean
+1725,2025-08-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,134,16,89.33,97,11,Low,Clean
+1726,2025-08-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,178,22,89.0,84,18,Medium,Clean
+1727,2025-08-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,70,10,87.5,96,11,Low,Clean
+1728,2025-08-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,78,2,97.5,76,8,Low,Clean
+1729,2025-08-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,130,20,86.67,89,11,Low,Clean
+1730,2025-08-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,90,30,75.0,72,9,Medium,Clean
+1731,2025-08-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,136,14,90.67,59,15,Low,Clean
+1732,2025-08-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,98,2,98.0,89,6,Low,Clean
+1733,2025-08-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,76,24,76.0,70,17,Medium,Clean
+1734,2025-08-01,Fort Patriot,,CONUS,Training - AIT,72115,250,207,43,82.8,68,10,Medium,Missing Building
+1735,2025-08-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,51,29,63.75,55,19,High,Clean
+1736,2025-08-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,141,39,78.33,84,10,Medium,Clean
+1737,2025-08-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,184,66,73.6,90,6,Medium,Clean
+1738,2025-08-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,233,67,77.67,73,10,Medium,Clean
+1739,2025-08-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,68,12,85.0,89,4,Low,Clean
+1740,2025-08-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,179,21,89.5,92,15,Low,Clean
+1741,2025-08-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,87,33,72.5,87,8,Medium,Clean
+1742,2025-08-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,99,21,82.5,59,18,Medium,Clean
+1743,2025-08-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,131,19,87.33,91,6,Low,Clean
+1744,2025-08-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,73,7,91.25,81,10,Low,Clean
+1745,2025-08-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,110,90,55.0,68,10,High,Clean
+1746,2025-08-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,127,73,63.5,80,17,High,Clean
+1747,2025-08-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,160,20,88.89,59,12,Low,Clean
+1748,2025-08-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,290,10,96.67,91,20,Medium,Clean
+1749,2025-08-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,80,20,80.0,87,16,Medium,Clean
+1750,2025-08-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,101,19,84.17,59,15,Medium,Clean
+1751,2025-08-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,163,37,81.5,83,7,Medium,Clean
+1752,2025-08-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,157,23,87.22,96,0,Low,Clean
+1753,2025-08-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,75,5,93.75,90,7,Low,Clean
+1754,2025-08-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,87,13,87.0,63,13,Low,Clean
+1755,2025-08-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,98,2,98.0,90,0,Low,Clean
+1756,2025-08-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,136,44,75.56,68,18,Medium,Clean
+1757,2025-08-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,196,4,98.0,95,2,Low,Clean
+1758,2025-08-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,294,6,98.0,58,12,Low,Clean
+1759,2025-08-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,211,39,84.4,57,17,Medium,Clean
+1760,2025-08-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,196,4,98.0,95,16,Medium,Clean
+1761,2025-08-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,107,13,89.17,90,23,Medium,Clean
+1762,2025-08-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,157,93,62.8,62,14,High,Clean
+1763,2025-08-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,118,2,98.33,78,8,Low,Clean
+1764,2025-08-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,78,42,65.0,57,17,High,Clean
+1765,2025-08-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,168,32,84.0,57,19,Medium,Clean
+1766,2025-08-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,138,12,92.0,97,8,Low,Clean
+1767,2025-08-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,180,20,90.0,81,18,Medium,Clean
+1768,2025-08-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,98,22,81.67,70,7,Medium,Clean
+1769,2025-09-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,79,21,79.0,72,10,Medium,Clean
+1770,2025-09-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,142,8,94.67,61,7,Low,Clean
+1771,2025-09-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,77,23,77.0,57,11,Medium,Clean
+1772,2025-09-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,98,2,98.0,87,13,Low,Clean
+1773,2025-09-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,75,5,93.75,96,10,Low,Clean
+1774,2025-09-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,214,36,85.6,92,11,Low,Clean
+1775,2025-09-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,66,14,82.5,65,18,Medium,Clean
+1776,2025-09-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,189,61,75.6,64,3,Medium,Clean
+1777,2025-09-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,171,29,85.5,79,19,Medium,Clean
+1778,2025-09-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,196,4,98.0,93,8,Low,Clean
+1779,2025-09-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,75,5,93.75,89,7,Low,Clean
+1780,2025-09-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,215,35,86.0,73,16,Medium,Clean
+1781,2025-09-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,125,75,62.5,59,20,High,Clean
+1782,2025-09-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,128,22,85.33,60,11,Low,Clean
+1783,2025-09-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,91,9,91.0,84,12,Low,Clean
+1784,2025-09-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,177,23,88.5,77,10,Low,Clean
+1785,2025-09-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,170,10,94.44,98,4,Low,Clean
+1786,2025-09-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,79,21,79.0,65,17,Medium,Clean
+1787,2025-09-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,123,27,82.0,79,4,Medium,Clean
+1788,2025-09-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,104,46,69.33,58,20,High,Clean
+1789,2025-09-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,63,17,78.75,80,12,Medium,Clean
+1790,2025-09-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,93,7,93.0,91,5,Low,Clean
+1791,2025-09-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,173,27,86.5,86,18,Medium,Clean
+1792,2025-09-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,232,68,77.33,63,14,Medium,Clean
+1793,2025-09-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,139,41,77.22,82,13,Medium,Clean
+1794,2025-09-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,215,35,86.0,63,18,Medium,Clean
+1795,2025-09-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,251,49,83.67,58,19,Medium,Clean
+1796,2025-09-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,95,25,79.17,98,6,Medium,Clean
+1797,2025-09-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,95,5,95.0,93,11,Low,Clean
+1798,2025-09-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,118,62,65.56,55,17,High,Clean
+1799,2025-09-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,91,9,91.0,89,15,Low,Clean
+1800,2025-09-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,196,4,98.0,82,14,Low,Clean
+1801,2025-09-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,271,29,90.33,71,8,Low,Clean
+1802,2025-09-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,75,45,62.5,61,15,High,Clean
+1803,2025-09-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,174,6,96.67,87,11,Low,Clean
+1804,2025-09-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,122,28,81.33,65,7,Medium,Clean
+1805,2025-09-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,57,23,71.25,86,15,Medium,Clean
+1806,2025-09-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,80,20,80.0,74,6,Medium,Clean
+1807,2025-09-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,78,2,97.5,91,10,Low,Clean
+1808,2025-09-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,98,2,98.0,59,23,Medium,Clean
+1809,2025-09-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,107,13,89.17,85,9,Low,Clean
+1810,2025-09-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,72114,120,110,10,91.67,93,7,Low,Clean
+1811,2025-09-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,93,57,62.0,67,19,High,Clean
+1812,2025-09-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,170,10,94.44,97,0,Low,Clean
+1813,2025-09-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,161,39,80.5,88,5,Medium,Clean
+1814,2025-09-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,82,18,82.0,59,16,Medium,Clean
+1815,2025-09-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,78,2,97.5,69,6,Low,Clean
+1816,2025-09-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,120,30,80.0,95,13,Medium,Clean
+1817,2025-09-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,97,53,64.67,57,11,High,Clean
+1818,2025-09-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,82,18,82.0,72,9,Medium,Clean
+1819,2025-09-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,240,60,80.0,63,21,Medium,Clean
+1820,2025-09-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,209,91,69.67,85,8,High,Clean
+1821,2025-09-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,137,13,91.33,97,7,Low,Clean
+1822,2025-09-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,187,13,93.5,84,11,Low,Clean
+1823,2025-09-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,68,12,85.0,96,1,Low,Clean
+1824,2025-09-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,50,30,62.5,76,10,High,Clean
+1825,2025-09-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,131,19,87.33,89,13,Low,Clean
+1826,2025-09-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,90,30,75.0,72,25,Medium,Clean
+1827,2025-09-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,108,42,72.0,59,14,Medium,Clean
+1828,2025-09-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,91,9,91.0,89,4,Low,Clean
+1829,2025-09-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,80,20,80.0,70,3,Medium,Clean
+1830,2025-09-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,229,21,91.6,68,14,Low,Clean
+1831,2025-09-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,58,22,72.5,55,18,Medium,Clean
+1832,2025-09-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,130,50,72.22,84,6,Medium,Clean
+1833,2025-09-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,245,5,98.0,90,11,Low,Clean
+1834,2025-09-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,221,79,73.67,73,15,Medium,Clean
+1835,2025-09-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,78,2,97.5,89,19,Medium,Clean
+1836,2025-09-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,196,4,98.0,92,10,Low,Clean
+1837,2025-09-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,98,22,81.67,87,18,Medium,Clean
+1838,2025-09-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,86,34,71.67,59,12,Medium,Clean
+1839,2025-09-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,114,36,76.0,91,4,Medium,Clean
+1840,2025-09-01,Ft Patriot,BLDG-612,CONUS,Training - AIT,72115,80,70,10,87.5,81,15,Low,Inconsistent Installation Name
+1841,2025-09-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,172,28,86.0,68,20,Medium,Clean
+1842,2025-09-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,169,31,84.5,80,15,Medium,Clean
+1843,2025-09-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,176,4,97.78,59,21,Medium,Clean
+1844,2025-09-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,294,6,98.0,91,1,Low,Clean
+1845,2025-09-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,79,21,79.0,87,5,Medium,Clean
+1846,2025-09-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,64,56,53.33,59,17,High,Clean
+1847,2025-09-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,196,4,98.0,83,8,Low,Clean
+1848,2025-09-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,167,13,92.78,96,3,Low,Clean
+1849,2025-09-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,66,14,82.5,90,10,Medium,Clean
+1850,2025-09-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,71,29,71.0,63,21,Medium,Clean
+1851,2025-09-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,77,23,77.0,90,10,Medium,Clean
+1852,2025-09-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,144,36,80.0,68,21,Medium,Clean
+1853,2025-09-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,196,4,98.0,95,0,Low,Clean
+1854,2025-09-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,167,133,55.67,58,11,High,Clean
+1855,2025-09-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,166,84,66.4,57,16,High,Clean
+1856,2025-09-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,182,18,91.0,95,11,Low,Clean
+1857,2025-09-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,99,21,82.5,90,0,Medium,Clean
+1858,2025-09-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,191,59,76.4,62,14,Medium,Clean
+1859,2025-09-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,97,23,80.83,78,8,Medium,Clean
+1860,2025-09-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,84,36,70.0,57,24,Medium,Clean
+1861,2025-09-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,127,73,63.5,57,11,High,Clean
+1862,2025-09-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,147,3,98.0,97,15,Low,Clean
+1863,2025-09-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,163,37,81.5,81,4,Medium,Clean
+1864,2025-09-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,70,50,58.33,70,15,High,Clean
+1865,2025-10-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,67,33,67.0,72,24,High,Clean
+1866,2025-10-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,145,5,96.67,61,17,Medium,Clean
+1867,2025-10-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,76,24,76.0,57,16,Medium,Clean
+1868,2025-10-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,98,2,98.0,87,9,Low,Clean
+1869,2025-10-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,73,7,91.25,96,14,Low,Clean
+1870,2025-10-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,238,12,95.2,92,19,Medium,Clean
+1871,2025-10-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,47,33,58.75,65,12,High,Clean
+1872,2025-10-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,165,85,66.0,64,19,High,Clean
+1873,2025-10-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,155,45,77.5,79,14,Medium,Clean
+1874,2025-10-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,156,44,78.0,93,7,Medium,Clean
+1875,2025-10-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,78,2,97.5,89,17,Medium,Clean
+1876,2025-10-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,152,98,60.8,73,15,High,Clean
+1877,2025-10-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,162,38,81.0,59,14,Medium,Clean
+1878,2025-10-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,93,57,62.0,60,19,High,Clean
+1879,2025-10-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,86,14,86.0,84,13,Low,Clean
+1880,2025-10-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,160,40,80.0,77,23,Medium,Clean
+1881,2025-10-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,149,31,82.78,98,4,Medium,Clean
+1882,2025-10-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,81,19,81.0,65,18,Medium,Clean
+1883,2025-10-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,103,47,68.67,79,18,High,Clean
+1884,2025-10-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,86,64,57.33,58,17,High,Clean
+1885,2025-10-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,64,16,80.0,80,7,Medium,Clean
+1886,2025-10-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,98,2,98.0,91,0,Low,Clean
+1887,2025-10-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,157,43,78.5,86,5,Medium,Clean
+1888,2025-10-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,250,50,83.33,63,23,Medium,Clean
+1889,2025-10-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,165,15,91.67,82,17,Medium,Clean
+1890,2025-10-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,131,119,52.4,63,16,High,Clean
+1891,2025-10-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,175,125,58.33,58,15,High,Clean
+1892,2025-10-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,113,7,94.17,98,7,Low,Clean
+1893,2025-10-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,98,2,98.0,93,0,Low,Clean
+1894,2025-10-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,112,68,62.22,55,10,High,Clean
+1895,2025-10-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,71,29,71.0,89,14,Medium,Clean
+1896,2025-10-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,172,28,86.0,82,18,Medium,Clean
+1897,2025-10-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,271,29,90.33,71,14,Low,Clean
+1898,2025-10-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,77,43,64.17,61,21,High,Clean
+1899,2025-10-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,143,37,79.44,87,3,Medium,Clean
+1900,2025-10-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,96,54,64.0,65,15,High,Clean
+1901,2025-10-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,78,2,97.5,86,10,Low,Clean
+1902,2025-10-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,92,8,92.0,74,13,Low,Clean
+1903,2025-10-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,67,13,83.75,91,22,Medium,Clean
+1904,2025-10-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,91,9,91.0,59,17,Medium,Clean
+1905,2025-10-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,93,27,77.5,85,2,Medium,Clean
+1906,2025-10-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,72114,120,112,8,93.33,93,6,Low,Clean
+1907,2025-10-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,122,28,81.33,67,16,Medium,Clean
+1908,2025-10-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,173,7,96.11,97,12,Low,Clean
+1909,2025-10-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,180,20,90.0,88,5,Low,Clean
+1910,2025-10-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,65,35,65.0,59,19,High,Clean
+1911,2025-10-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,53,27,66.25,69,17,High,Clean
+1912,2025-10-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,146,4,97.33,95,7,Low,Clean
+1913,2025-10-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,96,54,64.0,57,8,High,Clean
+1914,2025-10-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,68,32,68.0,72,5,High,Clean
+1915,2025-10-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,224,76,74.67,63,13,Medium,Clean
+1916,2025-10-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,229,71,76.33,85,14,Medium,Clean
+1917,2025-10-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,139,11,92.67,97,7,Low,Clean
+1918,2025-10-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,181,19,90.5,84,15,Low,Clean
+1919,2025-10-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,60,20,75.0,96,11,Medium,Clean
+1920,2025-10-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,50,30,62.5,76,8,High,Clean
+1921,2025-10-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,146,4,97.33,89,12,Low,Clean
+1922,2025-10-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,103,17,85.83,72,14,Low,Clean
+1923,2025-10-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,130,20,86.67,59,9,Low,Clean
+1924,2025-10-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,84,16,84.0,89,9,Medium,Clean
+1925,2025-10-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,98,2,98.0,70,19,Medium,Clean
+1926,2025-10-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,218,32,87.2,68,10,Low,Clean
+1927,2025-10-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,74,6,92.5,55,20,Medium,Clean
+1928,2025-10-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,135,45,75.0,84,22,Medium,Clean
+1929,2025-10-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,184,66,73.6,90,4,Medium,Clean
+1930,2025-10-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,231,69,77.0,73,8,Medium,Clean
+1931,2025-10-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,74,6,92.5,89,10,Low,Clean
+1932,2025-10-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,180,20,90.0,92,17,Medium,Clean
+1933,2025-10-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,84,36,70.0,87,16,Medium,Clean
+1934,2025-10-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,77,43,64.17,59,24,High,Clean
+1935,2025-10-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,147,3,98.0,91,20,Medium,Clean
+1936,2025-10-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,65,15,81.25,81,5,Medium,Clean
+1937,2025-10-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,161,39,80.5,68,14,Medium,Clean
+1938,2025-10-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,131,69,65.5,80,15,High,Clean
+1939,2025-10-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,114,66,63.33,59,23,High,Clean
+1940,2025-10-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,294,6,98.0,91,7,Low,Clean
+1941,2025-10-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,87,13,87.0,87,8,Low,Clean
+1942,2025-10-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,82,38,68.33,59,32,High,Clean
+1943,2025-10-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,150,50,75.0,83,11,Medium,Clean
+1944,2025-10-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,176,4,97.78,96,5,Low,Clean
+1945,2025-10-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,65,15,81.25,90,2,Medium,Clean
+1946,2025-10-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,86,14,86.0,63,19,Medium,Clean
+1947,2025-10-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,93,7,93.0,90,1,Low,Clean
+1948,2025-10-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,148,32,82.22,68,15,Medium,Clean
+1949,2025-10-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,174,26,87.0,95,0,Low,Clean
+1950,2025-10-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,214,86,71.33,58,12,Medium,Clean
+1951,2025-10-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,181,69,72.4,57,17,Medium,Clean
+1952,2025-10-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,174,26,87.0,95,12,Low,Clean
+1953,2025-10-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,105,15,87.5,90,11,Low,Clean
+1954,2025-10-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,195,55,78.0,62,21,Medium,Clean
+1955,2025-10-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,87,33,72.5,78,10,Medium,Clean
+1956,2025-10-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,97,23,80.83,57,18,Medium,Clean
+1957,2025-10-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,166,34,83.0,57,20,Medium,Clean
+1958,2025-10-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,131,19,87.33,97,11,Low,Clean
+1959,2025-10-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,162,38,81.0,81,16,Medium,Clean
+1960,2025-10-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,116,4,96.67,70,19,Medium,Clean
+1961,2025-11-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,98,2,98.0,72,5,Low,Clean
+1962,2025-11-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,102,48,68.0,61,14,High,Clean
+1963,2025-11-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,67,33,67.0,57,19,High,Clean
+1964,2025-11-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,83,17,83.0,87,15,Medium,Clean
+1965,2025-11-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,78,2,97.5,96,9,Low,Clean
+1966,2025-11-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,197,53,78.8,92,11,Medium,Clean
+1967,2025-11-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,66,14,82.5,65,17,Medium,Clean
+1968,2025-11-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,188,62,75.2,64,22,Medium,Clean
+1969,2025-11-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,154,46,77.0,79,9,Medium,Clean
+1970,2025-11-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,192,8,96.0,93,10,Low,Clean
+1971,2025-11-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,77,3,96.25,89,7,Low,Clean
+1972,2025-11-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,166,84,66.4,73,7,High,Clean
+1973,2025-11-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,136,64,68.0,59,20,High,Clean
+1974,2025-11-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,121,29,80.67,60,7,Medium,Clean
+1975,2025-11-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,90,10,90.0,84,10,Low,Clean
+1976,2025-11-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,142,58,71.0,77,23,Medium,Clean
+1977,2025-11-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,170,10,94.44,98,11,Low,Clean
+1978,2025-11-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,98,2,98.0,65,12,Low,Clean
+1979,2025-11-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,118,32,78.67,79,19,Medium,Clean
+1980,2025-11-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,88,62,58.67,58,17,High,Clean
+1981,2025-11-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,67,13,83.75,80,16,Medium,Clean
+1982,2025-11-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,93,7,93.0,91,4,Low,Clean
+1983,2025-11-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,191,9,95.5,86,14,Low,Clean
+1984,2025-11-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,192,108,64.0,63,12,High,Clean
+1985,2025-11-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,186,-6,103.33,82,5,Medium,Invalid Occupancy
+1986,2025-11-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,213,37,85.2,63,14,Low,Clean
+1987,2025-11-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,208,92,69.33,58,11,High,Clean
+1988,2025-11-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,106,14,88.33,98,14,Low,Clean
+1989,2025-11-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,97,3,97.0,93,0,Low,Clean
+1990,2025-11-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,109,71,60.56,55,20,High,Clean
+1991,2025-11-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,83,17,83.0,89,6,Medium,Clean
+1992,2025-11-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,151,49,75.5,82,4,Medium,Clean
+1993,2025-11-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,238,62,79.33,71,11,Medium,Clean
+1994,2025-11-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,102,18,85.0,61,15,Low,Clean
+1995,2025-11-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,138,42,76.67,87,13,Medium,Clean
+1996,2025-11-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,133,17,88.67,65,11,Low,Clean
+1997,2025-11-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,55,25,68.75,86,7,High,Clean
+1998,2025-11-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,67,33,67.0,74,21,High,Clean
+1999,2025-11-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,60,20,75.0,91,7,Medium,Clean
+2000,2025-11-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,87,13,87.0,59,21,Medium,Clean
+2001,2025-11-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,96,24,80.0,85,6,Medium,Clean
+2002,2025-11-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,72114,120,105,15,87.5,93,7,Low,Clean
+2003,2025-11-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,137,13,91.33,67,13,Low,Clean
+2004,2025-11-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,140,40,77.78,97,12,Medium,Clean
+2005,2025-11-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,195,5,97.5,88,8,Low,Clean
+2006,2025-11-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,80,20,80.0,59,17,Medium,Clean
+2007,2025-11-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,52,28,65.0,69,13,High,Clean
+2008,2025-11-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,119,31,79.33,95,4,Medium,Clean
+2009,2025-11-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,93,57,62.0,57,18,High,Clean
+2010,2025-11-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,81,19,81.0,72,6,Medium,Clean
+2011,2025-11-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,196,104,65.33,63,15,High,Clean
+2012,2025-11-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,270,30,93.32,85,10,Low,Incorrect Net Use Percent
+2013,2025-11-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,104,46,69.33,97,13,High,Clean
+2014,2025-11-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,196,4,98.0,84,18,Medium,Clean
+2015,2025-11-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,77,3,96.25,96,10,Low,Clean
+2016,2025-11-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,60,20,75.0,76,13,Medium,Clean
+2017,2025-11-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,114,36,76.0,89,9,Medium,Inconsistent Installation Name
+2018,2025-11-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,78,42,65.0,72,16,High,Clean
+2019,2025-11-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,103,47,68.67,59,20,High,Clean
+2020,2025-11-01,Camp Liberty,,CONUS,PP Senior NCO,72113,100,89,11,89.0,89,6,Low,Missing Building
+2021,2025-11-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,86,14,86.0,70,8,Low,Clean
+2022,2025-11-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,186,64,74.4,68,11,Medium,Clean
+2023,2025-11-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,62,18,77.5,55,17,Medium,Clean
+2024,2025-11-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,158,22,87.78,84,13,Low,Clean
+2025,2025-11-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,161,89,64.4,90,4,High,Clean
+2026,2025-11-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,242,58,80.67,73,18,Medium,Clean
+2027,2025-11-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,75,5,93.75,89,15,Low,Clean
+2028,2025-11-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,174,26,87.0,92,9,Low,Clean
+2029,2025-11-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,98,22,81.67,87,7,Medium,Clean
+2030,2025-11-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,77,43,64.17,59,14,High,Clean
+2031,2025-11-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,130,20,86.67,91,5,Low,Clean
+2032,2025-11-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,67,13,83.75,81,2,Medium,Clean
+2033,2025-11-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,163,37,81.5,68,15,Medium,Clean
+2034,2025-11-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,175,25,87.5,80,9,Low,Clean
+2035,2025-11-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,121,59,67.22,59,21,High,Clean
+2036,2025-11-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,261,39,87.0,91,18,Medium,Clean
+2037,2025-11-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,72,28,72.0,87,8,Medium,Clean
+2038,2025-11-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,73,47,60.83,59,12,High,Clean
+2039,2025-11-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,153,47,76.5,83,8,Medium,Clean
+2040,2025-11-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,176,4,97.78,96,1,Low,Clean
+2041,2025-11-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,75,5,93.75,90,1,Low,Clean
+2042,2025-11-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,70,30,70.0,63,22,Medium,Clean
+2043,2025-11-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,93,7,93.0,90,10,Low,Clean
+2044,2025-11-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,150,30,83.33,68,17,Medium,Clean
+2045,2025-11-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,194,6,97.0,95,14,Low,Clean
+2046,2025-11-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,185,115,61.67,58,16,High,Clean
+2047,2025-11-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,195,55,78.0,57,20,Medium,Clean
+2048,2025-11-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,192,8,100.19,95,14,Low,Incorrect Net Use Percent
+2049,2025-11-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,100,20,83.33,90,2,Medium,Clean
+2050,2025-11-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,217,33,86.8,62,15,Low,Clean
+2051,2025-11-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,92,28,76.67,78,12,Medium,Clean
+2052,2025-11-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,81,39,67.5,57,22,High,Clean
+2053,2025-11-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,161,39,80.5,57,18,Medium,Clean
+2054,2025-11-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,145,5,96.67,97,7,Low,Clean
+2055,2025-11-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,188,12,94.0,81,0,Low,Clean
+2056,2025-11-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,80,40,66.67,70,13,High,Clean
+2057,2025-12-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,75,25,75.0,72,8,Medium,Clean
+2058,2025-12-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,120,30,80.0,61,11,Medium,Clean
+2059,2025-12-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,74,26,74.0,57,17,Medium,Clean
+2060,2025-12-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,87,13,87.0,87,5,Low,Clean
+2061,2025-12-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,71,9,88.75,96,13,Low,Clean
+2062,2025-12-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,236,14,94.4,92,13,Low,Clean
+2063,2025-12-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,60,20,75.0,65,6,Medium,Clean
+2064,2025-12-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,176,74,70.4,64,14,Medium,Clean
+2065,2025-12-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,191,9,95.5,79,17,Medium,Clean
+2066,2025-12-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,187,13,93.5,93,3,Low,Clean
+2067,2025-12-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,71,9,88.75,89,7,Low,Clean
+2068,2025-12-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,193,57,77.2,73,7,Medium,Clean
+2069,2025-12-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,154,46,77.0,59,16,Medium,Clean
+2070,2025-12-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,122,28,81.33,60,9,Medium,Clean
+2071,2025-12-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,74,26,74.0,84,28,High,Clean
+2072,2025-12-01,Fort Mason,,CONUS,Transient Training,72116,200,145,55,72.5,77,13,Medium,Missing Building
+2073,2025-12-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,173,7,96.11,98,2,Low,Clean
+2074,2025-12-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,93,7,93.0,65,14,Low,Clean
+2075,2025-12-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,126,24,84.0,79,20,Medium,Clean
+2076,2025-12-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,96,54,64.0,58,14,High,Clean
+2077,2025-12-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,64,16,80.0,80,4,Medium,Clean
+2078,2025-12-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,91,9,91.0,91,11,Low,Clean
+2079,2025-12-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,176,24,88.0,86,13,Low,Clean
+2080,2025-12-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,249,51,83.0,63,17,Medium,Clean
+2081,2025-12-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,147,33,81.67,82,17,Medium,Clean
+2082,2025-12-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,169,81,67.6,63,22,High,Clean
+2083,2025-12-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,210,90,70.0,58,20,Medium,Clean
+2084,2025-12-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,118,2,98.33,98,0,Low,Clean
+2085,2025-12-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,88,12,88.0,93,6,Low,Clean
+2086,2025-12-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,158,22,87.78,55,15,Low,Clean
+2087,2025-12-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,98,2,98.0,89,1,Low,Clean
+2088,2025-12-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,175,25,87.5,82,9,Low,Clean
+2089,2025-12-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,251,49,83.67,71,10,Medium,Clean
+2090,2025-12-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,83,37,69.17,61,7,High,Clean
+2091,2025-12-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,158,22,87.78,87,2,Low,Clean
+2092,2025-12-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,94,56,62.67,65,15,High,Clean
+2093,2025-12-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,68,12,85.0,86,15,Low,Clean
+2094,2025-12-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,66,34,66.0,74,15,High,Clean
+2095,2025-12-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,73,7,91.25,91,7,Low,Clean
+2096,2025-12-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,64,36,64.0,59,16,High,Clean
+2097,2025-12-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,113,7,94.17,85,8,Low,Clean
+2098,2025-12-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,72114,120,118,2,98.33,93,6,Low,Clean
+2099,2025-12-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,141,9,94.0,67,14,Low,Clean
+2100,2025-12-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,162,18,90.0,97,0,Low,Clean
+2101,2025-12-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,145,55,72.5,88,11,Medium,Clean
+2102,2025-12-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,70,30,70.0,59,18,Medium,Clean
+2103,2025-12-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,57,23,71.25,69,13,Medium,Clean
+2104,2025-12-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,126,24,84.0,95,9,Medium,Clean
+2105,2025-12-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,104,46,69.33,57,26,High,Clean
+2106,2025-12-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,72,28,72.0,72,19,Medium,Clean
+2107,2025-12-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,192,108,64.0,63,13,High,Clean
+2108,2025-12-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,231,69,77.0,85,16,Medium,Clean
+2109,2025-12-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,144,6,96.0,97,7,Low,Clean
+2110,2025-12-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,175,25,87.5,84,5,Low,Clean
+2111,2025-12-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,78,2,97.5,96,14,Low,Clean
+2112,2025-12-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,65,15,81.25,76,12,Medium,Clean
+2113,2025-12-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,141,9,94.0,89,8,Low,Clean
+2114,2025-12-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,92,28,76.67,72,11,Medium,Clean
+2115,2025-12-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,104,46,69.33,59,14,High,Clean
+2116,2025-12-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,95,5,95.0,89,7,Low,Clean
+2117,2025-12-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,74,26,74.0,70,10,Medium,Clean
+2118,2025-12-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,155,95,62.0,68,22,High,Clean
+2119,2025-12-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,60,20,75.0,55,22,Medium,Clean
+2120,2025-12-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,143,37,79.44,84,17,Medium,Clean
+2121,2025-12-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,224,26,89.6,90,16,Medium,Clean
+2122,2025-12-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,238,62,79.33,73,13,Medium,Clean
+2123,2025-12-01,Ft Patriot,BLDG-607,CONUS,Training - AIT,72115,80,66,14,82.5,89,9,Medium,Inconsistent Installation Name
+2124,2025-12-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,182,18,91.0,92,15,Low,Clean
+2125,2025-12-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,118,2,98.33,87,10,Low,Clean
+2126,2025-12-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,102,18,85.0,59,3,Low,Clean
+2127,2025-12-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,126,24,84.0,91,9,Medium,Clean
+2128,2025-12-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,74,6,92.5,81,13,Low,Clean
+2129,2025-12-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,153,47,76.5,68,12,Medium,Clean
+2130,2025-12-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,150,50,75.0,80,21,Medium,Clean
+2131,2025-12-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,151,29,83.89,59,23,Medium,Clean
+2132,2025-12-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,266,34,88.67,91,6,Low,Clean
+2133,2025-12-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,92,8,92.0,87,9,Low,Clean
+2134,2025-12-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,85,35,70.83,59,16,Medium,Clean
+2135,2025-12-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,156,44,78.0,83,6,Medium,Clean
+2136,2025-12-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,159,21,88.33,96,0,Low,Clean
+2137,2025-12-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,75,5,93.75,90,13,Low,Clean
+2138,2025-12-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,67,33,67.0,63,6,High,Clean
+2139,2025-12-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,92,8,92.0,90,10,Low,Clean
+2140,2025-12-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,139,41,77.22,68,7,Medium,Clean
+2141,2025-12-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,143,57,71.5,95,16,Medium,Clean
+2142,2025-12-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,210,90,70.0,58,19,Medium,Clean
+2143,2025-12-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,177,73,70.8,57,19,Medium,Clean
+2144,2025-12-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,155,45,77.5,95,5,Medium,Clean
+2145,2025-12-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,89,31,74.17,90,3,Medium,Clean
+2146,2025-12-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,167,83,66.8,62,6,High,Clean
+2147,2025-12-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,93,27,77.5,78,8,Medium,Clean
+2148,2025-12-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,72,48,60.0,57,16,High,Clean
+2149,2025-12-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,143,57,71.5,57,13,Medium,Clean
+2150,2025-12-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,147,3,98.0,97,10,Low,Clean
+2151,2025-12-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,189,11,94.5,81,9,Low,Clean
+2152,2025-12-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,104,16,86.67,70,17,Medium,Clean
+2153,2026-01-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,69,31,69.0,72,10,High,Clean
+2154,2026-01-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,147,3,98.0,61,14,Low,Clean
+2155,2026-01-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,76,24,76.0,57,16,Medium,Clean
+2156,2026-01-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,95,5,95.0,87,4,Low,Clean
+2157,2026-01-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,65,15,81.25,96,13,Medium,Clean
+2158,2026-01-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,227,23,90.8,92,0,Low,Clean
+2159,2026-01-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,61,19,76.25,65,14,Medium,Clean
+2160,2026-01-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,205,45,82.0,64,17,Medium,Clean
+2161,2026-01-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,172,28,86.0,79,12,Low,Clean
+2162,2026-01-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,185,15,92.5,93,2,Low,Clean
+2163,2026-01-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,63,17,78.75,89,4,Medium,Clean
+2164,2026-01-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,165,85,66.0,73,17,High,Clean
+2165,2026-01-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,167,33,83.5,59,19,Medium,Clean
+2166,2026-01-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,100,50,66.67,60,13,High,Clean
+2167,2026-01-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,81,19,81.0,84,16,Medium,Clean
+2168,2026-01-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,174,26,87.0,77,20,Medium,Clean
+2169,2026-01-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,148,32,82.22,98,5,Medium,Clean
+2170,2026-01-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,63,37,63.0,65,8,High,Clean
+2171,2026-01-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,121,29,80.67,79,10,Medium,Clean
+2172,2026-01-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,100,50,66.67,58,9,High,Clean
+2173,2026-01-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,68,12,85.0,80,10,Low,Clean
+2174,2026-01-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,98,2,98.0,91,11,Low,Clean
+2175,2026-01-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,146,54,73.0,86,11,Medium,Clean
+2176,2026-01-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,206,94,72.33,63,23,High,Incorrect Net Use Percent
+2177,2026-01-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,151,29,83.89,82,8,Medium,Clean
+2178,2026-01-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,176,74,70.4,63,8,Medium,Clean
+2179,2026-01-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,254,46,84.67,58,27,High,Clean
+2180,2026-01-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,90,30,75.0,98,5,Medium,Clean
+2181,2026-01-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,88,12,88.0,93,5,Low,Clean
+2182,2026-01-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,149,31,82.78,55,23,Medium,Clean
+2183,2026-01-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,85,15,85.0,89,19,Medium,Clean
+2184,2026-01-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,169,31,84.5,82,9,Medium,Clean
+2185,2026-01-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,244,56,81.33,71,10,Medium,Clean
+2186,2026-01-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,106,14,88.33,61,19,Medium,Clean
+2187,2026-01-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,149,31,82.78,87,8,Medium,Clean
+2188,2026-01-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,100,50,66.67,65,16,High,Clean
+2189,2026-01-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,58,22,72.5,86,10,Medium,Clean
+2190,2026-01-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,75,25,75.0,74,15,Medium,Clean
+2191,2026-01-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,78,2,97.5,91,12,Low,Clean
+2192,2026-01-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,71,29,71.0,59,13,Medium,Clean
+2193,2026-01-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,99,21,82.5,85,10,Medium,Clean
+2194,2026-01-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,72114,120,113,7,94.17,93,5,Low,Clean
+2195,2026-01-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,100,50,66.67,67,15,High,Clean
+2196,2026-01-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,176,4,97.78,97,16,Medium,Clean
+2197,2026-01-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,190,10,95.0,88,4,Low,Clean
+2198,2026-01-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,87,13,87.0,59,12,Low,Clean
+2199,2026-01-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,56,24,70.0,69,16,Medium,Clean
+2200,2026-01-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,115,35,76.67,95,11,Medium,Clean
+2201,2026-01-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,106,44,70.67,57,19,Medium,Clean
+2202,2026-01-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,71,29,71.0,72,17,Medium,Clean
+2203,2026-01-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,239,61,79.67,63,13,Medium,Clean
+2204,2026-01-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,285,15,95.0,85,0,Low,Clean
+2205,2026-01-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,143,7,95.33,97,6,Low,Clean
+2206,2026-01-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,154,46,77.0,84,11,Medium,Clean
+2207,2026-01-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,77,3,96.25,96,3,Low,Clean
+2208,2026-01-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,64,16,80.0,76,12,Medium,Clean
+2209,2026-01-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,137,13,91.33,89,15,Low,Clean
+2210,2026-01-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,89,31,74.17,72,20,Medium,Clean
+2211,2026-01-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,89,61,59.33,59,18,High,Clean
+2212,2026-01-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,70,30,70.0,89,9,Medium,Clean
+2213,2026-01-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,85,15,85.0,70,24,Medium,Clean
+2214,2026-01-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,194,56,77.6,68,10,Medium,Clean
+2215,2026-01-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,65,15,81.25,55,17,Medium,Clean
+2216,2026-01-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,155,25,86.11,84,15,Low,Clean
+2217,2026-01-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,245,5,98.0,90,0,Low,Clean
+2218,2026-01-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,240,60,80.0,73,13,Medium,Clean
+2219,2026-01-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,61,19,76.25,89,1,Medium,Clean
+2220,2026-01-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,177,23,88.5,92,6,Low,Clean
+2221,2026-01-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,95,25,79.17,87,9,Medium,Clean
+2222,2026-01-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,83,37,69.17,59,16,High,Clean
+2223,2026-01-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,147,3,98.0,91,8,Low,Clean
+2224,2026-01-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,78,2,97.5,81,17,Medium,Clean
+2225,2026-01-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,173,27,86.5,68,10,Low,Clean
+2226,2026-01-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,160,40,80.0,80,6,Medium,Clean
+2227,2026-01-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,138,42,76.67,59,16,Medium,Clean
+2228,2026-01-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,279,21,93.0,91,10,Low,Clean
+2229,2026-01-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,88,12,88.0,87,7,Low,Clean
+2230,2026-01-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,75,45,62.5,59,14,High,Clean
+2231,2026-01-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,183,17,91.5,83,9,Low,Clean
+2232,2026-01-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,163,17,90.56,96,11,Low,Clean
+2233,2026-01-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,74,6,92.5,90,1,Low,Clean
+2234,2026-01-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,74,26,74.0,63,11,Medium,Clean
+2235,2026-01-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,87,13,87.0,90,10,Low,Clean
+2236,2026-01-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,148,32,82.22,68,22,Medium,Clean
+2237,2026-01-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,171,29,85.5,95,6,Low,Clean
+2238,2026-01-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,233,67,77.67,58,21,Medium,Clean
+2239,2026-01-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,153,97,61.2,57,20,High,Clean
+2240,2026-01-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,194,6,97.0,95,6,Low,Clean
+2241,2026-01-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,102,18,85.0,90,12,Low,Clean
+2242,2026-01-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,196,54,78.4,62,18,Medium,Clean
+2243,2026-01-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,90,30,75.0,78,3,Medium,Clean
+2244,2026-01-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,85,35,70.83,57,15,Medium,Clean
+2245,2026-01-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,152,48,76.0,57,13,Medium,Clean
+2246,2026-01-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,147,3,98.0,97,9,Low,Clean
+2247,2026-01-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,152,48,76.0,81,15,Medium,Clean
+2248,2026-01-01,Fort Monroe,,OCONUS,PP Officer,72114,120,89,31,74.17,70,10,Medium,Missing Building
+2249,2026-02-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,82,18,82.0,72,13,Medium,Clean
+2250,2026-02-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,97,53,64.67,61,19,High,Clean
+2251,2026-02-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,71,29,71.0,57,13,Medium,Clean
+2252,2026-02-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,69,31,69.0,87,11,High,Clean
+2253,2026-02-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,74,6,92.5,96,8,Low,Clean
+2254,2026-02-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,245,5,98.0,92,0,Low,Clean
+2255,2026-02-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,71,9,88.75,65,22,Medium,Clean
+2256,2026-02-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,163,87,65.2,64,20,High,Clean
+2257,2026-02-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,149,51,74.5,79,6,Medium,Clean
+2258,2026-02-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,177,23,88.5,93,17,Medium,Clean
+2259,2026-02-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,73,7,91.25,89,9,Low,Clean
+2260,2026-02-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,221,29,88.4,73,10,Low,Clean
+2261,2026-02-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,175,25,87.5,59,24,Medium,Clean
+2262,2026-02-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,116,34,77.33,60,12,Medium,Clean
+2263,2026-02-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,96,4,96.0,84,11,Low,Clean
+2264,2026-02-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,176,24,88.0,77,17,Medium,Clean
+2265,2026-02-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,173,7,96.11,98,2,Low,Clean
+2266,2026-02-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,90,10,90.0,65,16,Medium,Clean
+2267,2026-02-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,129,21,86.0,79,14,Low,Clean
+2268,2026-02-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,113,37,75.33,58,20,Medium,Clean
+2269,2026-02-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,68,12,85.0,80,10,Low,Clean
+2270,2026-02-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,83,17,83.0,91,6,Medium,Clean
+2271,2026-02-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,166,34,83.0,86,14,Medium,Clean
+2272,2026-02-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,213,87,71.0,63,15,Medium,Clean
+2273,2026-02-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,149,31,82.78,82,13,Medium,Clean
+2274,2026-02-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,202,48,80.8,63,25,Medium,Clean
+2275,2026-02-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,174,126,58.0,58,15,High,Clean
+2276,2026-02-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,117,3,97.5,98,0,Low,Clean
+2277,2026-02-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,98,2,98.0,93,7,Low,Clean
+2278,2026-02-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,113,67,62.78,55,22,High,Clean
+2279,2026-02-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,66,34,66.0,89,10,High,Clean
+2280,2026-02-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,148,52,74.0,82,10,Medium,Clean
+2281,2026-02-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,247,53,82.33,71,17,Medium,Clean
+2282,2026-02-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,93,27,77.5,61,26,High,Clean
+2283,2026-02-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,157,23,87.22,87,8,Low,Clean
+2284,2026-02-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,132,18,88.0,65,14,Low,Clean
+2285,2026-02-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,72,8,90.0,86,0,Low,Clean
+2286,2026-02-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,85,15,85.0,74,12,Low,Clean
+2287,2026-02-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,67,13,83.75,91,5,Medium,Clean
+2288,2026-02-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,82,18,82.0,59,6,Medium,Clean
+2289,2026-02-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,118,2,98.33,85,16,Medium,Clean
+2290,2026-02-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,72114,120,112,8,93.33,93,17,Medium,Clean
+2291,2026-02-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,119,31,79.33,67,10,Medium,Clean
+2292,2026-02-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,176,4,97.78,97,0,Low,Clean
+2293,2026-02-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,186,14,93.0,88,15,Low,Clean
+2294,2026-02-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,78,22,78.0,59,9,Medium,Clean
+2295,2026-02-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,64,16,80.0,69,13,Medium,Clean
+2296,2026-02-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,125,25,83.33,95,0,Medium,Clean
+2297,2026-02-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,89,61,59.33,57,14,High,Clean
+2298,2026-02-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,90,10,90.0,72,27,High,Clean
+2299,2026-02-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,249,51,83.0,63,11,Medium,Clean
+2300,2026-02-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,244,56,81.33,85,15,Medium,Clean
+2301,2026-02-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,146,4,97.33,97,9,Low,Clean
+2302,2026-02-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,175,25,87.5,84,16,Medium,Clean
+2303,2026-02-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,78,2,97.5,96,7,Low,Clean
+2304,2026-02-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,66,14,82.5,76,15,Medium,Clean
+2305,2026-02-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,124,26,82.67,89,0,Medium,Clean
+2306,2026-02-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,101,19,84.17,72,9,Medium,Clean
+2307,2026-02-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,128,22,85.33,59,17,Medium,Clean
+2308,2026-02-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,98,2,98.0,89,4,Low,Clean
+2309,2026-02-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,89,11,89.0,70,5,Low,Clean
+2310,2026-02-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,216,34,86.4,68,13,Low,Clean
+2311,2026-02-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,64,16,80.0,55,15,Medium,Clean
+2312,2026-02-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,165,15,91.67,84,13,Low,Clean
+2313,2026-02-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,230,20,92.0,90,11,Low,Clean
+2314,2026-02-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,289,11,96.33,73,10,Low,Clean
+2315,2026-02-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,78,2,97.5,89,7,Low,Clean
+2316,2026-02-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,196,4,98.0,92,20,Medium,Clean
+2317,2026-02-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,94,26,78.33,87,0,Medium,Clean
+2318,2026-02-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,89,31,74.17,59,13,Medium,Clean
+2319,2026-02-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,125,25,83.33,91,7,Medium,Clean
+2320,2026-02-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,99999,80,63,17,78.75,81,18,Medium,Invalid Category Code
+2321,2026-02-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,177,23,88.5,68,20,Medium,Clean
+2322,2026-02-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,196,4,98.0,80,7,Low,Clean
+2323,2026-02-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,86,94,47.78,59,26,High,Clean
+2324,2026-02-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,273,27,91.0,91,8,Low,Clean
+2325,2026-02-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,68,32,68.0,87,2,High,Clean
+2326,2026-02-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,95,25,79.17,59,16,Medium,Clean
+2327,2026-02-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,126,74,63.0,83,6,High,Clean
+2328,2026-02-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,176,4,97.78,96,13,Low,Clean
+2329,2026-02-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,72,8,90.0,90,23,Medium,Clean
+2330,2026-02-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,85,15,85.0,63,24,Medium,Clean
+2331,2026-02-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,98,2,98.0,90,13,Low,Clean
+2332,2026-02-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,114,66,63.33,68,6,High,Clean
+2333,2026-02-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,166,34,83.0,95,9,Medium,Clean
+2334,2026-02-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,216,84,72.0,58,18,Medium,Clean
+2335,2026-02-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,178,72,71.2,57,19,Medium,Clean
+2336,2026-02-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,196,4,98.0,95,7,Low,Clean
+2337,2026-02-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,102,18,85.0,90,0,Low,Clean
+2338,2026-02-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,207,43,82.8,62,12,Medium,Clean
+2339,2026-02-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,87,33,72.5,78,16,Medium,Clean
+2340,2026-02-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,97,23,80.83,57,20,Medium,Clean
+2341,2026-02-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,162,38,81.0,57,11,Medium,Clean
+2342,2026-02-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,134,16,89.33,97,4,Low,Clean
+2343,2026-02-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,196,4,98.0,81,15,Low,Clean
+2344,2026-02-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,91,29,75.83,70,18,Medium,Clean
+2345,2026-03-01,Fort Adams,BLDG-101,CONUS,Transient Training,72116,100,83,17,83.0,72,12,Medium,Clean
+2346,2026-03-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,117,33,78.0,61,20,Medium,Clean
+2347,2026-03-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,70,30,70.0,57,10,Medium,Clean
+2348,2026-03-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,90,10,90.0,87,8,Low,Clean
+2349,2026-03-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,64,16,80.0,96,3,Medium,Clean
+2350,2026-03-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,216,34,86.4,92,8,Low,Clean
+2351,2026-03-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,65,15,81.25,65,14,Medium,Clean
+2352,2026-03-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,199,51,79.6,64,13,Medium,Clean
+2353,2026-03-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,176,24,88.0,79,13,Low,Clean
+2354,2026-03-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,190,10,95.0,93,15,Low,Clean
+2355,2026-03-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,68,12,85.0,89,1,Low,Clean
+2356,2026-03-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,197,53,78.8,73,17,Medium,Clean
+2357,2026-03-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,145,55,72.5,59,18,Medium,Clean
+2358,2026-03-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,84,66,56.0,60,12,High,Clean
+2359,2026-03-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,90,10,90.0,84,14,Low,Clean
+2360,2026-03-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,148,52,74.0,77,14,Medium,Clean
+2361,2026-03-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,153,27,85.0,98,1,Low,Clean
+2362,2026-03-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,76,24,76.0,65,16,Medium,Clean
+2363,2026-03-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,130,20,86.67,79,15,Low,Clean
+2364,2026-03-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,133,17,88.67,58,21,Medium,Clean
+2365,2026-03-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,64,16,80.0,80,16,Medium,Clean
+2366,2026-03-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,74,26,74.0,91,9,Medium,Clean
+2367,2026-03-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,193,7,96.5,86,13,Low,Clean
+2368,2026-03-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,248,52,82.67,63,25,Medium,Clean
+2369,2026-03-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,138,42,76.67,82,14,Medium,Clean
+2370,2026-03-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,184,66,73.6,63,21,Medium,Clean
+2371,2026-03-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,220,80,81.64,58,20,Medium,Incorrect Net Use Percent
+2372,2026-03-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,118,2,98.33,98,10,Low,Clean
+2373,2026-03-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,87,13,87.0,93,6,Low,Clean
+2374,2026-03-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,114,66,63.33,55,22,High,Clean
+2375,2026-03-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,98,2,98.0,89,8,Low,Clean
+2376,2026-03-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,215,-15,107.5,82,7,High,Invalid Occupancy
+2377,2026-03-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,249,51,83.0,71,9,Medium,Clean
+2378,2026-03-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,65,55,54.17,61,14,High,Clean
+2379,2026-03-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,119,61,66.11,87,11,High,Clean
+2380,2026-03-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,107,43,71.33,65,15,Medium,Clean
+2381,2026-03-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,78,2,97.5,86,5,Low,Clean
+2382,2026-03-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,59,41,59.0,74,12,High,Clean
+2383,2026-03-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,75,5,93.75,91,1,Low,Clean
+2384,2026-03-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,69,31,69.0,59,15,High,Clean
+2385,2026-03-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,103,17,85.83,85,7,Low,Clean
+2386,2026-03-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,72114,120,118,2,98.33,93,6,Low,Clean
+2387,2026-03-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,118,32,78.67,67,12,Medium,Clean
+2388,2026-03-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,117,63,65.0,97,14,High,Clean
+2389,2026-03-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,111,89,55.5,88,16,High,Clean
+2390,2026-03-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,59,41,59.0,59,9,High,Clean
+2391,2026-03-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,61,19,76.25,69,25,Medium,Clean
+2392,2026-03-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,141,9,94.0,95,6,Low,Clean
+2393,2026-03-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,96,54,64.0,57,20,High,Clean
+2394,2026-03-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,75,25,75.0,72,17,Medium,Clean
+2395,2026-03-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,165,135,55.0,63,18,High,Clean
+2396,2026-03-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,266,34,88.67,85,3,Low,Clean
+2397,2026-03-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,122,28,81.33,97,6,Medium,Clean
+2398,2026-03-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,160,40,80.0,84,11,Medium,Clean
+2399,2026-03-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,61,19,76.25,96,3,Medium,Clean
+2400,2026-03-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,78,2,97.5,76,8,Low,Clean
+2401,2026-03-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,125,25,83.33,89,8,Medium,Clean
+2402,2026-03-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,91,29,75.83,72,19,Medium,Clean
+2403,2026-03-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,100,50,66.67,59,21,High,Clean
+2404,2026-03-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,79,21,79.0,89,13,Medium,Clean
+2405,2026-03-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,76,24,76.0,70,13,Medium,Clean
+2406,2026-03-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,190,60,76.0,68,17,Medium,Clean
+2407,2026-03-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,47,33,58.75,55,12,High,Clean
+2408,2026-03-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,176,4,97.78,84,13,Low,Clean
+2409,2026-03-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,211,39,84.4,90,12,Medium,Clean
+2410,2026-03-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,310,-10,103.33,73,1,Medium,Invalid Occupancy
+2411,2026-03-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,71,9,88.75,89,8,Low,Clean
+2412,2026-03-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,185,15,92.5,92,4,Low,Clean
+2413,2026-03-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,101,19,84.17,87,15,Medium,Clean
+2414,2026-03-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,85,35,70.83,59,14,Medium,Clean
+2415,2026-03-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,138,12,92.0,91,6,Low,Clean
+2416,2026-03-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,75,5,93.75,81,10,Low,Clean
+2417,2026-03-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,161,39,80.5,68,10,Medium,Clean
+2418,2026-03-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,141,59,70.5,80,15,Medium,Clean
+2419,2026-03-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,135,45,75.0,59,19,Medium,Clean
+2420,2026-03-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,288,12,96.0,91,1,Low,Clean
+2421,2026-03-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,88,12,88.0,87,0,Low,Clean
+2422,2026-03-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,93,27,77.5,59,11,Medium,Clean
+2423,2026-03-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,178,22,89.0,83,14,Low,Clean
+2424,2026-03-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,154,26,85.56,96,7,Low,Clean
+2425,2026-03-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,78,2,97.5,90,0,Low,Clean
+2426,2026-03-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,81,19,81.0,63,16,Medium,Clean
+2427,2026-03-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,97,3,97.0,90,0,Low,Clean
+2428,2026-03-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,139,41,77.22,68,20,Medium,Clean
+2429,2026-03-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,196,4,98.0,95,3,Low,Clean
+2430,2026-03-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,208,92,69.33,58,26,High,Clean
+2431,2026-03-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,143,107,57.2,57,17,High,Clean
+2432,2026-03-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,185,15,92.5,95,8,Low,Clean
+2433,2026-03-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,94,26,78.33,90,13,Medium,Clean
+2434,2026-03-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,207,43,82.8,62,25,Medium,Clean
+2435,2026-03-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,89,31,74.17,78,9,Medium,Clean
+2436,2026-03-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,99,21,82.5,57,26,High,Clean
+2437,2026-03-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,143,57,71.5,57,9,Medium,Clean
+2438,2026-03-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,134,16,89.33,97,12,Low,Clean
+2439,2026-03-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,181,19,90.5,81,16,Medium,Clean
+2440,2026-03-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,117,3,97.5,70,11,Low,Clean
+2441,2026-04-01,Ft Adams,BLDG-101,CONUS,Transient Training,72116,100,70,30,70.0,72,7,Medium,Inconsistent Installation Name
+2442,2026-04-01,Fort Adams,BLDG-102,CONUS,Training - AIT,72115,150,108,42,72.0,61,21,Medium,Clean
+2443,2026-04-01,Fort Adams,BLDG-103,CONUS,Transient Training,72116,100,89,11,89.0,57,18,Medium,Clean
+2444,2026-04-01,Fort Adams,BLDG-104,CONUS,Permanent Party Enlisted,72111,100,87,13,87.0,87,9,Low,Clean
+2445,2026-04-01,Fort Adams,BLDG-105,CONUS,PP Officer,72114,80,78,2,97.5,96,3,Low,Clean
+2446,2026-04-01,Fort Adams,BLDG-106,CONUS,Transient Training,72116,250,220,30,88.0,92,8,Low,Clean
+2447,2026-04-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,60,20,75.0,65,24,Medium,Clean
+2448,2026-04-01,Fort Adams,BLDG-108,CONUS,Transient Training,72116,250,165,85,66.0,64,27,High,Clean
+2449,2026-04-01,Fort Adams,BLDG-109,CONUS,Training - AIT,72115,200,152,48,76.0,79,7,Medium,Clean
+2450,2026-04-01,Fort Adams,BLDG-110,OCONUS,Permanent Party Enlisted,72111,200,166,34,83.0,93,11,Medium,Clean
+2451,2026-04-01,Fort Adams,BLDG-111,CONUS,Training - Basic,72112,80,70,10,87.5,89,14,Low,Clean
+2452,2026-04-01,Fort Adams,BLDG-112,CONUS,Permanent Party Enlisted,72111,250,178,72,71.2,73,4,Medium,Clean
+2453,2026-04-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,138,62,69.0,59,18,High,Clean
+2454,2026-04-01,Fort Mason,BLDG-202,CONUS,Permanent Party Enlisted,72111,150,87,63,58.0,60,15,High,Clean
+2455,2026-04-01,Fort Mason,BLDG-203,CONUS,Training - AIT,72115,100,90,10,90.0,84,6,Low,Clean
+2456,2026-04-01,Fort Mason,BLDG-204,CONUS,Transient Training,72116,200,147,53,73.5,77,6,Medium,Clean
+2457,2026-04-01,Fort Mason,BLDG-205,CONUS,Training - AIT,72115,180,163,17,90.56,98,9,Low,Clean
+2458,2026-04-01,Fort Mason,BLDG-206,CONUS,Transient Training,72116,100,98,2,98.0,65,21,Medium,Clean
+2459,2026-04-01,Fort Mason,BLDG-207,CONUS,PP Officer,72114,150,105,45,70.0,79,4,Medium,Clean
+2460,2026-04-01,Fort Mason,BLDG-208,CONUS,Training - Basic,72112,150,106,44,70.67,58,24,Medium,Clean
+2461,2026-04-01,Fort Mason,BLDG-209,OCONUS,Training - AIT,72115,80,72,8,90.0,80,8,Low,Clean
+2462,2026-04-01,Fort Mason,BLDG-210,CONUS,Training - Basic,72112,100,98,2,98.0,91,15,Low,Clean
+2463,2026-04-01,Fort Mason,BLDG-211,CONUS,Transient Training,72116,200,196,4,98.0,86,4,Low,Clean
+2464,2026-04-01,Fort Mason,BLDG-212,CONUS,PP Senior NCO,72113,300,237,63,79.0,63,9,Medium,Clean
+2465,2026-04-01,Camp Harbor,BLDG-301,CONUS,Training - AIT,72115,180,137,43,76.11,82,4,Medium,Clean
+2466,2026-04-01,Camp Harbor,BLDG-302,CONUS,PP Officer,72114,250,180,70,72.0,63,8,Medium,Clean
+2467,2026-04-01,Camp Harbor,BLDG-303,CONUS,PP Officer,72114,300,239,61,79.67,58,16,Medium,Clean
+2468,2026-04-01,Camp Harbor,BLDG-304,CONUS,Permanent Party Enlisted,72111,120,100,20,83.33,98,9,Medium,Clean
+2469,2026-04-01,Camp Harbor,BLDG-305,CONUS,PP Senior NCO,72113,100,98,2,98.0,93,9,Low,Clean
+2470,2026-04-01,Camp Harbor,BLDG-306,OCONUS,PP Senior NCO,72113,180,116,64,64.44,55,16,High,Clean
+2471,2026-04-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,86,14,86.0,89,5,Low,Clean
+2472,2026-04-01,Camp Harbor,BLDG-308,CONUS,Training - Basic,72112,200,134,66,67.0,82,9,High,Clean
+2473,2026-04-01,Camp Harbor,BLDG-309,CONUS,Training - AIT,72115,300,273,27,91.0,71,9,Low,Clean
+2474,2026-04-01,Camp Harbor,BLDG-310,CONUS,PP Officer,72114,120,65,55,54.17,61,15,High,Clean
+2475,2026-04-01,Camp Harbor,BLDG-311,OCONUS,Transient Training,72116,180,176,4,97.78,87,1,Low,Clean
+2476,2026-04-01,Camp Harbor,BLDG-312,CONUS,PP Officer,72114,150,116,34,77.33,65,17,Medium,Clean
+2477,2026-04-01,Fort Sentinel,BLDG-401,CONUS,PP Officer,72114,80,73,7,91.25,86,12,Low,Clean
+2478,2026-04-01,Fort Sentinel,BLDG-402,OCONUS,Permanent Party Enlisted,72111,100,86,14,86.0,74,5,Low,Clean
+2479,2026-04-01,Fort Sentinel,BLDG-403,CONUS,Training - AIT,72115,80,76,4,95.0,91,15,Low,Clean
+2480,2026-04-01,Fort Sentinel,BLDG-404,CONUS,Permanent Party Enlisted,72111,100,70,30,70.0,59,18,Medium,Clean
+2481,2026-04-01,Fort Sentinel,BLDG-405,CONUS,PP Officer,72114,120,90,30,75.0,85,16,Medium,Clean
+2482,2026-04-01,Fort Sentinel,BLDG-406,CONUS,PP Officer,99999,120,100,20,83.33,93,16,Medium,Invalid Category Code
+2483,2026-04-01,Fort Sentinel,BLDG-407,OCONUS,PP Senior NCO,72113,150,109,41,72.67,67,18,Medium,Clean
+2484,2026-04-01,Fort Sentinel,BLDG-408,CONUS,Transient Training,72116,180,155,25,86.11,97,16,Medium,Clean
+2485,2026-04-01,Fort Sentinel,BLDG-409,CONUS,Transient Training,72116,200,135,65,67.5,88,11,High,Clean
+2486,2026-04-01,Fort Sentinel,BLDG-410,CONUS,PP Senior NCO,72113,100,52,48,52.0,59,10,High,Clean
+2487,2026-04-01,Fort Sentinel,BLDG-411,CONUS,Training - Basic,72112,80,77,3,96.25,69,18,Medium,Clean
+2488,2026-04-01,Fort Sentinel,BLDG-412,CONUS,PP Officer,72114,150,106,44,70.67,95,7,Medium,Clean
+2489,2026-04-01,Camp Liberty,BLDG-501,CONUS,Permanent Party Enlisted,72111,150,98,52,65.33,57,20,High,Clean
+2490,2026-04-01,Camp Liberty,BLDG-502,CONUS,Training - Basic,72112,100,98,2,98.0,72,16,Medium,Clean
+2491,2026-04-01,Camp Liberty,BLDG-503,CONUS,Transient Training,72116,300,237,63,79.0,63,18,Medium,Clean
+2492,2026-04-01,Camp Liberty,BLDG-504,CONUS,Transient Training,72116,300,224,76,74.67,85,13,Medium,Clean
+2493,2026-04-01,Camp Liberty,BLDG-505,CONUS,PP Senior NCO,72113,150,147,3,98.0,97,4,Low,Clean
+2494,2026-04-01,Camp Liberty,BLDG-506,CONUS,PP Senior NCO,72113,200,157,43,78.5,84,17,Medium,Clean
+2495,2026-04-01,Camp Liberty,BLDG-507,CONUS,Transient Training,72116,80,74,6,92.5,96,1,Low,Clean
+2496,2026-04-01,Camp Liberty,BLDG-508,CONUS,Permanent Party Enlisted,72111,80,61,19,76.25,76,10,Medium,Clean
+2497,2026-04-01,Camp Liberty,BLDG-509,CONUS,Permanent Party Enlisted,72111,150,130,20,86.67,89,8,Low,Clean
+2498,2026-04-01,Camp Liberty,BLDG-510,CONUS,PP Senior NCO,72113,120,92,28,76.67,72,21,Medium,Clean
+2499,2026-04-01,Camp Liberty,BLDG-511,OCONUS,PP Senior NCO,72113,150,121,29,80.67,59,24,Medium,Clean
+2500,2026-04-01,Camp Liberty,BLDG-512,CONUS,PP Senior NCO,72113,100,71,29,71.0,89,9,Medium,Clean
+2501,2026-04-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,90,10,90.0,70,17,Medium,Clean
+2502,2026-04-01,Fort Patriot,BLDG-602,CONUS,Training - AIT,72115,250,176,74,70.4,68,10,Medium,Clean
+2503,2026-04-01,Fort Patriot,BLDG-603,CONUS,PP Senior NCO,72113,80,64,16,80.0,55,16,Medium,Clean
+2504,2026-04-01,Fort Patriot,BLDG-604,OCONUS,PP Senior NCO,72113,180,165,15,91.67,84,11,Low,Clean
+2505,2026-04-01,Fort Patriot,BLDG-605,CONUS,Training - Basic,72112,250,217,33,86.8,90,9,Low,Clean
+2506,2026-04-01,Fort Patriot,BLDG-606,CONUS,Transient Training,72116,300,214,86,71.33,73,21,Medium,Clean
+2507,2026-04-01,Fort Patriot,BLDG-607,CONUS,Training - AIT,72115,80,74,6,92.5,89,16,Medium,Clean
+2508,2026-04-01,Fort Patriot,BLDG-608,CONUS,Permanent Party Enlisted,72111,200,167,33,83.5,92,5,Medium,Clean
+2509,2026-04-01,Fort Patriot,BLDG-609,CONUS,PP Senior NCO,72113,120,100,20,83.33,87,5,Medium,Clean
+2510,2026-04-01,Fort Patriot,BLDG-610,CONUS,Permanent Party Enlisted,72111,120,95,25,79.17,59,20,Medium,Clean
+2511,2026-04-01,Fort Patriot,BLDG-611,CONUS,Transient Training,72116,150,125,25,83.33,91,7,Medium,Clean
+2512,2026-04-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,70,10,87.5,81,7,Low,Clean
+2513,2026-04-01,Fort Eagle,BLDG-701,OCONUS,Transient Training,72116,200,146,54,73.0,68,22,Medium,Clean
+2514,2026-04-01,Fort Eagle,BLDG-702,CONUS,Transient Training,72116,200,151,49,75.5,80,8,Medium,Clean
+2515,2026-04-01,Fort Eagle,BLDG-703,CONUS,Training - AIT,72115,180,176,4,97.78,59,6,Low,Clean
+2516,2026-04-01,Fort Eagle,BLDG-704,CONUS,Permanent Party Enlisted,72111,300,230,70,76.67,91,17,Medium,Clean
+2517,2026-04-01,Fort Eagle,BLDG-705,CONUS,Permanent Party Enlisted,72111,100,82,18,82.0,87,12,Medium,Clean
+2518,2026-04-01,Fort Eagle,BLDG-706,OCONUS,Training - Basic,72112,120,112,8,93.33,59,13,Low,Clean
+2519,2026-04-01,Fort Eagle,BLDG-707,CONUS,Training - AIT,72115,200,157,43,78.5,83,12,Medium,Clean
+2520,2026-04-01,Fort Eagle,BLDG-708,CONUS,PP Officer,72114,180,162,18,90.0,96,4,Low,Clean
+2521,2026-04-01,Fort Eagle,BLDG-709,CONUS,PP Officer,72114,80,69,11,86.25,90,2,Low,Clean
+2522,2026-04-01,Fort Eagle,BLDG-710,OCONUS,Training - Basic,72112,100,79,21,79.0,63,19,Medium,Clean
+2523,2026-04-01,Fort Eagle,BLDG-711,OCONUS,Training - Basic,72112,100,86,14,86.0,90,7,Low,Clean
+2524,2026-04-01,Fort Eagle,BLDG-712,CONUS,Training - AIT,72115,180,148,32,82.22,68,11,Medium,Clean
+2525,2026-04-01,Fort Monroe,BLDG-801,CONUS,Transient Training,72116,200,175,25,87.5,95,7,Low,Clean
+2526,2026-04-01,Fort Monroe,BLDG-802,CONUS,Training - Basic,72112,300,260,40,86.67,58,16,Medium,Clean
+2527,2026-04-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,176,74,70.4,57,16,Medium,Clean
+2528,2026-04-01,Fort Monroe,BLDG-804,CONUS,Permanent Party Enlisted,72111,200,173,27,86.5,95,2,Low,Clean
+2529,2026-04-01,Fort Monroe,BLDG-805,CONUS,Training - Basic,72112,120,95,25,79.17,90,13,Medium,Clean
+2530,2026-04-01,Fort Monroe,BLDG-806,CONUS,Transient Training,72116,250,171,79,68.4,62,16,High,Clean
+2531,2026-04-01,Fort Monroe,BLDG-807,CONUS,Permanent Party Enlisted,72111,120,93,27,77.5,78,5,Medium,Clean
+2532,2026-04-01,Fort Monroe,BLDG-808,CONUS,PP Officer,72114,120,80,40,66.67,57,24,High,Clean
+2533,2026-04-01,Fort Monroe,BLDG-809,OCONUS,Training - Basic,72112,200,135,65,67.5,57,13,High,Clean
+2534,2026-04-01,Fort Monroe,BLDG-810,CONUS,Training - Basic,72112,150,131,19,87.33,97,5,Low,Clean
+2535,2026-04-01,Fort Monroe,BLDG-811,CONUS,Permanent Party Enlisted,72111,200,172,28,86.0,81,9,Low,Clean
+2536,2026-04-01,Fort Monroe,BLDG-812,OCONUS,PP Officer,72114,120,92,28,76.67,70,11,Medium,Clean
+1936,2025-10-01,Fort Patriot,BLDG-612,CONUS,Training - AIT,72115,80,65,15,81.25,81,5,Medium,Clean
+1607,2025-07-01,Camp Harbor,BLDG-307,CONUS,Transient Training,72116,100,82,18,82.0,89,9,Medium,Clean
+1541,2025-06-01,Fort Patriot,BLDG-601,OCONUS,Permanent Party Enlisted,72111,100,77,23,77.0,70,15,Medium,Clean
+1951,2025-10-01,Fort Monroe,BLDG-803,OCONUS,Permanent Party Enlisted,72111,250,181,69,72.4,57,17,Medium,Clean
+1103,2025-02-01,Fort Adams,BLDG-107,CONUS,Training - Basic,72112,80,53,27,66.25,65,8,High,Clean
+1205,2025-03-01,Fort Mason,BLDG-201,CONUS,Transient Training,72116,200,178,22,89.0,59,18,Medium,Clean

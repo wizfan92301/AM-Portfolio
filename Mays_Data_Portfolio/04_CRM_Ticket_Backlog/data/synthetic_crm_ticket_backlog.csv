@@ -1,0 +1,1501 @@
+Ticket_ID,Created_Date,Closed_Date,Office,Category,Priority,Status,Assigned_Team,Days_Open,SLA_Target_Days,SLA_Status,Customer_Type,Aging_Bucket
+TCK-10001,2026-01-24,2026-01-24,Operations,Report Request,High,Closed,Reporting Team,0,4,Met,Program Office,0-3 days
+TCK-10002,2025-06-06,2025-06-11,IT Services,System Error,Medium,Closed,Tier 1 Support,5,7,Met,Program Office,4-7 days
+TCK-10003,2025-03-11,,IT Services,User Permissions,High,Open,CRM Admin,415,4,Missed,Program Office,15+ days
+TCK-10004,2025-07-27,,Policy,Report Request,High,Escalated,Reporting Team,277,4,Missed,Program Office,15+ days
+TCK-10005,2025-06-07,2025-06-12,Human Resources,System Error,Medium,Closed,Systems Team,5,7,Met,Internal User,4-7 days
+TCK-10006,2025-04-10,,Policy,Report Request,High,Escalated,Systems Team,385,4,Missed,Leadership Office,15+ days
+TCK-10007,2025-09-08,2025-09-16,Program Management,User Permissions,Medium,Closed,Tier 2 Support,8,7,Missed,Internal User,8-14 days
+TCK-10008,2025-09-02,2025-09-11,Policy,User Permissions,Low,Closed,Tier 1 Support,9,10,Met,Leadership Office,8-14 days
+TCK-10009,2025-12-07,2025-12-08,Finance,Data Correction,Medium,Closed,Systems Team,1,7,Met,Leadership Office,0-3 days
+TCK-10010,2025-12-06,,Human Resources,User Permissions,High,Open,Reporting Team,145,4,Missed,Program Office,15+ days
+TCK-10011,2025-12-28,,Program Management,Data Correction,Medium,Pending Customer,Reporting Team,123,7,Missed,Program Office,15+ days
+TCK-10012,2025-12-21,,Policy,System Error,Medium,Escalated,Systems Team,130,7,Missed,Program Office,15+ days
+TCK-10013,2026-01-11,,Policy,Training Request,Medium,Pending Customer,CRM Admin,109,7,Missed,Internal User,15+ days
+TCK-10014,2025-05-18,,Program Management,User Permissions,High,Escalated,CRM Admin,347,4,Missed,Internal User,15+ days
+TCK-10015,2025-03-28,,IT Services,System Error,High,Open,CRM Admin,398,4,Missed,Leadership Office,15+ days
+TCK-10016,2025-08-09,2025-08-18,Policy,Data Correction,Low,Closed,Tier 2 Support,9,10,Met,Program Office,8-14 days
+TCK-10017,2025-04-04,,Operations,Account Access,Medium,Open,Tier 2 Support,391,7,Missed,Internal User,15+ days
+TCK-10018,2025-05-13,,Program Management,User Permissions,Critical,Pending Customer,Systems Team,352,2,Missed,Internal User,15+ days
+TCK-10019,2026-03-21,,Human Resources,Report Request,Medium,Open,Tier 1 Support,40,7,Missed,Leadership Office,15+ days
+TCK-10020,2025-05-01,2025-05-07,Human Resources,Account Access,Medium,Closed,Tier 1 Support,6,7,Met,Program Office,4-7 days
+TCK-10021,2026-01-20,2026-01-22,Operations,Training Request,Critical,Closed,Tier 1 Support,2,2,Met,Program Office,0-3 days
+TCK-10022,2025-11-05,,Finance,System Error,Medium,Escalated,Reporting Team,176,7,Missed,Program Office,15+ days
+TCK-10023,2025-11-06,2025-11-20,Operations,Report Request,Medium,Closed,Reporting Team,14,7,Missed,Program Office,8-14 days
+TCK-10024,2025-11-09,2025-11-09,Finance,Account Access,Low,Closed,Tier 1 Support,0,10,Met,Program Office,0-3 days
+TCK-10025,2026-03-22,2026-03-29,IT Services,Account Access,Medium,Closed,Systems Team,7,7,Met,Program Office,4-7 days
+TCK-10026,2025-12-25,2025-12-27,Program Management,Training Request,High,Closed,Reporting Team,2,4,Met,Leadership Office,0-3 days
+TCK-10027,2025-07-31,,Finance,Account Access,Medium,Open,CRM Admin,273,7,Missed,Internal User,15+ days
+TCK-10028,2026-02-18,2026-02-18,Operations,Training Request,High,Closed,Reporting Team,0,4,Met,Program Office,0-3 days
+TCK-10029,2026-01-14,,Program Management,User Permissions,Medium,Open,Tier 1 Support,106,7,Missed,Leadership Office,15+ days
+TCK-10030,2025-07-17,,Operations,Training Request,Medium,Open,Systems Team,287,7,Missed,Leadership Office,15+ days
+TCK-10031,2025-09-16,2025-09-28,IT Services,System Error,Low,Closed,Tier 2 Support,12,10,Missed,Program Office,8-14 days
+TCK-10032,2025-03-01,2025-03-09,Operations,Data Correction,Medium,Closed,Tier 2 Support,8,7,Missed,Leadership Office,8-14 days
+TCK-10033,2025-12-25,2026-01-01,Finance,System Error,Low,Closed,CRM Admin,7,10,Met,Internal User,4-7 days
+TCK-10034,2026-01-04,2026-01-08,Policy,Account Access,Medium,Closed,Tier 2 Support,4,7,Met,Leadership Office,4-7 days
+TCK-10035,2025-11-21,,IT Services,Training Request,High,Open,Tier 1 Support,160,4,Missed,Leadership Office,15+ days
+TCK-10036,2025-06-25,2025-06-25,Policy,User Permissions,Medium,Closed,Reporting Team,0,7,Met,Leadership Office,0-3 days
+TCK-10037,2025-11-25,,Finance,Account Access,High,Escalated,CRM Admin,156,4,Missed,Internal User,15+ days
+TCK-10038,2025-02-27,2025-03-07,Operations,User Permissions,Low,Closed,Tier 1 Support,8,10,Met,Leadership Office,8-14 days
+TCK-10039,2025-07-08,2025-07-12,Finance,Account Access,Low,Closed,Systems Team,4,10,Met,Leadership Office,4-7 days
+TCK-10040,2025-04-08,,Finance,Report Request,High,Escalated,Tier 2 Support,387,4,Missed,Leadership Office,15+ days
+TCK-10041,2025-12-06,2025-12-09,Program Management,Report Request,Medium,Closed,Tier 2 Support,3,7,Met,Program Office,0-3 days
+TCK-10042,2026-03-05,2026-03-15,Operations,Training Request,Low,Closed,CRM Admin,10,10,Met,Internal User,8-14 days
+TCK-10043,2026-01-18,2026-01-22,Finance,Training Request,Medium,Closed,Tier 1 Support,4,7,Met,Program Office,4-7 days
+TCK-10044,2026-03-11,2026-03-11,Operations,System Error,High,Closed,CRM Admin,0,4,Met,Leadership Office,0-3 days
+TCK-10045,2025-07-12,2025-07-22,Policy,Data Correction,Low,Closed,Tier 1 Support,10,10,Met,Internal User,8-14 days
+TCK-10046,2026-03-15,2026-03-24,Policy,Data Correction,Medium,Closed,Tier 1 Support,9,7,Missed,Leadership Office,8-14 days
+TCK-10047,2025-07-20,2025-07-31,Program Management,Account Access,Medium,Closed,Systems Team,11,7,Missed,Leadership Office,8-14 days
+TCK-10048,2025-05-25,,Policy,Training Request,Medium,Escalated,Reporting Team,340,7,Missed,Internal User,15+ days
+TCK-10049,2025-03-09,2025-03-15,Policy,Report Request,Medium,Closed,Reporting Team,6,7,Met,Leadership Office,4-7 days
+TCK-10050,2025-03-25,2025-03-30,Program Management,Report Request,Medium,Closed,Tier 2 Support,5,7,Met,Internal User,4-7 days
+TCK-10051,2025-04-22,,IT Services,Account Access,High,Open,Tier 2 Support,373,4,Missed,Program Office,15+ days
+TCK-10052,2025-08-07,,Human Resources,Account Access,Medium,Open,CRM Admin,266,7,Missed,Program Office,15+ days
+TCK-10053,2025-04-02,,Program Management,Data Correction,High,Open,Reporting Team,393,4,Missed,Internal User,15+ days
+TCK-10054,2025-01-18,2025-01-25,Finance,User Permissions,Low,Closed,Systems Team,7,10,Met,Internal User,4-7 days
+TCK-10055,2025-12-01,2025-12-09,Human Resources,System Error,High,Closed,Reporting Team,8,4,Missed,Program Office,8-14 days
+TCK-10056,2025-11-20,2025-11-25,Human Resources,Account Access,Medium,Closed,Tier 1 Support,5,7,Met,Internal User,4-7 days
+TCK-10057,2025-09-08,,IT Services,System Error,Medium,Pending Customer,CRM Admin,234,7,Missed,Leadership Office,15+ days
+TCK-10058,2026-01-17,2026-01-28,Program Management,System Error,Low,Closed,Reporting Team,11,10,Missed,Program Office,8-14 days
+TCK-10059,2025-10-20,2025-10-26,IT Services,Data Correction,Low,Closed,Reporting Team,6,10,Met,Leadership Office,4-7 days
+TCK-10060,2025-01-11,2025-01-11,IT Services,System Error,Medium,Closed,Tier 1 Support,0,7,Met,Leadership Office,0-3 days
+TCK-10061,2026-03-05,2026-03-11,Operations,User Permissions,Medium,Closed,Tier 1 Support,6,7,Met,Internal User,4-7 days
+TCK-10062,2026-03-18,,IT Services,System Error,Medium,Open,CRM Admin,43,7,Missed,Internal User,15+ days
+TCK-10063,2025-01-21,2025-01-31,Human Resources,Account Access,Low,Closed,Tier 1 Support,10,10,Met,Leadership Office,8-14 days
+TCK-10064,2025-06-02,2025-06-11,Program Management,User Permissions,Medium,Closed,Tier 1 Support,9,7,Missed,Internal User,8-14 days
+TCK-10065,2025-06-03,,IT Services,System Error,Low,Escalated,Tier 2 Support,331,10,Missed,Leadership Office,15+ days
+TCK-10066,2025-09-09,2025-09-13,Finance,Training Request,Medium,Closed,Systems Team,4,7,Met,Leadership Office,4-7 days
+TCK-10067,2025-04-18,2025-04-24,Operations,Report Request,Medium,Closed,Tier 2 Support,6,7,Met,Internal User,4-7 days
+TCK-10068,2025-11-05,2025-11-11,Finance,Data Correction,Medium,Closed,Systems Team,6,7,Met,Program Office,4-7 days
+TCK-10069,2025-02-08,2025-02-12,Program Management,Account Access,Medium,Closed,CRM Admin,4,7,Met,Leadership Office,4-7 days
+TCK-10070,2025-08-06,,Operations,Account Access,High,Open,CRM Admin,267,4,Missed,Leadership Office,15+ days
+TCK-10071,2025-12-23,2025-12-25,IT Services,Training Request,Medium,Closed,Tier 2 Support,2,7,Met,Program Office,0-3 days
+TCK-10072,2026-02-25,,Program Management,System Error,Low,Escalated,Tier 1 Support,64,10,Missed,Leadership Office,15+ days
+TCK-10073,2025-05-07,,Human Resources,Report Request,Low,Open,Tier 1 Support,358,10,Missed,Program Office,15+ days
+TCK-10074,2025-06-20,,Operations,Report Request,High,Open,Tier 1 Support,314,4,Missed,Internal User,15+ days
+TCK-10075,2025-07-13,2025-07-20,Human Resources,Data Correction,Critical,Closed,Systems Team,7,2,Missed,Leadership Office,4-7 days
+TCK-10076,2026-03-25,,Program Management,Account Access,Medium,Pending Customer,Systems Team,36,7,Missed,Program Office,15+ days
+TCK-10077,2025-12-25,2025-12-30,Human Resources,Data Correction,Medium,Closed,CRM Admin,5,7,Met,Program Office,4-7 days
+TCK-10078,2025-04-03,2025-04-10,IT Services,Training Request,Medium,Closed,Systems Team,7,7,Met,Program Office,4-7 days
+TCK-10079,2025-09-02,2025-09-06,Policy,Data Correction,Medium,Closed,Tier 2 Support,4,7,Met,Program Office,4-7 days
+TCK-10080,2025-10-18,,Policy,User Permissions,High,Open,CRM Admin,194,4,Missed,Leadership Office,15+ days
+TCK-10081,2026-02-03,2026-02-10,Finance,System Error,Low,Closed,Systems Team,7,10,Met,Program Office,4-7 days
+TCK-10082,2025-05-22,2025-05-22,Policy,Data Correction,Critical,Closed,CRM Admin,0,2,Met,Leadership Office,0-3 days
+TCK-10083,2026-03-16,2026-03-24,Policy,Account Access,Low,Closed,Tier 1 Support,8,10,Met,Leadership Office,8-14 days
+TCK-10084,2025-05-03,,Human Resources,Account Access,High,Open,CRM Admin,362,4,Missed,Leadership Office,15+ days
+TCK-10085,2025-09-10,,Policy,Data Correction,High,Open,Reporting Team,232,4,Missed,Program Office,15+ days
+TCK-10086,2025-09-21,2025-09-25,IT Services,User Permissions,Medium,Closed,Tier 1 Support,4,7,Met,Program Office,4-7 days
+TCK-10087,2025-01-08,,Policy,Training Request,Medium,Pending Customer,CRM Admin,477,7,Missed,Internal User,15+ days
+TCK-10088,2026-01-14,,IT Services,User Permissions,Medium,Escalated,Systems Team,106,7,Missed,Internal User,15+ days
+TCK-10089,2025-11-07,,Operations,Data Correction,Medium,Open,Tier 1 Support,174,7,Missed,Program Office,15+ days
+TCK-10090,2026-03-06,2026-03-11,Human Resources,System Error,Low,Closed,Reporting Team,5,10,Met,Program Office,4-7 days
+TCK-10091,2025-03-29,,IT Services,Account Access,Medium,Open,CRM Admin,397,7,Missed,Program Office,15+ days
+TCK-10092,2025-09-05,2025-09-09,Policy,User Permissions,Medium,Closed,Systems Team,4,7,Met,Program Office,4-7 days
+TCK-10093,2025-04-22,,Human Resources,System Error,High,Escalated,Systems Team,373,4,Missed,Program Office,15+ days
+TCK-10094,2025-01-30,2025-02-04,Finance,Report Request,Medium,Closed,CRM Admin,5,7,Met,Internal User,4-7 days
+TCK-10095,2025-01-03,2025-01-08,Program Management,System Error,Medium,Closed,Tier 2 Support,5,7,Met,Internal User,4-7 days
+TCK-10096,2025-09-28,,Human Resources,System Error,Medium,Open,Tier 1 Support,214,7,Missed,Internal User,15+ days
+TCK-10097,2026-01-29,2026-02-01,Program Management,Data Correction,Medium,Closed,Systems Team,3,7,Met,Program Office,0-3 days
+TCK-10098,2025-02-25,2025-02-28,Program Management,Data Correction,Critical,Closed,Tier 2 Support,3,2,Missed,Program Office,0-3 days
+TCK-10099,2026-01-18,2026-01-25,Operations,Report Request,Medium,Closed,Tier 1 Support,7,7,Met,Internal User,4-7 days
+TCK-10100,2025-07-22,2025-07-26,Human Resources,Data Correction,Medium,Closed,Tier 2 Support,4,7,Met,Program Office,4-7 days
+TCK-10101,2025-12-07,,Policy,User Permissions,Critical,Open,Tier 2 Support,144,2,Missed,Program Office,15+ days
+TCK-10102,2026-01-20,,IT Services,User Permissions,High,Pending Customer,Reporting Team,100,4,Missed,Internal User,15+ days
+TCK-10103,2025-02-26,2025-03-01,Human Resources,User Permissions,Critical,Closed,Tier 2 Support,3,2,Missed,Internal User,0-3 days
+TCK-10104,2025-12-14,2025-12-19,IT Services,User Permissions,High,Closed,Tier 1 Support,5,4,Missed,Program Office,4-7 days
+TCK-10105,2025-09-03,2025-09-09,Operations,User Permissions,Medium,Closed,Systems Team,6,7,Met,Internal User,4-7 days
+TCK-10106,2025-05-08,,Finance,User Permissions,Medium,Open,Tier 2 Support,357,7,Missed,Leadership Office,15+ days
+TCK-10107,2026-02-25,2026-03-03,Policy,Training Request,Medium,Closed,Systems Team,6,7,Met,Internal User,4-7 days
+TCK-10108,2025-04-07,2025-04-07,Policy,Data Correction,Critical,Closed,Tier 2 Support,0,2,Met,Internal User,0-3 days
+TCK-10109,2025-03-09,2025-03-15,Human Resources,Training Request,Medium,Closed,Tier 2 Support,6,7,Met,Internal User,4-7 days
+TCK-10110,2026-03-19,2026-03-28,Finance,User Permissions,Low,Closed,Tier 2 Support,9,10,Met,Internal User,8-14 days
+TCK-10111,2025-06-22,,Human Resources,Report Request,Medium,Open,CRM Admin,312,7,Missed,Program Office,15+ days
+TCK-10112,2025-06-29,2025-07-03,Human Resources,Data Correction,High,Closed,Tier 1 Support,4,4,Met,Internal User,4-7 days
+TCK-10113,2025-01-27,2025-02-01,IT Services,Account Access,Medium,Closed,Reporting Team,5,7,Met,Internal User,4-7 days
+TCK-10114,2025-05-10,2025-05-16,Finance,Account Access,High,Closed,Tier 1 Support,6,4,Missed,Leadership Office,4-7 days
+TCK-10115,2025-01-07,2025-01-14,Finance,User Permissions,Medium,Closed,Systems Team,7,7,Met,Leadership Office,4-7 days
+TCK-10116,2025-11-06,2025-11-14,Operations,Training Request,Medium,Closed,Reporting Team,8,7,Missed,Internal User,8-14 days
+TCK-10117,2026-03-31,2026-04-07,Policy,Data Correction,Low,Closed,Tier 2 Support,7,10,Met,Leadership Office,4-7 days
+TCK-10118,2025-08-17,,IT Services,Training Request,High,Open,CRM Admin,256,4,Missed,Program Office,15+ days
+TCK-10119,2026-01-07,2026-01-11,Operations,Data Correction,Medium,Closed,Reporting Team,4,7,Met,Leadership Office,4-7 days
+TCK-10120,2025-12-31,,IT Services,Report Request,Medium,Pending Customer,CRM Admin,120,7,Missed,Program Office,15+ days
+TCK-10121,2025-11-19,,IT Services,Account Access,High,Pending Customer,Tier 2 Support,162,4,Missed,Leadership Office,15+ days
+TCK-10122,2025-05-21,,Human Resources,Training Request,Medium,Open,Tier 1 Support,344,7,Missed,Leadership Office,15+ days
+TCK-10123,2025-04-08,2025-04-09,Human Resources,Data Correction,High,Closed,Reporting Team,1,4,Met,Leadership Office,0-3 days
+TCK-10124,2025-07-16,2025-07-16,IT Services,Report Request,Medium,Closed,Tier 2 Support,0,7,Met,Internal User,0-3 days
+TCK-10125,2025-01-02,2025-01-07,IT Services,System Error,Low,Closed,Systems Team,5,10,Met,Leadership Office,4-7 days
+TCK-10126,2026-01-04,2026-01-04,Operations,Report Request,Medium,Closed,CRM Admin,0,7,Met,Leadership Office,0-3 days
+TCK-10127,2025-03-02,,Operations,Report Request,Low,Open,Tier 2 Support,424,10,Missed,Program Office,15+ days
+TCK-10128,2026-03-24,2026-03-28,Operations,Data Correction,High,Closed,Systems Team,4,4,Met,Internal User,4-7 days
+TCK-10129,2025-01-01,2025-01-09,Policy,Training Request,Medium,Closed,CRM Admin,8,7,Missed,Leadership Office,8-14 days
+TCK-10130,2025-03-10,2025-03-15,Finance,Account Access,Medium,Closed,Tier 1 Support,5,7,Met,Program Office,4-7 days
+TCK-10131,2025-04-23,2025-04-26,Policy,Training Request,High,Closed,Tier 1 Support,3,4,Met,Leadership Office,0-3 days
+TCK-10132,2026-01-17,,Finance,User Permissions,Medium,Escalated,Systems Team,103,7,Missed,Leadership Office,15+ days
+TCK-10133,2025-04-16,2025-04-19,Program Management,Data Correction,High,Closed,Reporting Team,3,4,Met,Internal User,0-3 days
+TCK-10134,2026-01-09,2026-01-16,Program Management,Account Access,High,Closed,Reporting Team,7,4,Missed,Internal User,4-7 days
+TCK-10135,2025-08-24,,Policy,Data Correction,Low,Pending Customer,CRM Admin,249,10,Missed,Internal User,15+ days
+TCK-10136,2025-06-08,,Program Management,User Permissions,Low,Open,Systems Team,326,10,Missed,Internal User,15+ days
+TCK-10137,2025-02-05,2025-02-08,Program Management,Account Access,Low,Closed,Systems Team,3,10,Met,Internal User,0-3 days
+TCK-10138,2026-01-08,,Human Resources,System Error,High,Open,Reporting Team,112,4,Missed,Internal User,15+ days
+TCK-10139,2025-02-26,2025-03-01,Operations,Account Access,High,Closed,CRM Admin,3,4,Met,Internal User,0-3 days
+TCK-10140,2025-11-18,2025-11-23,Human Resources,Account Access,Medium,Closed,Systems Team,5,7,Met,Leadership Office,4-7 days
+TCK-10141,2026-02-23,2026-03-02,IT Services,System Error,Medium,Closed,Tier 2 Support,7,7,Met,Program Office,4-7 days
+TCK-10142,2025-06-19,2025-06-28,IT Services,User Permissions,Medium,Closed,CRM Admin,9,7,Missed,Leadership Office,8-14 days
+TCK-10143,2025-10-06,,IT Services,System Error,Low,Pending Customer,Tier 2 Support,206,10,Missed,Internal User,15+ days
+TCK-10144,2025-04-25,2025-05-04,Operations,Report Request,Low,Closed,CRM Admin,9,10,Met,Internal User,8-14 days
+TCK-10145,2026-03-27,2026-03-31,Program Management,Data Correction,Medium,Closed,Tier 1 Support,4,7,Met,Internal User,4-7 days
+TCK-10146,2025-02-22,2025-02-22,Human Resources,Training Request,Critical,Closed,CRM Admin,0,2,Met,Internal User,0-3 days
+TCK-10147,2025-07-04,,Operations,System Error,High,Pending Customer,Systems Team,300,4,Missed,Program Office,15+ days
+TCK-10148,2025-11-04,2025-11-09,Policy,User Permissions,Low,Closed,CRM Admin,5,10,Met,Leadership Office,4-7 days
+TCK-10149,2026-02-23,,Finance,Report Request,Medium,Pending Customer,Tier 1 Support,66,7,Missed,Internal User,15+ days
+TCK-10150,2026-03-18,,Policy,Data Correction,High,Open,CRM Admin,43,4,Missed,Internal User,15+ days
+TCK-10151,2025-07-19,2025-07-30,Human Resources,Training Request,Medium,Closed,Reporting Team,11,7,Missed,Leadership Office,8-14 days
+TCK-10152,2025-05-23,2025-05-30,Operations,Data Correction,Low,Closed,Reporting Team,7,10,Met,Program Office,4-7 days
+TCK-10153,2025-06-13,2025-06-23,Policy,Report Request,Medium,Closed,Tier 2 Support,10,7,Missed,Leadership Office,8-14 days
+TCK-10154,2025-05-06,2025-05-11,IT Services,Training Request,Medium,Closed,Reporting Team,5,7,Met,Leadership Office,4-7 days
+TCK-10155,2025-10-02,2025-10-03,IT Services,User Permissions,High,Closed,Tier 2 Support,1,4,Met,Leadership Office,0-3 days
+TCK-10156,2025-02-14,,Human Resources,Report Request,Low,Open,Systems Team,440,10,Missed,Program Office,15+ days
+TCK-10157,2025-03-10,,Operations,Report Request,High,Open,Reporting Team,416,4,Missed,Internal User,15+ days
+TCK-10158,2026-03-04,,Program Management,Data Correction,High,Escalated,Tier 2 Support,57,4,Missed,Internal User,15+ days
+TCK-10159,2025-01-29,,Policy,Account Access,High,Open,Reporting Team,456,4,Missed,Program Office,15+ days
+TCK-10160,2025-01-28,2025-01-30,Human Resources,System Error,High,Closed,Systems Team,2,4,Met,Internal User,0-3 days
+TCK-10161,2025-01-16,,Program Management,Data Correction,Low,Open,Tier 2 Support,469,10,Missed,Program Office,15+ days
+TCK-10162,2026-01-16,2026-01-24,Finance,System Error,Low,Closed,Reporting Team,8,10,Met,Leadership Office,8-14 days
+TCK-10163,2025-06-22,2025-06-29,Human Resources,User Permissions,Medium,Closed,Tier 1 Support,7,7,Met,Leadership Office,4-7 days
+TCK-10164,2026-01-20,,Program Management,System Error,Low,Open,Reporting Team,100,10,Missed,Leadership Office,15+ days
+TCK-10165,2025-12-31,,Program Management,Data Correction,High,Pending Customer,CRM Admin,120,4,Missed,Internal User,15+ days
+TCK-10166,2025-09-25,,Policy,Data Correction,Medium,Escalated,Reporting Team,217,7,Missed,Leadership Office,15+ days
+TCK-10167,2025-01-29,,Human Resources,User Permissions,Low,Open,Reporting Team,456,10,Missed,Program Office,15+ days
+TCK-10168,2025-06-10,2025-06-12,Program Management,Data Correction,Medium,Closed,Tier 1 Support,2,7,Met,Program Office,0-3 days
+TCK-10169,2025-11-28,2025-12-06,Finance,Account Access,Medium,Closed,Tier 2 Support,8,7,Missed,Program Office,8-14 days
+TCK-10170,2025-03-25,,IT Services,Account Access,Medium,Open,CRM Admin,401,7,Missed,Internal User,15+ days
+TCK-10171,2025-10-10,,IT Services,Training Request,Low,Escalated,Tier 1 Support,202,10,Missed,Leadership Office,15+ days
+TCK-10172,2026-02-09,,Human Resources,Report Request,Medium,Open,Tier 1 Support,80,7,Missed,Program Office,15+ days
+TCK-10173,2026-01-20,2026-01-27,Policy,Report Request,Medium,Closed,Tier 2 Support,7,7,Met,Leadership Office,4-7 days
+TCK-10174,2025-12-12,2025-12-24,Policy,Training Request,Low,Closed,Tier 1 Support,12,10,Missed,Leadership Office,8-14 days
+TCK-10175,2026-02-18,,Human Resources,Report Request,High,Open,Tier 2 Support,71,4,Missed,Internal User,15+ days
+TCK-10176,2025-12-16,,Human Resources,User Permissions,Medium,Pending Customer,Tier 2 Support,135,7,Missed,Internal User,15+ days
+TCK-10177,2026-02-18,,IT Services,Training Request,Medium,Open,Systems Team,71,7,Missed,Leadership Office,15+ days
+TCK-10178,2025-09-25,2025-09-25,Operations,Report Request,High,Closed,CRM Admin,0,4,Met,Program Office,0-3 days
+TCK-10179,2025-11-16,2025-11-24,Program Management,Data Correction,High,Closed,Tier 2 Support,8,4,Missed,Leadership Office,8-14 days
+TCK-10180,2025-11-07,,Policy,System Error,Low,Open,Tier 1 Support,174,10,Missed,Internal User,15+ days
+TCK-10181,2025-03-15,2025-03-22,Human Resources,System Error,High,Closed,Tier 1 Support,7,4,Missed,Program Office,4-7 days
+TCK-10182,2025-06-10,2025-06-14,Human Resources,Report Request,Low,Closed,Systems Team,4,10,Met,Program Office,4-7 days
+TCK-10183,2025-06-30,,Program Management,Report Request,Low,Open,Reporting Team,304,10,Missed,Leadership Office,15+ days
+TCK-10184,2025-03-13,,Program Management,Account Access,High,Escalated,CRM Admin,413,4,Missed,Program Office,15+ days
+TCK-10185,2025-07-25,2025-07-29,IT Services,Training Request,Medium,Closed,CRM Admin,4,7,Met,Program Office,4-7 days
+TCK-10186,2025-02-12,2025-02-15,Finance,User Permissions,Medium,Closed,Tier 1 Support,3,7,Met,Leadership Office,0-3 days
+TCK-10187,2025-11-26,2025-12-02,Operations,Account Access,Low,Closed,CRM Admin,6,10,Met,Program Office,4-7 days
+TCK-10188,2025-03-23,,Operations,System Error,Medium,Pending Customer,Reporting Team,403,7,Missed,Leadership Office,15+ days
+TCK-10189,2025-02-17,2025-02-17,Human Resources,Account Access,Medium,Closed,Tier 2 Support,0,7,Met,Leadership Office,0-3 days
+TCK-10190,2025-02-25,,Program Management,Data Correction,High,Escalated,Reporting Team,429,4,Missed,Program Office,15+ days
+TCK-10191,2025-02-03,,Program Management,Account Access,Medium,Escalated,CRM Admin,451,7,Missed,Program Office,15+ days
+TCK-10192,2025-01-20,,Operations,User Permissions,Medium,Escalated,Tier 2 Support,465,7,Missed,Program Office,15+ days
+TCK-10193,2025-10-18,2025-10-20,Finance,System Error,Low,Closed,Reporting Team,2,10,Met,Internal User,0-3 days
+TCK-10194,2025-01-28,,Policy,System Error,Low,Open,CRM Admin,457,10,Missed,Program Office,15+ days
+TCK-10195,2025-11-22,,Policy,System Error,Low,Open,Reporting Team,159,10,Missed,Leadership Office,15+ days
+TCK-10196,2025-04-20,2025-04-27,Human Resources,Account Access,Medium,Closed,Reporting Team,7,7,Met,Program Office,4-7 days
+TCK-10197,2026-01-21,,IT Services,User Permissions,Medium,Open,Tier 2 Support,99,7,Missed,Leadership Office,15+ days
+TCK-10198,2025-08-12,2025-08-16,Program Management,Account Access,Medium,Closed,Systems Team,4,7,Met,Leadership Office,4-7 days
+TCK-10199,2025-04-12,2025-04-18,Policy,User Permissions,Low,Closed,CRM Admin,6,10,Met,Internal User,4-7 days
+TCK-10200,2025-03-19,,Program Management,Report Request,High,Escalated,Tier 1 Support,407,4,Missed,Leadership Office,15+ days
+TCK-10201,2025-07-28,2025-08-10,Operations,User Permissions,Medium,Closed,Reporting Team,13,7,Missed,Leadership Office,8-14 days
+TCK-10202,2025-10-24,2025-10-31,Operations,System Error,Low,Closed,Systems Team,7,10,Met,Internal User,4-7 days
+TCK-10203,2025-11-04,2025-11-17,IT Services,Account Access,Medium,Closed,CRM Admin,13,7,Missed,Program Office,8-14 days
+TCK-10204,2025-01-09,2025-01-12,Human Resources,User Permissions,Medium,Closed,Reporting Team,3,7,Met,Leadership Office,0-3 days
+TCK-10205,2025-08-22,2025-08-29,Finance,Account Access,Medium,Closed,Tier 2 Support,7,7,Met,Program Office,4-7 days
+TCK-10206,2025-08-08,2025-08-11,Operations,Training Request,Medium,Closed,Reporting Team,3,7,Met,Program Office,0-3 days
+TCK-10207,2025-05-26,2025-05-27,IT Services,Account Access,High,Closed,Tier 1 Support,1,4,Met,Internal User,0-3 days
+TCK-10208,2025-02-15,2025-02-21,Program Management,Account Access,Medium,Closed,Reporting Team,6,7,Met,Leadership Office,4-7 days
+TCK-10209,2026-01-20,2026-01-23,Human Resources,User Permissions,Medium,Closed,CRM Admin,3,7,Met,Program Office,0-3 days
+TCK-10210,2025-04-19,2025-04-24,Program Management,Account Access,Low,Closed,Tier 2 Support,5,10,Met,Program Office,4-7 days
+TCK-10211,2025-03-05,2025-03-05,Policy,User Permissions,Medium,Closed,Reporting Team,0,7,Met,Internal User,0-3 days
+TCK-10212,2025-07-11,2025-07-16,Finance,User Permissions,High,Closed,CRM Admin,5,4,Missed,Program Office,4-7 days
+TCK-10213,2026-03-06,,Program Management,Account Access,High,Pending Customer,Tier 1 Support,55,4,Missed,Internal User,15+ days
+TCK-10214,2025-03-20,,IT Services,User Permissions,High,Pending Customer,Systems Team,406,4,Missed,Program Office,15+ days
+TCK-10215,2025-06-21,2025-06-25,Program Management,Data Correction,Low,Closed,Systems Team,4,10,Met,Leadership Office,4-7 days
+TCK-10216,2025-07-21,2025-07-26,IT Services,System Error,High,Closed,Tier 2 Support,5,4,Missed,Leadership Office,4-7 days
+TCK-10217,2025-07-19,,Program Management,Data Correction,Critical,Open,Tier 1 Support,285,2,Missed,Leadership Office,15+ days
+TCK-10218,2026-02-15,,IT Services,System Error,Low,Open,CRM Admin,74,10,Missed,Leadership Office,15+ days
+TCK-10219,2025-03-23,2025-03-29,Policy,Training Request,High,Closed,Tier 2 Support,6,4,Missed,Internal User,4-7 days
+TCK-10220,2025-11-13,,Human Resources,Training Request,High,Escalated,Reporting Team,168,4,Missed,Internal User,15+ days
+TCK-10221,2026-01-16,,Operations,Data Correction,High,Escalated,Tier 2 Support,104,4,Missed,Program Office,15+ days
+TCK-10222,2025-04-10,2025-04-12,Program Management,Report Request,Medium,Closed,Tier 1 Support,2,7,Met,Program Office,0-3 days
+TCK-10223,2025-02-12,2025-02-13,Human Resources,Account Access,High,Closed,Reporting Team,1,4,Met,Leadership Office,0-3 days
+TCK-10224,2025-03-04,2025-03-08,Operations,Account Access,Low,Closed,Tier 1 Support,4,10,Met,Program Office,4-7 days
+TCK-10225,2026-03-09,,Human Resources,System Error,Medium,Pending Customer,Tier 1 Support,52,7,Missed,Program Office,15+ days
+TCK-10226,2025-11-17,2025-11-27,Program Management,Report Request,Low,Closed,Reporting Team,10,10,Met,Internal User,8-14 days
+TCK-10227,2025-04-03,,Human Resources,Account Access,Medium,Pending Customer,CRM Admin,392,7,Missed,Program Office,15+ days
+TCK-10228,2025-09-05,2025-09-05,Human Resources,Data Correction,Critical,Closed,Systems Team,0,2,Met,Leadership Office,0-3 days
+TCK-10229,2025-05-11,,IT Services,Data Correction,High,Open,Tier 2 Support,354,4,Missed,Program Office,15+ days
+TCK-10230,2025-02-28,,Operations,Data Correction,High,Open,Tier 1 Support,426,4,Missed,Leadership Office,15+ days
+TCK-10231,2025-12-21,2025-12-21,Finance,User Permissions,High,Closed,Systems Team,0,4,Met,Leadership Office,0-3 days
+TCK-10232,2025-05-31,2025-06-06,Program Management,Training Request,Medium,Closed,Reporting Team,6,7,Met,Internal User,4-7 days
+TCK-10233,2025-05-09,2025-05-18,Program Management,Account Access,Low,Closed,Systems Team,9,10,Met,Leadership Office,8-14 days
+TCK-10234,2025-06-09,2025-06-15,Policy,System Error,Low,Closed,Reporting Team,6,10,Met,Program Office,4-7 days
+TCK-10235,2025-08-05,2025-08-10,Program Management,System Error,Medium,Closed,Tier 2 Support,5,7,Met,Leadership Office,4-7 days
+TCK-10236,2025-06-30,2025-07-07,Human Resources,System Error,Medium,Closed,Tier 2 Support,7,7,Met,Internal User,4-7 days
+TCK-10237,2025-09-19,2025-09-20,IT Services,Report Request,Medium,Closed,Reporting Team,1,7,Met,Internal User,0-3 days
+TCK-10238,2025-02-28,2025-03-04,Operations,Report Request,Low,Closed,Tier 2 Support,4,10,Met,Internal User,4-7 days
+TCK-10239,2025-04-21,2025-04-27,Finance,User Permissions,Medium,Closed,Tier 1 Support,6,7,Met,Leadership Office,4-7 days
+TCK-10240,2025-06-18,2025-06-24,Finance,Data Correction,Low,Closed,Systems Team,6,10,Met,Internal User,4-7 days
+TCK-10241,2025-07-17,2025-07-23,Policy,Training Request,Medium,Closed,Tier 1 Support,6,7,Met,Leadership Office,4-7 days
+TCK-10242,2025-11-27,2025-12-06,Finance,Report Request,Medium,Closed,Tier 2 Support,9,7,Missed,Internal User,8-14 days
+TCK-10243,2025-01-26,2025-02-02,Human Resources,System Error,High,Closed,Tier 2 Support,7,4,Missed,Leadership Office,4-7 days
+TCK-10244,2025-06-17,2025-06-22,Human Resources,Report Request,Medium,Closed,Tier 1 Support,5,7,Met,Leadership Office,4-7 days
+TCK-10245,2026-02-06,,Program Management,Account Access,High,Escalated,Systems Team,83,4,Missed,Leadership Office,15+ days
+TCK-10246,2025-01-21,,Program Management,Account Access,Medium,Open,Reporting Team,464,7,Missed,Leadership Office,15+ days
+TCK-10247,2025-06-04,2025-06-06,Finance,System Error,Medium,Closed,Systems Team,2,7,Met,Internal User,0-3 days
+TCK-10248,2025-07-21,,Program Management,User Permissions,Medium,Escalated,Tier 1 Support,283,7,Missed,Program Office,15+ days
+TCK-10249,2025-11-13,2025-11-21,Finance,User Permissions,Low,Closed,Reporting Team,8,10,Met,Internal User,8-14 days
+TCK-10250,2025-03-29,2025-04-04,Finance,Training Request,Low,Closed,Tier 1 Support,6,10,Met,Leadership Office,4-7 days
+TCK-10251,2026-03-21,,Finance,Account Access,Low,Pending Customer,CRM Admin,40,10,Missed,Program Office,15+ days
+TCK-10252,2025-12-19,2025-12-25,Finance,User Permissions,Medium,Closed,Tier 2 Support,6,7,Met,Internal User,4-7 days
+TCK-10253,2025-10-26,,Program Management,User Permissions,Medium,Open,Reporting Team,186,7,Missed,Leadership Office,15+ days
+TCK-10254,2025-03-04,2025-03-06,Program Management,User Permissions,Medium,Closed,Reporting Team,2,7,Met,Program Office,0-3 days
+TCK-10255,2025-06-14,2025-06-22,Policy,Account Access,High,Closed,CRM Admin,8,4,Missed,Leadership Office,8-14 days
+TCK-10256,2026-03-04,2026-03-10,Policy,Data Correction,High,Closed,Tier 1 Support,6,4,Missed,Internal User,4-7 days
+TCK-10257,2025-09-11,,Operations,System Error,Low,Open,Tier 1 Support,231,10,Missed,Program Office,15+ days
+TCK-10258,2025-04-17,2025-04-26,IT Services,Report Request,High,Closed,CRM Admin,9,4,Missed,Leadership Office,8-14 days
+TCK-10259,2025-08-21,,Finance,System Error,Medium,Pending Customer,Reporting Team,252,7,Missed,Leadership Office,15+ days
+TCK-10260,2025-09-20,2025-09-28,Human Resources,Report Request,Low,Closed,Reporting Team,8,10,Met,Internal User,8-14 days
+TCK-10261,2025-12-18,,Human Resources,User Permissions,Medium,Pending Customer,Tier 1 Support,133,7,Missed,Internal User,15+ days
+TCK-10262,2025-01-09,,Human Resources,System Error,High,Open,Systems Team,476,4,Missed,Program Office,15+ days
+TCK-10263,2025-06-30,,Operations,System Error,Medium,Escalated,Systems Team,304,7,Missed,Program Office,15+ days
+TCK-10264,2025-09-18,2025-09-25,Finance,Account Access,Medium,Closed,Tier 1 Support,7,7,Met,Leadership Office,4-7 days
+TCK-10265,2025-07-15,2025-07-18,IT Services,Report Request,High,Closed,Systems Team,3,4,Met,Leadership Office,0-3 days
+TCK-10266,2025-09-10,,Human Resources,User Permissions,Medium,Open,Tier 2 Support,232,7,Missed,Internal User,15+ days
+TCK-10267,2025-04-23,,IT Services,Account Access,Low,Pending Customer,CRM Admin,372,10,Missed,Internal User,15+ days
+TCK-10268,2026-03-28,2026-04-01,Program Management,System Error,Medium,Closed,Tier 1 Support,4,7,Met,Internal User,4-7 days
+TCK-10269,2026-01-11,2026-01-13,Operations,Report Request,High,Closed,CRM Admin,2,4,Met,Leadership Office,0-3 days
+TCK-10270,2025-11-02,,Operations,Training Request,Medium,Open,Systems Team,179,7,Missed,Program Office,15+ days
+TCK-10271,2026-01-14,,Human Resources,Data Correction,Medium,Pending Customer,Tier 2 Support,106,7,Missed,Program Office,15+ days
+TCK-10272,2025-08-22,,Program Management,System Error,Low,Open,CRM Admin,251,10,Missed,Internal User,15+ days
+TCK-10273,2025-04-01,,Human Resources,Training Request,Critical,Pending Customer,CRM Admin,394,2,Missed,Program Office,15+ days
+TCK-10274,2025-10-26,,Program Management,Account Access,Low,Pending Customer,Tier 1 Support,186,10,Missed,Internal User,15+ days
+TCK-10275,2025-10-18,2025-10-24,Operations,Account Access,Medium,Closed,Tier 1 Support,6,7,Met,Program Office,4-7 days
+TCK-10276,2026-02-16,2026-02-23,Policy,Report Request,High,Closed,Systems Team,7,4,Missed,Program Office,4-7 days
+TCK-10277,2025-12-06,2025-12-14,Policy,Report Request,Medium,Closed,Systems Team,8,7,Missed,Leadership Office,8-14 days
+TCK-10278,2026-03-15,,Program Management,Account Access,High,Pending Customer,CRM Admin,46,4,Missed,Leadership Office,15+ days
+TCK-10279,2025-09-23,,Policy,Data Correction,High,Open,CRM Admin,219,4,Missed,Program Office,15+ days
+TCK-10280,2025-01-16,2025-01-23,Program Management,Report Request,Low,Closed,Tier 2 Support,7,10,Met,Leadership Office,4-7 days
+TCK-10281,2025-02-15,,Policy,User Permissions,Low,Escalated,Systems Team,439,10,Missed,Program Office,15+ days
+TCK-10282,2026-03-25,2026-03-25,Policy,Report Request,Medium,Closed,CRM Admin,0,7,Met,Program Office,0-3 days
+TCK-10283,2025-10-29,,IT Services,User Permissions,Medium,Escalated,CRM Admin,183,7,Missed,Leadership Office,15+ days
+TCK-10284,2025-03-04,2025-03-10,Finance,Report Request,Medium,Closed,Tier 1 Support,6,7,Met,Internal User,4-7 days
+TCK-10285,2025-09-13,,Finance,Training Request,High,Open,Systems Team,229,4,Missed,Leadership Office,15+ days
+TCK-10286,2025-03-25,2025-03-27,Finance,Account Access,Medium,Closed,Reporting Team,2,7,Met,Internal User,0-3 days
+TCK-10287,2025-04-22,2025-04-30,Program Management,Report Request,Medium,Closed,Tier 1 Support,8,7,Missed,Internal User,8-14 days
+TCK-10288,2025-05-09,,IT Services,User Permissions,Low,Pending Customer,Systems Team,356,10,Missed,Internal User,15+ days
+TCK-10289,2025-02-14,,Human Resources,Report Request,High,Open,Tier 2 Support,440,4,Missed,Internal User,15+ days
+TCK-10290,2025-08-31,2025-08-31,Policy,User Permissions,High,Closed,Reporting Team,0,4,Met,Program Office,0-3 days
+TCK-10291,2025-07-24,,Finance,Data Correction,Critical,Open,Systems Team,280,2,Missed,Program Office,15+ days
+TCK-10292,2025-12-14,2025-12-20,Operations,User Permissions,High,Closed,Tier 2 Support,6,4,Missed,Program Office,4-7 days
+TCK-10293,2025-03-11,,Policy,System Error,Medium,Open,Systems Team,415,7,Missed,Internal User,15+ days
+TCK-10294,2025-07-12,,Human Resources,Data Correction,High,Pending Customer,Systems Team,292,4,Missed,Program Office,15+ days
+TCK-10295,2025-12-22,,Program Management,System Error,Medium,Escalated,Reporting Team,129,7,Missed,Program Office,15+ days
+TCK-10296,2025-08-25,2025-08-29,Program Management,Account Access,Low,Closed,Tier 2 Support,4,10,Met,Leadership Office,4-7 days
+TCK-10297,2025-06-04,2025-06-05,IT Services,Report Request,High,Closed,Tier 1 Support,1,4,Met,Program Office,0-3 days
+TCK-10298,2025-03-06,,IT Services,System Error,Medium,Open,Tier 1 Support,420,7,Missed,Internal User,15+ days
+TCK-10299,2025-01-29,,Finance,Training Request,Medium,Escalated,Reporting Team,456,7,Missed,Leadership Office,15+ days
+TCK-10300,2025-06-19,,IT Services,User Permissions,High,Open,Systems Team,315,4,Missed,Leadership Office,15+ days
+TCK-10301,2026-01-03,2026-01-14,Program Management,Data Correction,Low,Closed,Tier 2 Support,11,10,Missed,Leadership Office,8-14 days
+TCK-10302,2025-11-24,2025-12-01,Finance,User Permissions,High,Closed,Tier 1 Support,7,4,Missed,Program Office,4-7 days
+TCK-10303,2025-11-16,,Human Resources,Training Request,Medium,Open,Tier 1 Support,165,7,Missed,Internal User,15+ days
+TCK-10304,2025-04-15,,IT Services,System Error,Low,Open,Reporting Team,380,10,Missed,Internal User,15+ days
+TCK-10305,2025-03-04,2025-03-10,IT Services,Report Request,Medium,Closed,Systems Team,6,7,Met,Leadership Office,4-7 days
+TCK-10306,2025-08-13,2025-08-19,Program Management,Data Correction,High,Closed,Tier 1 Support,6,4,Missed,Internal User,4-7 days
+TCK-10307,2025-03-14,2025-03-20,IT Services,Data Correction,High,Closed,Reporting Team,6,4,Missed,Program Office,4-7 days
+TCK-10308,2025-05-29,,IT Services,System Error,Medium,Open,CRM Admin,336,7,Missed,Leadership Office,15+ days
+TCK-10309,2025-05-21,2025-05-29,Program Management,Data Correction,Medium,Closed,Tier 1 Support,8,7,Missed,Program Office,8-14 days
+TCK-10310,2025-08-23,2025-09-01,IT Services,Report Request,Low,Closed,Tier 1 Support,9,10,Met,Leadership Office,8-14 days
+TCK-10311,2025-11-30,2025-12-10,Operations,System Error,High,Closed,Reporting Team,10,4,Missed,Program Office,8-14 days
+TCK-10312,2025-01-05,2025-01-08,IT Services,Data Correction,Critical,Closed,CRM Admin,3,2,Missed,Leadership Office,0-3 days
+TCK-10313,2025-09-26,,Policy,Training Request,Medium,Open,CRM Admin,216,7,Missed,Program Office,15+ days
+TCK-10314,2026-01-02,,Policy,Report Request,High,Open,Reporting Team,118,4,Missed,Internal User,15+ days
+TCK-10315,2026-03-06,2026-03-07,IT Services,User Permissions,Medium,Closed,Systems Team,1,7,Met,Leadership Office,0-3 days
+TCK-10316,2025-09-27,2025-10-03,IT Services,Training Request,Medium,Closed,CRM Admin,6,7,Met,Leadership Office,4-7 days
+TCK-10317,2025-11-13,,Operations,Account Access,High,Open,Tier 1 Support,168,4,Missed,Program Office,15+ days
+TCK-10318,2025-12-14,2025-12-20,Policy,Data Correction,Medium,Closed,Tier 1 Support,6,7,Met,Internal User,4-7 days
+TCK-10319,2026-01-08,2026-01-11,IT Services,Report Request,High,Closed,Tier 1 Support,3,4,Met,Internal User,0-3 days
+TCK-10320,2026-03-10,2026-03-14,Finance,Training Request,High,Closed,Tier 1 Support,4,4,Met,Internal User,4-7 days
+TCK-10321,2025-06-14,2025-06-24,IT Services,Data Correction,Low,Closed,Tier 2 Support,10,10,Met,Program Office,8-14 days
+TCK-10322,2025-09-09,2025-09-18,Operations,User Permissions,Medium,Closed,Tier 2 Support,9,7,Missed,Program Office,8-14 days
+TCK-10323,2026-02-21,2026-02-27,Policy,Account Access,Medium,Closed,Tier 2 Support,6,7,Met,Internal User,4-7 days
+TCK-10324,2026-02-19,,Program Management,Training Request,Low,Open,Systems Team,70,10,Missed,Internal User,15+ days
+TCK-10325,2025-06-24,2025-07-05,Program Management,Data Correction,Low,Closed,Tier 2 Support,11,10,Missed,Leadership Office,8-14 days
+TCK-10326,2026-02-28,2026-03-03,IT Services,Training Request,Medium,Closed,Tier 2 Support,3,7,Met,Internal User,0-3 days
+TCK-10327,2025-08-13,2025-08-20,IT Services,Report Request,Medium,Closed,Tier 1 Support,7,7,Met,Internal User,4-7 days
+TCK-10328,2025-09-13,2025-09-21,Finance,Account Access,Low,Closed,Tier 2 Support,8,10,Met,Program Office,8-14 days
+TCK-10329,2026-03-01,2026-03-12,Finance,Account Access,Medium,Closed,Systems Team,11,7,Missed,Leadership Office,8-14 days
+TCK-10330,2025-05-04,,IT Services,Report Request,High,Escalated,Reporting Team,361,4,Missed,Leadership Office,15+ days
+TCK-10331,2025-01-30,,Finance,User Permissions,Medium,Pending Customer,Tier 1 Support,455,7,Missed,Internal User,15+ days
+TCK-10332,2025-06-23,2025-06-25,Human Resources,Data Correction,Medium,Closed,Tier 2 Support,2,7,Met,Leadership Office,0-3 days
+TCK-10333,2026-02-23,,Operations,System Error,High,Escalated,Tier 1 Support,66,4,Missed,Leadership Office,15+ days
+TCK-10334,2025-11-09,2025-11-09,Human Resources,Report Request,High,Closed,Tier 1 Support,0,4,Met,Program Office,0-3 days
+TCK-10335,2025-11-03,,Operations,Report Request,High,Escalated,Tier 1 Support,178,4,Missed,Internal User,15+ days
+TCK-10336,2025-01-19,2025-01-22,Finance,System Error,Medium,Closed,Reporting Team,3,7,Met,Program Office,0-3 days
+TCK-10337,2026-02-05,,Operations,Training Request,High,Escalated,Systems Team,84,4,Missed,Program Office,15+ days
+TCK-10338,2025-12-16,,Program Management,Account Access,Medium,Open,Reporting Team,135,7,Missed,Program Office,15+ days
+TCK-10339,2025-12-23,2025-12-29,Human Resources,Training Request,Low,Closed,CRM Admin,6,10,Met,Program Office,4-7 days
+TCK-10340,2025-04-10,,Operations,Data Correction,Medium,Pending Customer,Tier 1 Support,385,7,Missed,Leadership Office,15+ days
+TCK-10341,2025-01-06,2025-01-18,IT Services,Account Access,Low,Closed,Tier 1 Support,12,10,Missed,Leadership Office,8-14 days
+TCK-10342,2025-05-08,,Operations,System Error,High,Open,Tier 2 Support,357,4,Missed,Program Office,15+ days
+TCK-10343,2025-01-23,2025-02-06,Operations,Training Request,Medium,Closed,Reporting Team,14,7,Missed,Program Office,8-14 days
+TCK-10344,2025-12-03,,Finance,Training Request,Low,Open,Tier 2 Support,148,10,Missed,Program Office,15+ days
+TCK-10345,2025-12-28,2026-01-02,Policy,Report Request,High,Closed,CRM Admin,5,4,Missed,Leadership Office,4-7 days
+TCK-10346,2025-05-30,2025-06-01,Finance,Report Request,High,Closed,Systems Team,2,4,Met,Leadership Office,0-3 days
+TCK-10347,2025-02-23,,Finance,Account Access,Low,Pending Customer,Tier 2 Support,431,10,Missed,Internal User,15+ days
+TCK-10348,2026-03-07,2026-03-07,Policy,Training Request,Critical,Closed,Tier 2 Support,0,2,Met,Internal User,0-3 days
+TCK-10349,2025-07-10,2025-07-16,Program Management,User Permissions,High,Closed,Reporting Team,6,4,Missed,Internal User,4-7 days
+TCK-10350,2025-01-11,,Finance,Training Request,Medium,Open,Reporting Team,474,7,Missed,Program Office,15+ days
+TCK-10351,2026-02-28,,Human Resources,System Error,Critical,Open,Reporting Team,61,2,Missed,Program Office,15+ days
+TCK-10352,2025-01-23,2025-01-28,Policy,System Error,Low,Closed,Systems Team,5,10,Met,Internal User,4-7 days
+TCK-10353,2025-12-05,2025-12-10,IT Services,Report Request,Medium,Closed,CRM Admin,5,7,Met,Leadership Office,4-7 days
+TCK-10354,2025-04-21,2025-04-25,IT Services,System Error,High,Closed,Reporting Team,4,4,Met,Leadership Office,4-7 days
+TCK-10355,2026-01-12,2026-01-12,Policy,Report Request,High,Closed,Systems Team,0,4,Met,Program Office,0-3 days
+TCK-10356,2025-08-06,2025-08-09,IT Services,Report Request,Medium,Closed,Tier 2 Support,3,7,Met,Program Office,0-3 days
+TCK-10357,2025-08-28,,Policy,Report Request,High,Escalated,Tier 1 Support,245,4,Missed,Internal User,15+ days
+TCK-10358,2026-01-30,2026-02-05,Program Management,Account Access,Medium,Closed,Systems Team,6,7,Met,Program Office,4-7 days
+TCK-10359,2025-07-05,2025-07-08,Human Resources,Account Access,Medium,Closed,CRM Admin,3,7,Met,Leadership Office,0-3 days
+TCK-10360,2025-12-05,2025-12-06,Operations,System Error,Medium,Closed,Reporting Team,1,7,Met,Internal User,0-3 days
+TCK-10361,2025-08-14,,IT Services,Data Correction,Low,Open,Reporting Team,259,10,Missed,Internal User,15+ days
+TCK-10362,2025-10-24,2025-10-31,IT Services,Training Request,High,Closed,CRM Admin,7,4,Missed,Internal User,4-7 days
+TCK-10363,2025-08-14,2025-08-21,Operations,Data Correction,Low,Closed,Tier 2 Support,7,10,Met,Internal User,4-7 days
+TCK-10364,2026-03-23,,Human Resources,User Permissions,Medium,Open,Tier 1 Support,38,7,Missed,Internal User,15+ days
+TCK-10365,2025-12-17,2025-12-21,Operations,Account Access,Medium,Closed,CRM Admin,4,7,Met,Program Office,4-7 days
+TCK-10366,2025-01-09,,Finance,Training Request,Medium,Pending Customer,Tier 1 Support,476,7,Missed,Leadership Office,15+ days
+TCK-10367,2025-05-01,,Operations,Data Correction,Medium,Open,CRM Admin,364,7,Missed,Leadership Office,15+ days
+TCK-10368,2025-07-10,2025-07-15,Human Resources,User Permissions,High,Closed,Reporting Team,5,4,Missed,Program Office,4-7 days
+TCK-10369,2025-03-15,2025-03-17,Policy,Report Request,Low,Closed,Reporting Team,2,10,Met,Program Office,0-3 days
+TCK-10370,2025-11-15,2025-11-29,Finance,Data Correction,Low,Closed,Systems Team,14,10,Missed,Internal User,8-14 days
+TCK-10371,2025-02-24,2025-02-24,IT Services,Training Request,Medium,Closed,CRM Admin,0,7,Met,Internal User,0-3 days
+TCK-10372,2025-07-13,,Policy,Data Correction,High,Open,Reporting Team,291,4,Missed,Leadership Office,15+ days
+TCK-10373,2025-02-10,,IT Services,User Permissions,Critical,Escalated,Systems Team,444,2,Missed,Leadership Office,15+ days
+TCK-10374,2025-08-03,,IT Services,Account Access,Medium,Open,Systems Team,270,7,Missed,Program Office,15+ days
+TCK-10375,2025-12-04,2025-12-09,Finance,Data Correction,Medium,Closed,CRM Admin,5,7,Met,Internal User,4-7 days
+TCK-10376,2026-02-14,2026-02-23,Program Management,Report Request,High,Closed,Tier 1 Support,9,4,Missed,Leadership Office,8-14 days
+TCK-10377,2025-05-04,,IT Services,Training Request,Medium,Escalated,Tier 1 Support,361,7,Missed,Program Office,15+ days
+TCK-10378,2025-12-01,2025-12-07,Program Management,Data Correction,Medium,Closed,Systems Team,6,7,Met,Internal User,4-7 days
+TCK-10379,2025-10-03,,IT Services,Report Request,Low,Pending Customer,CRM Admin,209,10,Missed,Program Office,15+ days
+TCK-10380,2025-06-10,2025-06-14,IT Services,Data Correction,Low,Closed,Systems Team,4,10,Met,Program Office,4-7 days
+TCK-10381,2025-11-20,,Operations,Account Access,High,Open,Reporting Team,161,4,Missed,Program Office,15+ days
+TCK-10382,2026-01-27,,Policy,Account Access,Medium,Escalated,Tier 2 Support,93,7,Missed,Internal User,15+ days
+TCK-10383,2026-03-03,2026-03-10,IT Services,System Error,Medium,Closed,Reporting Team,7,7,Met,Program Office,4-7 days
+TCK-10384,2025-03-07,2025-03-12,Policy,Report Request,Medium,Closed,Tier 1 Support,5,7,Met,Program Office,4-7 days
+TCK-10385,2026-02-27,2026-02-27,Human Resources,Account Access,High,Closed,CRM Admin,0,4,Met,Program Office,0-3 days
+TCK-10386,2025-07-29,2025-07-29,Program Management,Report Request,Medium,Closed,Reporting Team,0,7,Met,Leadership Office,0-3 days
+TCK-10387,2025-03-10,2025-03-10,IT Services,Account Access,High,Closed,Tier 2 Support,0,4,Met,Internal User,0-3 days
+TCK-10388,2025-10-31,2025-11-03,Program Management,System Error,Medium,Closed,CRM Admin,3,7,Met,Program Office,0-3 days
+TCK-10389,2025-04-01,2025-04-08,Finance,System Error,Medium,Closed,CRM Admin,7,7,Met,Internal User,4-7 days
+TCK-10390,2025-10-16,2025-10-21,IT Services,System Error,Medium,Closed,CRM Admin,5,7,Met,Program Office,4-7 days
+TCK-10391,2025-07-16,,Policy,User Permissions,Medium,Open,Tier 2 Support,288,7,Missed,Program Office,15+ days
+TCK-10392,2025-09-23,,Finance,Account Access,Medium,Pending Customer,CRM Admin,219,7,Missed,Program Office,15+ days
+TCK-10393,2025-03-26,2025-03-28,Finance,Report Request,Low,Closed,Systems Team,2,10,Met,Internal User,0-3 days
+TCK-10394,2025-04-29,,Operations,Training Request,Medium,Open,Systems Team,366,7,Missed,Internal User,15+ days
+TCK-10395,2025-01-15,,Operations,Account Access,Medium,Open,Reporting Team,470,7,Missed,Internal User,15+ days
+TCK-10396,2025-07-09,,IT Services,System Error,Low,Escalated,Reporting Team,295,10,Missed,Leadership Office,15+ days
+TCK-10397,2025-03-06,2025-03-13,Human Resources,System Error,High,Closed,Reporting Team,7,4,Missed,Program Office,4-7 days
+TCK-10398,2025-05-15,,Finance,User Permissions,Low,Open,Tier 1 Support,350,10,Missed,Program Office,15+ days
+TCK-10399,2026-02-16,2026-02-23,IT Services,Report Request,Low,Closed,CRM Admin,7,10,Met,Program Office,4-7 days
+TCK-10400,2025-11-19,2025-11-20,Human Resources,User Permissions,High,Closed,CRM Admin,1,4,Met,Internal User,0-3 days
+TCK-10401,2025-08-10,2025-08-16,IT Services,User Permissions,Low,Closed,Tier 1 Support,6,10,Met,Leadership Office,4-7 days
+TCK-10402,2025-11-18,,Program Management,Data Correction,Low,Open,Tier 2 Support,163,10,Missed,Program Office,15+ days
+TCK-10403,2025-08-29,2025-09-05,Operations,User Permissions,Low,Closed,Tier 1 Support,7,10,Met,Leadership Office,4-7 days
+TCK-10404,2026-03-15,2026-03-16,Program Management,Account Access,High,Closed,Reporting Team,1,4,Met,Leadership Office,0-3 days
+TCK-10405,2025-11-09,,Program Management,User Permissions,Low,Open,Systems Team,172,10,Missed,Internal User,15+ days
+TCK-10406,2025-11-23,2025-11-30,Operations,Report Request,Medium,Closed,Tier 2 Support,7,7,Met,Program Office,4-7 days
+TCK-10407,2025-12-09,2025-12-12,Program Management,Report Request,Medium,Closed,Tier 1 Support,3,7,Met,Internal User,0-3 days
+TCK-10408,2025-02-27,,Finance,System Error,Critical,Pending Customer,Reporting Team,427,2,Missed,Program Office,15+ days
+TCK-10409,2025-05-07,,Human Resources,Report Request,Medium,Open,Reporting Team,358,7,Missed,Leadership Office,15+ days
+TCK-10410,2025-03-07,2025-03-11,Program Management,Training Request,High,Closed,Reporting Team,4,4,Met,Leadership Office,4-7 days
+TCK-10411,2025-05-01,2025-05-10,Program Management,Account Access,Low,Closed,Systems Team,9,10,Met,Program Office,8-14 days
+TCK-10412,2025-05-14,2025-05-25,Program Management,System Error,Medium,Closed,Reporting Team,11,7,Missed,Program Office,8-14 days
+TCK-10413,2025-01-28,2025-01-31,Finance,System Error,Medium,Closed,Reporting Team,3,7,Met,Internal User,0-3 days
+TCK-10414,2025-10-21,2025-10-29,Policy,Account Access,High,Closed,Systems Team,8,4,Missed,Leadership Office,8-14 days
+TCK-10415,2025-06-18,2025-06-26,Program Management,Account Access,Low,Closed,CRM Admin,8,10,Met,Program Office,8-14 days
+TCK-10416,2026-01-28,,Human Resources,Training Request,High,Open,Tier 2 Support,92,4,Missed,Program Office,15+ days
+TCK-10417,2025-10-02,,Operations,Report Request,Low,Open,Tier 2 Support,210,10,Missed,Program Office,15+ days
+TCK-10418,2025-06-19,2025-06-23,Operations,Account Access,Medium,Closed,Tier 1 Support,4,7,Met,Internal User,4-7 days
+TCK-10419,2026-01-22,,Operations,Report Request,High,Open,CRM Admin,98,4,Missed,Internal User,15+ days
+TCK-10420,2025-04-28,2025-05-06,Human Resources,Report Request,Medium,Closed,Tier 1 Support,8,7,Missed,Program Office,8-14 days
+TCK-10421,2025-12-02,2025-12-12,Human Resources,Account Access,Medium,Closed,Systems Team,10,7,Missed,Leadership Office,8-14 days
+TCK-10422,2025-12-27,2025-12-27,Human Resources,User Permissions,High,Closed,Systems Team,0,4,Met,Leadership Office,0-3 days
+TCK-10423,2025-03-19,2025-03-22,Finance,Report Request,Low,Closed,Reporting Team,3,10,Met,Leadership Office,0-3 days
+TCK-10424,2026-01-16,2026-01-27,Operations,Account Access,Low,Closed,CRM Admin,11,10,Missed,Leadership Office,8-14 days
+TCK-10425,2025-10-23,2025-11-04,IT Services,Report Request,Medium,Closed,Reporting Team,12,7,Missed,Program Office,8-14 days
+TCK-10426,2025-12-26,2026-01-05,Human Resources,System Error,Medium,Closed,Reporting Team,10,7,Missed,Program Office,8-14 days
+TCK-10427,2026-01-26,,Program Management,Data Correction,Medium,Open,Reporting Team,94,7,Missed,Program Office,15+ days
+TCK-10428,2025-09-02,2025-09-16,Finance,Data Correction,Medium,Closed,Tier 1 Support,14,7,Missed,Internal User,8-14 days
+TCK-10429,2025-10-15,,Operations,System Error,Low,Pending Customer,Systems Team,197,10,Missed,Program Office,15+ days
+TCK-10430,2025-09-25,2025-09-29,Operations,Account Access,High,Closed,Reporting Team,4,4,Met,Program Office,4-7 days
+TCK-10431,2025-07-30,2025-08-06,IT Services,Training Request,Medium,Closed,Reporting Team,7,7,Met,Internal User,4-7 days
+TCK-10432,2025-05-18,2025-05-26,Program Management,Training Request,Medium,Closed,Reporting Team,8,7,Missed,Program Office,8-14 days
+TCK-10433,2025-11-30,2025-12-04,Policy,User Permissions,Low,Closed,Tier 1 Support,4,10,Met,Internal User,4-7 days
+TCK-10434,2025-08-06,2025-08-12,Human Resources,Data Correction,Medium,Closed,Systems Team,6,7,Met,Leadership Office,4-7 days
+TCK-10435,2025-03-04,2025-03-12,Program Management,System Error,Low,Closed,Tier 2 Support,8,10,Met,Leadership Office,8-14 days
+TCK-10436,2026-02-16,,IT Services,System Error,Medium,Open,Reporting Team,73,7,Missed,Internal User,15+ days
+TCK-10437,2025-06-01,,Finance,Training Request,Low,Escalated,CRM Admin,333,10,Missed,Leadership Office,15+ days
+TCK-10438,2026-04-01,2026-04-01,Operations,Report Request,Medium,Closed,Systems Team,0,7,Met,Leadership Office,0-3 days
+TCK-10439,2025-04-15,,Program Management,System Error,High,Escalated,Tier 2 Support,380,4,Missed,Program Office,15+ days
+TCK-10440,2026-01-18,,Operations,Data Correction,High,Pending Customer,Systems Team,102,4,Missed,Leadership Office,15+ days
+TCK-10441,2026-03-01,2026-03-08,Human Resources,Report Request,Medium,Closed,Tier 2 Support,7,7,Met,Internal User,4-7 days
+TCK-10442,2025-12-22,2026-01-02,Human Resources,Account Access,Low,Closed,Systems Team,11,10,Missed,Program Office,8-14 days
+TCK-10443,2025-11-01,2025-11-06,Policy,Account Access,Low,Closed,Tier 2 Support,5,10,Met,Program Office,4-7 days
+TCK-10444,2025-05-26,,IT Services,User Permissions,High,Pending Customer,CRM Admin,339,4,Missed,Program Office,15+ days
+TCK-10445,2025-11-16,,Operations,Account Access,High,Escalated,Systems Team,165,4,Missed,Internal User,15+ days
+TCK-10446,2025-02-22,2025-02-24,Finance,Training Request,High,Closed,Tier 1 Support,2,4,Met,Internal User,0-3 days
+TCK-10447,2026-02-13,2026-02-16,IT Services,Training Request,Medium,Closed,CRM Admin,3,7,Met,Leadership Office,0-3 days
+TCK-10448,2026-03-23,,Operations,Data Correction,Medium,Pending Customer,Tier 1 Support,38,7,Missed,Internal User,15+ days
+TCK-10449,2025-04-21,2025-04-30,Human Resources,Report Request,Low,Closed,Tier 1 Support,9,10,Met,Internal User,8-14 days
+TCK-10450,2025-03-12,2025-03-19,Policy,System Error,Medium,Closed,CRM Admin,7,7,Met,Program Office,4-7 days
+TCK-10451,2025-09-14,2025-09-14,Policy,System Error,High,Closed,CRM Admin,0,4,Met,Program Office,0-3 days
+TCK-10452,2026-03-06,2026-03-15,IT Services,Data Correction,Medium,Closed,Tier 2 Support,9,7,Missed,Leadership Office,8-14 days
+TCK-10453,2026-03-03,,Policy,Report Request,Medium,Open,Tier 1 Support,58,7,Missed,Leadership Office,15+ days
+TCK-10454,2025-08-11,,Finance,System Error,Medium,Open,CRM Admin,262,7,Missed,Leadership Office,15+ days
+TCK-10455,2025-08-06,2025-08-21,Program Management,Report Request,Low,Closed,Tier 2 Support,15,10,Missed,Leadership Office,15+ days
+TCK-10456,2025-01-06,2025-01-13,Operations,Account Access,Low,Closed,Systems Team,7,10,Met,Program Office,4-7 days
+TCK-10457,2025-06-18,2025-06-25,IT Services,Report Request,Low,Closed,Tier 1 Support,7,10,Met,Leadership Office,4-7 days
+TCK-10458,2025-05-21,2025-06-02,Policy,User Permissions,Medium,Closed,CRM Admin,12,7,Missed,Program Office,8-14 days
+TCK-10459,2025-11-17,2025-11-29,Program Management,Training Request,Low,Closed,Reporting Team,12,10,Missed,Program Office,8-14 days
+TCK-10460,2025-03-30,,IT Services,Account Access,Medium,Pending Customer,Tier 1 Support,396,7,Missed,Program Office,15+ days
+TCK-10461,2025-01-15,2025-01-20,Operations,Account Access,Medium,Closed,Reporting Team,5,7,Met,Internal User,4-7 days
+TCK-10462,2025-01-29,2025-02-02,Finance,Account Access,Medium,Closed,Systems Team,4,7,Met,Program Office,4-7 days
+TCK-10463,2026-03-13,2026-03-26,Finance,User Permissions,Low,Closed,Tier 2 Support,13,10,Missed,Leadership Office,8-14 days
+TCK-10464,2026-01-05,2026-01-09,Policy,System Error,High,Closed,Reporting Team,4,4,Met,Leadership Office,4-7 days
+TCK-10465,2025-12-09,,Finance,Account Access,Low,Open,Tier 2 Support,142,10,Missed,Program Office,15+ days
+TCK-10466,2025-01-23,,IT Services,System Error,Medium,Open,Tier 2 Support,462,7,Missed,Leadership Office,15+ days
+TCK-10467,2026-01-18,,Human Resources,Report Request,High,Escalated,Reporting Team,102,4,Missed,Leadership Office,15+ days
+TCK-10468,2026-03-05,2026-03-14,Program Management,Account Access,Medium,Closed,Tier 1 Support,9,7,Missed,Internal User,8-14 days
+TCK-10469,2025-04-04,,Operations,Account Access,High,Open,Tier 2 Support,391,4,Missed,Leadership Office,15+ days
+TCK-10470,2025-07-11,,Operations,Report Request,Medium,Pending Customer,Tier 2 Support,293,7,Missed,Leadership Office,15+ days
+TCK-10471,2026-01-22,2026-01-24,Finance,Data Correction,High,Closed,Systems Team,2,4,Met,Program Office,0-3 days
+TCK-10472,2025-07-31,,Operations,Data Correction,Low,Open,CRM Admin,273,10,Missed,Program Office,15+ days
+TCK-10473,2025-12-24,,Policy,Training Request,Medium,Open,Reporting Team,127,7,Missed,Leadership Office,15+ days
+TCK-10474,2025-12-18,,IT Services,System Error,High,Open,Tier 2 Support,133,4,Missed,Leadership Office,15+ days
+TCK-10475,2025-10-19,2025-10-23,Finance,Data Correction,Low,Closed,CRM Admin,4,10,Met,Leadership Office,4-7 days
+TCK-10476,2025-09-15,2025-09-25,Finance,Account Access,Medium,Closed,Systems Team,10,7,Missed,Internal User,8-14 days
+TCK-10477,2025-05-13,2025-05-24,Policy,Data Correction,Low,Closed,Reporting Team,11,10,Missed,Internal User,8-14 days
+TCK-10478,2025-08-28,2025-09-01,Program Management,User Permissions,Medium,Closed,Systems Team,4,7,Met,Internal User,4-7 days
+TCK-10479,2025-06-15,2025-06-19,Program Management,System Error,High,Closed,CRM Admin,4,4,Met,Program Office,4-7 days
+TCK-10480,2025-11-28,,Finance,Report Request,High,Open,Tier 2 Support,153,4,Missed,Program Office,15+ days
+TCK-10481,2025-10-07,,IT Services,User Permissions,Low,Open,Reporting Team,205,10,Missed,Leadership Office,15+ days
+TCK-10482,2025-07-24,2025-07-26,Policy,Report Request,Medium,Closed,Systems Team,2,7,Met,Program Office,0-3 days
+TCK-10483,2025-09-05,2025-09-17,IT Services,Account Access,Medium,Closed,Reporting Team,12,7,Missed,Program Office,8-14 days
+TCK-10484,2026-02-01,2026-02-05,IT Services,Account Access,Medium,Closed,Tier 2 Support,4,7,Met,Leadership Office,4-7 days
+TCK-10485,2025-03-27,,Operations,Training Request,High,Pending Customer,Tier 2 Support,399,4,Missed,Internal User,15+ days
+TCK-10486,2025-12-06,,Human Resources,Report Request,Medium,Escalated,Tier 2 Support,145,7,Missed,Program Office,15+ days
+TCK-10487,2025-08-23,2025-08-27,Operations,Report Request,Medium,Closed,CRM Admin,4,7,Met,Internal User,4-7 days
+TCK-10488,2025-04-05,2025-04-11,Human Resources,User Permissions,Low,Closed,Tier 2 Support,6,10,Met,Internal User,4-7 days
+TCK-10489,2025-12-17,2025-12-24,Human Resources,System Error,Medium,Closed,Systems Team,7,7,Met,Leadership Office,4-7 days
+TCK-10490,2025-07-21,,Policy,System Error,Medium,Pending Customer,Reporting Team,283,7,Missed,Leadership Office,15+ days
+TCK-10491,2025-05-05,,Operations,System Error,High,Open,CRM Admin,360,4,Missed,Program Office,15+ days
+TCK-10492,2026-02-24,,IT Services,System Error,Medium,Pending Customer,Systems Team,65,7,Missed,Internal User,15+ days
+TCK-10493,2025-06-27,2025-07-01,IT Services,Data Correction,Medium,Closed,Tier 2 Support,4,7,Met,Program Office,4-7 days
+TCK-10494,2025-07-05,,IT Services,Training Request,Medium,Pending Customer,Reporting Team,299,7,Missed,Internal User,15+ days
+TCK-10495,2025-11-27,2025-12-07,Human Resources,Report Request,Low,Closed,Reporting Team,10,10,Met,Leadership Office,8-14 days
+TCK-10496,2025-04-03,2025-04-09,Program Management,User Permissions,Medium,Closed,Reporting Team,6,7,Met,Internal User,4-7 days
+TCK-10497,2025-05-14,2025-05-18,Human Resources,System Error,Critical,Closed,Tier 1 Support,4,2,Missed,Program Office,4-7 days
+TCK-10498,2025-12-18,2025-12-25,Program Management,Account Access,High,Closed,Tier 2 Support,7,4,Missed,Program Office,4-7 days
+TCK-10499,2025-03-07,2025-03-09,Policy,System Error,Medium,Closed,Reporting Team,2,7,Met,Internal User,0-3 days
+TCK-10500,2025-06-05,2025-06-11,Human Resources,Training Request,Medium,Closed,Reporting Team,6,7,Met,Leadership Office,4-7 days
+TCK-10501,2025-07-10,2025-07-18,Human Resources,Data Correction,High,Closed,Reporting Team,8,4,Missed,Leadership Office,8-14 days
+TCK-10502,2026-01-24,2026-01-24,Operations,Account Access,Medium,Closed,CRM Admin,0,7,Met,Leadership Office,0-3 days
+TCK-10503,2025-10-30,2025-10-31,Program Management,Account Access,Medium,Closed,Reporting Team,1,7,Met,Program Office,0-3 days
+TCK-10504,2025-01-21,2025-01-24,Finance,Account Access,Low,Closed,Systems Team,3,10,Met,Leadership Office,0-3 days
+TCK-10505,2025-07-09,2025-07-13,IT Services,Report Request,Medium,Closed,Tier 2 Support,4,7,Met,Program Office,4-7 days
+TCK-10506,2025-07-02,2025-07-13,Finance,User Permissions,Medium,Closed,Tier 1 Support,11,7,Missed,Leadership Office,8-14 days
+TCK-10507,2025-02-27,,Human Resources,Training Request,Medium,Open,Tier 1 Support,427,7,Missed,Internal User,15+ days
+TCK-10508,2026-01-08,2026-01-13,Finance,Report Request,Low,Closed,Reporting Team,5,10,Met,Leadership Office,4-7 days
+TCK-10509,2025-11-13,,IT Services,Training Request,Low,Pending Customer,Reporting Team,168,10,Missed,Internal User,15+ days
+TCK-10510,2025-02-09,,IT Services,User Permissions,Medium,Open,Tier 1 Support,445,7,Missed,Program Office,15+ days
+TCK-10511,2025-09-20,,Program Management,System Error,Critical,Open,Tier 1 Support,222,2,Missed,Internal User,15+ days
+TCK-10512,2026-01-18,2026-01-21,Human Resources,System Error,Medium,Closed,Tier 1 Support,3,7,Met,Internal User,0-3 days
+TCK-10513,2025-10-20,2025-10-20,Operations,User Permissions,Medium,Closed,Tier 1 Support,0,7,Met,Program Office,0-3 days
+TCK-10514,2025-10-21,2025-10-26,Program Management,Report Request,Medium,Closed,Tier 2 Support,5,7,Met,Program Office,4-7 days
+TCK-10515,2025-09-14,2025-09-23,Finance,Account Access,Medium,Closed,Reporting Team,9,7,Missed,Internal User,8-14 days
+TCK-10516,2025-01-10,2025-01-11,Finance,Report Request,High,Closed,Reporting Team,1,4,Met,Leadership Office,0-3 days
+TCK-10517,2026-02-09,2026-02-11,Finance,Data Correction,Critical,Closed,Tier 1 Support,2,2,Met,Leadership Office,0-3 days
+TCK-10518,2025-05-28,2025-06-01,Program Management,Training Request,High,Closed,Reporting Team,4,4,Met,Leadership Office,4-7 days
+TCK-10519,2025-11-01,2025-11-07,Finance,Report Request,Medium,Closed,CRM Admin,6,7,Met,Program Office,4-7 days
+TCK-10520,2025-03-19,2025-03-24,Operations,Training Request,Medium,Closed,Tier 2 Support,5,7,Met,Leadership Office,4-7 days
+TCK-10521,2025-07-19,,Policy,System Error,Medium,Open,Systems Team,285,7,Missed,Program Office,15+ days
+TCK-10522,2025-02-12,,Finance,Report Request,Low,Escalated,CRM Admin,442,10,Missed,Program Office,15+ days
+TCK-10523,2025-08-20,,Finance,Training Request,Medium,Open,Reporting Team,253,7,Missed,Program Office,15+ days
+TCK-10524,2026-01-27,,IT Services,User Permissions,Low,Escalated,Reporting Team,93,10,Missed,Internal User,15+ days
+TCK-10525,2025-07-12,,Human Resources,System Error,High,Open,Tier 2 Support,292,4,Missed,Internal User,15+ days
+TCK-10526,2025-02-26,,Operations,User Permissions,Medium,Open,Reporting Team,428,7,Missed,Leadership Office,15+ days
+TCK-10527,2025-07-29,2025-08-05,Finance,User Permissions,Medium,Closed,Tier 1 Support,7,7,Met,Leadership Office,4-7 days
+TCK-10528,2026-03-29,2026-04-02,Policy,Report Request,Medium,Closed,Systems Team,4,7,Met,Leadership Office,4-7 days
+TCK-10529,2025-09-30,,Program Management,Data Correction,Medium,Pending Customer,Tier 2 Support,212,7,Missed,Program Office,15+ days
+TCK-10530,2025-05-28,,Program Management,User Permissions,Low,Pending Customer,Tier 2 Support,337,10,Missed,Leadership Office,15+ days
+TCK-10531,2025-02-20,2025-03-01,Policy,Account Access,Medium,Closed,Systems Team,9,7,Missed,Internal User,8-14 days
+TCK-10532,2025-03-12,2025-03-17,Human Resources,Training Request,Medium,Closed,Systems Team,5,7,Met,Leadership Office,4-7 days
+TCK-10533,2025-07-29,2025-08-02,Program Management,User Permissions,High,Closed,Tier 1 Support,4,4,Met,Program Office,4-7 days
+TCK-10534,2025-01-12,,Policy,System Error,High,Pending Customer,Systems Team,473,4,Missed,Leadership Office,15+ days
+TCK-10535,2026-03-19,,Operations,Data Correction,Low,Pending Customer,Reporting Team,42,10,Missed,Leadership Office,15+ days
+TCK-10536,2025-04-13,2025-04-20,Human Resources,Data Correction,Medium,Closed,Systems Team,7,7,Met,Program Office,4-7 days
+TCK-10537,2025-08-24,2025-09-06,Program Management,Training Request,Low,Closed,Tier 1 Support,13,10,Missed,Leadership Office,8-14 days
+TCK-10538,2026-03-05,,Operations,Data Correction,Medium,Escalated,Reporting Team,56,7,Missed,Leadership Office,15+ days
+TCK-10539,2025-02-05,,Program Management,System Error,Low,Open,Tier 1 Support,449,10,Missed,Program Office,15+ days
+TCK-10540,2025-05-14,2025-05-14,Policy,Training Request,High,Closed,Systems Team,0,4,Met,Leadership Office,0-3 days
+TCK-10541,2025-01-13,,Policy,Account Access,Medium,Pending Customer,CRM Admin,472,7,Missed,Program Office,15+ days
+TCK-10542,2026-01-02,2026-01-08,Program Management,System Error,High,Closed,Tier 1 Support,6,4,Missed,Internal User,4-7 days
+TCK-10543,2025-03-16,2025-03-16,Policy,Data Correction,High,Closed,CRM Admin,0,4,Met,Program Office,0-3 days
+TCK-10544,2025-12-03,,Program Management,Data Correction,Medium,Pending Customer,CRM Admin,148,7,Missed,Internal User,15+ days
+TCK-10545,2025-06-18,,Operations,Report Request,Medium,Open,CRM Admin,316,7,Missed,Program Office,15+ days
+TCK-10546,2025-12-19,2025-12-22,Policy,Report Request,Medium,Closed,Systems Team,3,7,Met,Program Office,0-3 days
+TCK-10547,2025-11-01,,Finance,Training Request,Low,Open,CRM Admin,180,10,Missed,Leadership Office,15+ days
+TCK-10548,2025-05-30,2025-06-04,IT Services,User Permissions,Medium,Closed,CRM Admin,5,7,Met,Program Office,4-7 days
+TCK-10549,2026-01-01,2026-01-06,Operations,Training Request,Medium,Closed,CRM Admin,5,7,Met,Program Office,4-7 days
+TCK-10550,2025-05-12,,Operations,Training Request,Medium,Open,CRM Admin,353,7,Missed,Internal User,15+ days
+TCK-10551,2025-10-27,2025-10-28,IT Services,System Error,Low,Closed,Reporting Team,1,10,Met,Leadership Office,0-3 days
+TCK-10552,2025-03-29,2025-03-30,IT Services,Training Request,Critical,Closed,CRM Admin,1,2,Met,Leadership Office,0-3 days
+TCK-10553,2025-07-11,,Program Management,Data Correction,Medium,Escalated,Reporting Team,293,7,Missed,Program Office,15+ days
+TCK-10554,2025-01-08,,Operations,Report Request,Medium,Open,Tier 2 Support,477,7,Missed,Internal User,15+ days
+TCK-10555,2025-03-18,2025-03-25,Finance,System Error,Medium,Closed,Reporting Team,7,7,Met,Leadership Office,4-7 days
+TCK-10556,2025-11-23,,IT Services,Data Correction,High,Pending Customer,Tier 2 Support,158,4,Missed,Program Office,15+ days
+TCK-10557,2025-12-07,2025-12-18,Finance,Training Request,Low,Closed,Systems Team,11,10,Missed,Leadership Office,8-14 days
+TCK-10558,2025-10-03,,Human Resources,System Error,High,Escalated,Systems Team,209,4,Missed,Leadership Office,15+ days
+TCK-10559,2025-05-07,2025-05-17,Operations,Data Correction,Low,Closed,Reporting Team,10,10,Met,Internal User,8-14 days
+TCK-10560,2025-01-21,2025-01-29,Finance,Account Access,Critical,Closed,Tier 2 Support,8,2,Missed,Leadership Office,8-14 days
+TCK-10561,2026-03-02,,Operations,Data Correction,High,Pending Customer,Tier 2 Support,59,4,Missed,Leadership Office,15+ days
+TCK-10562,2026-01-25,2026-02-01,IT Services,Account Access,Medium,Closed,CRM Admin,7,7,Met,Leadership Office,4-7 days
+TCK-10563,2025-02-07,,IT Services,Training Request,Low,Open,Tier 2 Support,447,10,Missed,Leadership Office,15+ days
+TCK-10564,2025-09-07,,Program Management,Account Access,Medium,Open,Reporting Team,235,7,Missed,Leadership Office,15+ days
+TCK-10565,2025-04-10,2025-04-16,Finance,System Error,Medium,Closed,Systems Team,6,7,Met,Program Office,4-7 days
+TCK-10566,2025-09-10,2025-09-10,Program Management,Training Request,Medium,Closed,CRM Admin,0,7,Met,Leadership Office,0-3 days
+TCK-10567,2025-06-03,2025-06-06,IT Services,Report Request,Medium,Closed,Reporting Team,3,7,Met,Internal User,0-3 days
+TCK-10568,2026-01-23,2026-01-30,Finance,Training Request,High,Closed,Reporting Team,7,4,Missed,Program Office,4-7 days
+TCK-10569,2025-03-25,2025-04-01,Program Management,Report Request,Low,Closed,Systems Team,7,10,Met,Internal User,4-7 days
+TCK-10570,2025-04-10,2025-04-12,Operations,Report Request,High,Closed,Systems Team,2,4,Met,Program Office,0-3 days
+TCK-10571,2025-06-13,2025-06-14,Operations,Training Request,High,Closed,Tier 2 Support,1,4,Met,Program Office,0-3 days
+TCK-10572,2025-03-22,2025-03-23,Operations,Data Correction,Low,Closed,Systems Team,1,10,Met,Leadership Office,0-3 days
+TCK-10573,2025-03-22,2025-03-24,Program Management,User Permissions,Medium,Closed,CRM Admin,2,7,Met,Internal User,0-3 days
+TCK-10574,2025-05-15,,Finance,Report Request,Medium,Pending Customer,Tier 2 Support,350,7,Missed,Program Office,15+ days
+TCK-10575,2025-06-20,,IT Services,System Error,High,Pending Customer,Reporting Team,314,4,Missed,Internal User,15+ days
+TCK-10576,2026-01-26,,Program Management,Report Request,High,Open,Tier 2 Support,94,4,Missed,Program Office,15+ days
+TCK-10577,2026-01-28,2026-02-04,Finance,Report Request,Medium,Closed,CRM Admin,7,7,Met,Internal User,4-7 days
+TCK-10578,2025-06-14,2025-06-24,IT Services,Training Request,Medium,Closed,Tier 2 Support,10,7,Missed,Internal User,8-14 days
+TCK-10579,2025-11-13,,Finance,User Permissions,Medium,Pending Customer,Reporting Team,168,7,Missed,Leadership Office,15+ days
+TCK-10580,2025-10-31,,Human Resources,User Permissions,Medium,Escalated,Reporting Team,181,7,Missed,Leadership Office,15+ days
+TCK-10581,2025-12-28,2025-12-31,Human Resources,Account Access,Medium,Closed,CRM Admin,3,7,Met,Program Office,0-3 days
+TCK-10582,2025-10-03,,Human Resources,System Error,Medium,Escalated,Tier 2 Support,209,7,Missed,Leadership Office,15+ days
+TCK-10583,2025-02-07,2025-02-11,Operations,Training Request,Medium,Closed,CRM Admin,4,7,Met,Leadership Office,4-7 days
+TCK-10584,2025-04-13,2025-04-19,Finance,Training Request,Medium,Closed,Systems Team,6,7,Met,Leadership Office,4-7 days
+TCK-10585,2025-05-14,2025-05-19,Human Resources,User Permissions,Medium,Closed,CRM Admin,5,7,Met,Program Office,4-7 days
+TCK-10586,2026-01-31,,Operations,Report Request,Medium,Pending Customer,Reporting Team,89,7,Missed,Internal User,15+ days
+TCK-10587,2025-08-24,,IT Services,User Permissions,Medium,Open,Tier 1 Support,249,7,Missed,Internal User,15+ days
+TCK-10588,2025-03-03,2025-03-08,Program Management,Account Access,Medium,Closed,Systems Team,5,7,Met,Internal User,4-7 days
+TCK-10589,2025-09-20,2025-10-03,Finance,Training Request,Medium,Closed,Reporting Team,13,7,Missed,Program Office,8-14 days
+TCK-10590,2025-10-22,,Human Resources,Training Request,Medium,Open,Tier 1 Support,190,7,Missed,Leadership Office,15+ days
+TCK-10591,2026-02-04,,IT Services,System Error,Low,Open,Systems Team,85,10,Missed,Leadership Office,15+ days
+TCK-10592,2025-04-08,2025-04-11,Program Management,Report Request,High,Closed,Reporting Team,3,4,Met,Program Office,0-3 days
+TCK-10593,2026-04-01,2026-04-04,Policy,Training Request,High,Closed,CRM Admin,3,4,Met,Program Office,0-3 days
+TCK-10594,2025-09-28,2025-10-01,Program Management,Account Access,High,Closed,Reporting Team,3,4,Met,Leadership Office,0-3 days
+TCK-10595,2025-05-31,,Program Management,Data Correction,Low,Pending Customer,CRM Admin,334,10,Missed,Internal User,15+ days
+TCK-10596,2025-10-27,2025-11-02,Program Management,User Permissions,Medium,Closed,Tier 2 Support,6,7,Met,Leadership Office,4-7 days
+TCK-10597,2025-07-01,2025-07-03,Operations,Data Correction,High,Closed,CRM Admin,2,4,Met,Internal User,0-3 days
+TCK-10598,2025-02-21,2025-02-28,Human Resources,Data Correction,Low,Closed,Systems Team,7,10,Met,Program Office,4-7 days
+TCK-10599,2025-02-05,2025-02-11,Finance,Data Correction,Medium,Closed,Reporting Team,6,7,Met,Program Office,4-7 days
+TCK-10600,2025-04-30,2025-05-06,Finance,Account Access,High,Closed,Tier 2 Support,6,4,Missed,Program Office,4-7 days
+TCK-10601,2025-03-05,2025-03-05,Policy,Data Correction,High,Closed,Reporting Team,0,4,Met,Internal User,0-3 days
+TCK-10602,2025-08-17,,Program Management,Training Request,Medium,Open,Tier 1 Support,256,7,Missed,Internal User,15+ days
+TCK-10603,2025-03-31,2025-04-04,Operations,Account Access,Medium,Closed,Reporting Team,4,7,Met,Leadership Office,4-7 days
+TCK-10604,2025-11-06,,Program Management,Data Correction,Medium,Escalated,Tier 2 Support,175,7,Missed,Internal User,15+ days
+TCK-10605,2026-02-14,2026-02-14,Human Resources,Account Access,Medium,Closed,Reporting Team,0,7,Met,Program Office,0-3 days
+TCK-10606,2025-07-24,,Finance,Report Request,Critical,Open,Tier 1 Support,280,2,Missed,Program Office,15+ days
+TCK-10607,2026-03-11,2026-03-15,Program Management,System Error,Medium,Closed,Tier 1 Support,4,7,Met,Program Office,4-7 days
+TCK-10608,2026-01-09,2026-01-10,Operations,Data Correction,Medium,Closed,Tier 2 Support,1,7,Met,Leadership Office,0-3 days
+TCK-10609,2025-01-05,,Human Resources,Training Request,Low,Open,Tier 2 Support,480,10,Missed,Leadership Office,15+ days
+TCK-10610,2025-12-05,2025-12-06,Operations,System Error,Medium,Closed,Tier 2 Support,1,7,Met,Internal User,0-3 days
+TCK-10611,2025-09-23,2025-09-25,Human Resources,Data Correction,Critical,Closed,Tier 1 Support,2,2,Met,Program Office,0-3 days
+TCK-10612,2025-04-15,2025-04-19,Finance,Training Request,Medium,Closed,CRM Admin,4,7,Met,Internal User,4-7 days
+TCK-10613,2026-02-06,,Operations,System Error,Low,Open,Tier 1 Support,83,10,Missed,Leadership Office,15+ days
+TCK-10614,2025-07-13,2025-07-17,Operations,Data Correction,High,Closed,Tier 1 Support,4,4,Met,Internal User,4-7 days
+TCK-10615,2025-06-28,,Program Management,System Error,High,Open,Reporting Team,306,4,Missed,Leadership Office,15+ days
+TCK-10616,2025-08-14,2025-08-21,Policy,Account Access,Low,Closed,CRM Admin,7,10,Met,Program Office,4-7 days
+TCK-10617,2025-08-29,2025-08-31,IT Services,User Permissions,High,Closed,Tier 1 Support,2,4,Met,Program Office,0-3 days
+TCK-10618,2025-09-10,,Operations,Data Correction,High,Pending Customer,Tier 2 Support,232,4,Missed,Leadership Office,15+ days
+TCK-10619,2025-03-08,,Policy,System Error,High,Open,CRM Admin,418,4,Missed,Leadership Office,15+ days
+TCK-10620,2025-02-23,2025-02-26,Policy,User Permissions,Low,Closed,CRM Admin,3,10,Met,Program Office,0-3 days
+TCK-10621,2025-12-30,2025-12-30,Finance,Data Correction,Critical,Closed,CRM Admin,0,2,Met,Program Office,0-3 days
+TCK-10622,2025-07-11,2025-07-16,Human Resources,User Permissions,Medium,Closed,Reporting Team,5,7,Met,Leadership Office,4-7 days
+TCK-10623,2025-01-25,,Operations,Data Correction,High,Escalated,Reporting Team,460,4,Missed,Program Office,15+ days
+TCK-10624,2025-01-06,2025-01-12,Finance,Data Correction,Medium,Closed,Systems Team,6,7,Met,Program Office,4-7 days
+TCK-10625,2025-08-20,2025-08-21,Policy,Report Request,Critical,Closed,Systems Team,1,2,Met,Program Office,0-3 days
+TCK-10626,2025-06-22,,Finance,System Error,Critical,Open,Systems Team,312,2,Missed,Program Office,15+ days
+TCK-10627,2025-12-06,,Finance,System Error,Low,Pending Customer,Tier 1 Support,145,10,Missed,Leadership Office,15+ days
+TCK-10628,2025-03-06,,Human Resources,Account Access,Low,Escalated,Systems Team,420,10,Missed,Leadership Office,15+ days
+TCK-10629,2025-06-01,2025-06-05,Human Resources,Training Request,Low,Closed,Tier 2 Support,4,10,Met,Program Office,4-7 days
+TCK-10630,2026-02-24,,Operations,Data Correction,High,Escalated,Tier 2 Support,65,4,Missed,Internal User,15+ days
+TCK-10631,2025-04-12,2025-04-14,IT Services,Training Request,High,Closed,Tier 1 Support,2,4,Met,Leadership Office,0-3 days
+TCK-10632,2025-07-05,2025-07-09,IT Services,Data Correction,Medium,Closed,CRM Admin,4,7,Met,Internal User,4-7 days
+TCK-10633,2025-02-21,2025-02-28,Policy,Data Correction,Medium,Closed,Systems Team,7,7,Met,Leadership Office,4-7 days
+TCK-10634,2025-08-06,2025-08-08,Program Management,Report Request,High,Closed,Reporting Team,2,4,Met,Leadership Office,0-3 days
+TCK-10635,2025-08-04,2025-08-12,Human Resources,Account Access,High,Closed,CRM Admin,8,4,Missed,Leadership Office,8-14 days
+TCK-10636,2025-10-12,2025-10-23,Policy,Training Request,Medium,Closed,Systems Team,11,7,Missed,Internal User,8-14 days
+TCK-10637,2025-01-31,,Operations,System Error,High,Open,Tier 2 Support,454,4,Missed,Leadership Office,15+ days
+TCK-10638,2025-08-03,,Finance,Account Access,Medium,Open,Tier 2 Support,270,7,Missed,Program Office,15+ days
+TCK-10639,2025-03-13,,Operations,Data Correction,High,Open,Reporting Team,413,4,Missed,Internal User,15+ days
+TCK-10640,2025-12-11,2025-12-11,Policy,Account Access,Medium,Closed,Systems Team,0,7,Met,Program Office,0-3 days
+TCK-10641,2025-09-26,2025-09-29,Finance,Account Access,Low,Closed,Systems Team,3,10,Met,Leadership Office,0-3 days
+TCK-10642,2025-11-09,,Policy,Report Request,Medium,Open,CRM Admin,172,7,Missed,Internal User,15+ days
+TCK-10643,2025-07-15,2025-07-16,Operations,User Permissions,High,Closed,Reporting Team,1,4,Met,Program Office,0-3 days
+TCK-10644,2025-04-26,,Policy,Training Request,Medium,Open,Systems Team,369,7,Missed,Program Office,15+ days
+TCK-10645,2025-05-04,2025-05-11,Program Management,Account Access,High,Closed,Tier 1 Support,7,4,Missed,Program Office,4-7 days
+TCK-10646,2026-03-08,2026-03-08,Finance,User Permissions,High,Closed,Systems Team,0,4,Met,Program Office,0-3 days
+TCK-10647,2025-08-03,2025-08-08,Policy,System Error,Medium,Closed,Tier 2 Support,5,7,Met,Leadership Office,4-7 days
+TCK-10648,2025-09-11,2025-09-19,Finance,Account Access,Low,Closed,Reporting Team,8,10,Met,Leadership Office,8-14 days
+TCK-10649,2025-11-07,2025-11-07,Program Management,Account Access,High,Closed,Systems Team,0,4,Met,Internal User,0-3 days
+TCK-10650,2025-10-30,2025-11-02,Human Resources,Training Request,High,Closed,Tier 1 Support,3,4,Met,Internal User,0-3 days
+TCK-10651,2026-01-27,2026-02-02,Program Management,User Permissions,Low,Closed,Tier 1 Support,6,10,Met,Program Office,4-7 days
+TCK-10652,2025-11-28,,IT Services,Training Request,High,Pending Customer,Tier 1 Support,153,4,Missed,Program Office,15+ days
+TCK-10653,2026-02-21,2026-02-21,Operations,Training Request,High,Closed,Tier 2 Support,0,4,Met,Internal User,0-3 days
+TCK-10654,2025-11-19,,Program Management,Account Access,High,Open,Reporting Team,162,4,Missed,Program Office,15+ days
+TCK-10655,2025-07-03,2025-07-09,Program Management,Account Access,High,Closed,CRM Admin,6,4,Missed,Program Office,4-7 days
+TCK-10656,2025-12-24,2025-12-25,Operations,Data Correction,Critical,Closed,Systems Team,1,2,Met,Leadership Office,0-3 days
+TCK-10657,2025-11-28,2025-11-30,Program Management,Account Access,Medium,Closed,CRM Admin,2,7,Met,Program Office,0-3 days
+TCK-10658,2025-11-12,2025-11-22,Operations,Report Request,Medium,Closed,CRM Admin,10,7,Missed,Internal User,8-14 days
+TCK-10659,2026-01-05,2026-01-09,Program Management,Data Correction,Low,Closed,CRM Admin,4,10,Met,Leadership Office,4-7 days
+TCK-10660,2025-09-06,2025-09-09,Finance,Data Correction,Medium,Closed,Tier 2 Support,3,7,Met,Program Office,0-3 days
+TCK-10661,2025-01-09,2025-01-20,IT Services,Report Request,Low,Closed,Systems Team,11,10,Missed,Leadership Office,8-14 days
+TCK-10662,2025-04-02,2025-04-05,Operations,Account Access,Medium,Closed,Tier 1 Support,3,7,Met,Leadership Office,0-3 days
+TCK-10663,2025-11-03,2025-11-08,Finance,Training Request,High,Closed,CRM Admin,5,4,Missed,Program Office,4-7 days
+TCK-10664,2025-03-10,,Policy,Report Request,High,Open,Systems Team,416,4,Missed,Leadership Office,15+ days
+TCK-10665,2025-02-12,2025-02-19,Operations,User Permissions,Medium,Closed,CRM Admin,7,7,Met,Internal User,4-7 days
+TCK-10666,2025-09-11,2025-09-16,Operations,Data Correction,Low,Closed,Tier 2 Support,5,10,Met,Program Office,4-7 days
+TCK-10667,2025-11-28,,IT Services,System Error,High,Open,Reporting Team,153,4,Missed,Program Office,15+ days
+TCK-10668,2025-10-12,2025-10-25,Program Management,Data Correction,Medium,Closed,Systems Team,13,7,Missed,Leadership Office,8-14 days
+TCK-10669,2025-07-24,,Policy,Report Request,Medium,Pending Customer,CRM Admin,280,7,Missed,Program Office,15+ days
+TCK-10670,2025-07-09,,Operations,Report Request,Medium,Escalated,Systems Team,295,7,Missed,Program Office,15+ days
+TCK-10671,2025-02-09,,Operations,Training Request,Critical,Open,Systems Team,445,2,Missed,Internal User,15+ days
+TCK-10672,2025-02-19,2025-02-19,IT Services,User Permissions,Critical,Closed,Reporting Team,0,2,Met,Leadership Office,0-3 days
+TCK-10673,2025-06-10,,Policy,User Permissions,Low,Pending Customer,Systems Team,324,10,Missed,Internal User,15+ days
+TCK-10674,2025-08-27,,Program Management,Training Request,Medium,Pending Customer,Reporting Team,246,7,Missed,Program Office,15+ days
+TCK-10675,2025-10-30,,IT Services,User Permissions,Medium,Escalated,Tier 1 Support,182,7,Missed,Program Office,15+ days
+TCK-10676,2025-09-02,,Policy,Report Request,High,Open,Tier 1 Support,240,4,Missed,Leadership Office,15+ days
+TCK-10677,2025-05-22,,Program Management,System Error,Medium,Escalated,Tier 2 Support,343,7,Missed,Program Office,15+ days
+TCK-10678,2025-04-21,2025-04-22,Policy,User Permissions,Medium,Closed,CRM Admin,1,7,Met,Program Office,0-3 days
+TCK-10679,2025-04-30,,IT Services,User Permissions,Medium,Pending Customer,Systems Team,365,7,Missed,Program Office,15+ days
+TCK-10680,2026-03-18,2026-03-25,Policy,Report Request,Low,Closed,Systems Team,7,10,Met,Internal User,4-7 days
+TCK-10681,2026-02-01,2026-02-01,Policy,Data Correction,Critical,Closed,Tier 2 Support,0,2,Met,Leadership Office,0-3 days
+TCK-10682,2026-02-01,,Operations,Account Access,High,Open,Reporting Team,88,4,Missed,Leadership Office,15+ days
+TCK-10683,2025-03-03,,Policy,System Error,Medium,Open,Reporting Team,423,7,Missed,Program Office,15+ days
+TCK-10684,2025-12-23,,Operations,Account Access,Medium,Pending Customer,CRM Admin,128,7,Missed,Program Office,15+ days
+TCK-10685,2025-04-01,,Program Management,Data Correction,High,Pending Customer,Tier 2 Support,394,4,Missed,Program Office,15+ days
+TCK-10686,2025-11-28,2025-12-04,Human Resources,Training Request,Medium,Closed,CRM Admin,6,7,Met,Internal User,4-7 days
+TCK-10687,2026-03-27,,Operations,Account Access,Medium,Escalated,Systems Team,34,7,Missed,Internal User,15+ days
+TCK-10688,2025-01-03,2025-01-10,IT Services,Training Request,Medium,Closed,CRM Admin,7,7,Met,Internal User,4-7 days
+TCK-10689,2025-03-30,2025-04-07,Finance,Account Access,Low,Closed,Tier 2 Support,8,10,Met,Leadership Office,8-14 days
+TCK-10690,2025-07-11,,Policy,Data Correction,Medium,Pending Customer,Systems Team,293,7,Missed,Internal User,15+ days
+TCK-10691,2026-02-21,,Human Resources,Report Request,High,Open,CRM Admin,68,4,Missed,Internal User,15+ days
+TCK-10692,2025-06-28,2025-07-04,Operations,Account Access,Medium,Closed,Reporting Team,6,7,Met,Internal User,4-7 days
+TCK-10693,2025-11-05,2025-11-11,Policy,Training Request,Low,Closed,Reporting Team,6,10,Met,Program Office,4-7 days
+TCK-10694,2025-03-01,,Operations,Report Request,Medium,Open,Tier 2 Support,425,7,Missed,Internal User,15+ days
+TCK-10695,2026-02-23,2026-03-02,Program Management,User Permissions,Medium,Closed,Systems Team,7,7,Met,Internal User,4-7 days
+TCK-10696,2026-03-11,2026-03-17,Finance,Training Request,Medium,Closed,Systems Team,6,7,Met,Leadership Office,4-7 days
+TCK-10697,2025-12-26,2025-12-30,Finance,Data Correction,Medium,Closed,Reporting Team,4,7,Met,Internal User,4-7 days
+TCK-10698,2025-05-30,2025-06-02,Program Management,System Error,High,Closed,Tier 1 Support,3,4,Met,Program Office,0-3 days
+TCK-10699,2025-01-13,2025-01-16,Program Management,Report Request,Medium,Closed,Tier 1 Support,3,7,Met,Leadership Office,0-3 days
+TCK-10700,2026-03-02,,Finance,Training Request,Low,Escalated,Systems Team,59,10,Missed,Leadership Office,15+ days
+TCK-10701,2025-03-30,2025-04-04,Finance,System Error,Medium,Closed,Tier 2 Support,5,7,Met,Program Office,4-7 days
+TCK-10702,2025-10-03,,Program Management,User Permissions,Low,Pending Customer,Systems Team,209,10,Missed,Leadership Office,15+ days
+TCK-10703,2026-03-11,2026-03-16,Human Resources,System Error,Low,Closed,Tier 2 Support,5,10,Met,Internal User,4-7 days
+TCK-10704,2025-12-31,2025-12-31,Program Management,Data Correction,Medium,Closed,Systems Team,0,7,Met,Leadership Office,0-3 days
+TCK-10705,2025-11-10,,Finance,Account Access,Low,Escalated,Tier 2 Support,171,10,Missed,Leadership Office,15+ days
+TCK-10706,2026-02-21,2026-03-01,Operations,System Error,High,Closed,Tier 2 Support,8,4,Missed,Program Office,8-14 days
+TCK-10707,2026-03-05,,Finance,System Error,Medium,Open,Systems Team,56,7,Missed,Leadership Office,15+ days
+TCK-10708,2026-03-19,2026-03-20,Policy,User Permissions,High,Closed,CRM Admin,1,4,Met,Program Office,0-3 days
+TCK-10709,2025-12-20,,Operations,System Error,Low,Pending Customer,CRM Admin,131,10,Missed,Leadership Office,15+ days
+TCK-10710,2025-01-06,2025-01-16,Policy,System Error,Medium,Closed,Tier 2 Support,10,7,Missed,Leadership Office,8-14 days
+TCK-10711,2025-12-20,2026-01-01,Program Management,Account Access,Low,Closed,Tier 2 Support,12,10,Missed,Leadership Office,8-14 days
+TCK-10712,2025-06-17,2025-06-29,Policy,User Permissions,Low,Closed,Reporting Team,12,10,Missed,Program Office,8-14 days
+TCK-10713,2025-10-02,,Program Management,Data Correction,Medium,Pending Customer,Tier 1 Support,210,7,Missed,Leadership Office,15+ days
+TCK-10714,2026-03-10,,Human Resources,System Error,Medium,Open,Reporting Team,51,7,Missed,Internal User,15+ days
+TCK-10715,2025-02-27,,Human Resources,Data Correction,Low,Pending Customer,Reporting Team,427,10,Missed,Leadership Office,15+ days
+TCK-10716,2025-07-09,,IT Services,Account Access,Medium,Open,Systems Team,295,7,Missed,Internal User,15+ days
+TCK-10717,2026-01-29,2026-01-30,Finance,Report Request,Low,Closed,Tier 2 Support,1,10,Met,Program Office,0-3 days
+TCK-10718,2025-08-25,2025-08-29,Program Management,System Error,Low,Closed,Tier 2 Support,4,10,Met,Program Office,4-7 days
+TCK-10719,2025-09-16,,Program Management,Account Access,Low,Open,Reporting Team,226,10,Missed,Internal User,15+ days
+TCK-10720,2026-03-08,2026-03-20,IT Services,Data Correction,Low,Closed,Tier 2 Support,12,10,Missed,Leadership Office,8-14 days
+TCK-10721,2025-06-12,2025-06-16,IT Services,User Permissions,Low,Closed,Tier 2 Support,4,10,Met,Leadership Office,4-7 days
+TCK-10722,2025-06-14,,Human Resources,User Permissions,Medium,Open,Tier 2 Support,320,7,Missed,Internal User,15+ days
+TCK-10723,2025-07-15,,Operations,User Permissions,Low,Open,Tier 1 Support,289,10,Missed,Leadership Office,15+ days
+TCK-10724,2025-10-07,2025-10-17,Program Management,Training Request,Low,Closed,Reporting Team,10,10,Met,Program Office,8-14 days
+TCK-10725,2025-12-18,2025-12-23,IT Services,Report Request,Medium,Closed,CRM Admin,5,7,Met,Leadership Office,4-7 days
+TCK-10726,2025-08-21,,Program Management,Training Request,Medium,Pending Customer,CRM Admin,252,7,Missed,Internal User,15+ days
+TCK-10727,2025-03-15,2025-03-23,Finance,Data Correction,Medium,Closed,CRM Admin,8,7,Missed,Leadership Office,8-14 days
+TCK-10728,2025-01-11,2025-01-16,Human Resources,System Error,Medium,Closed,Reporting Team,5,7,Met,Leadership Office,4-7 days
+TCK-10729,2026-03-27,2026-03-28,Finance,Data Correction,Medium,Closed,Reporting Team,1,7,Met,Program Office,0-3 days
+TCK-10730,2026-03-29,2026-04-07,Program Management,System Error,Medium,Closed,Reporting Team,9,7,Missed,Program Office,8-14 days
+TCK-10731,2025-06-22,2025-06-27,Operations,User Permissions,Medium,Closed,Tier 2 Support,5,7,Met,Leadership Office,4-7 days
+TCK-10732,2025-04-10,2025-04-11,IT Services,Report Request,High,Closed,Reporting Team,1,4,Met,Leadership Office,0-3 days
+TCK-10733,2026-03-18,2026-03-20,Operations,System Error,High,Closed,Tier 1 Support,2,4,Met,Leadership Office,0-3 days
+TCK-10734,2025-11-30,,IT Services,System Error,Medium,Pending Customer,Tier 1 Support,151,7,Missed,Internal User,15+ days
+TCK-10735,2025-04-22,,Program Management,Data Correction,Medium,Pending Customer,Reporting Team,373,7,Missed,Internal User,15+ days
+TCK-10736,2025-12-22,2025-12-24,Operations,Report Request,Low,Closed,Systems Team,2,10,Met,Internal User,0-3 days
+TCK-10737,2025-11-25,2025-12-01,Program Management,Data Correction,Medium,Closed,Tier 2 Support,6,7,Met,Program Office,4-7 days
+TCK-10738,2025-06-11,2025-06-19,IT Services,User Permissions,Medium,Closed,Tier 1 Support,8,7,Missed,Leadership Office,8-14 days
+TCK-10739,2025-02-19,,Human Resources,Report Request,High,Open,Tier 1 Support,435,4,Missed,Program Office,15+ days
+TCK-10740,2025-07-02,,Operations,Report Request,Low,Open,Tier 1 Support,302,10,Missed,Program Office,15+ days
+TCK-10741,2025-11-16,2025-11-21,Policy,Data Correction,High,Closed,CRM Admin,5,4,Missed,Program Office,4-7 days
+TCK-10742,2025-02-21,,Operations,Data Correction,High,Open,Reporting Team,433,4,Missed,Internal User,15+ days
+TCK-10743,2025-09-30,2025-09-30,Policy,Report Request,High,Closed,Tier 2 Support,0,4,Met,Internal User,0-3 days
+TCK-10744,2025-12-06,,Human Resources,Account Access,High,Pending Customer,Tier 2 Support,145,4,Missed,Program Office,15+ days
+TCK-10745,2025-08-31,,Finance,System Error,Medium,Open,Systems Team,242,7,Missed,Leadership Office,15+ days
+TCK-10746,2025-04-04,,Program Management,User Permissions,Medium,Open,Systems Team,391,7,Missed,Program Office,15+ days
+TCK-10747,2026-03-30,,IT Services,Report Request,Medium,Open,Reporting Team,31,7,Missed,Internal User,15+ days
+TCK-10748,2025-02-26,2025-03-01,Policy,Data Correction,Critical,Closed,CRM Admin,3,2,Missed,Program Office,0-3 days
+TCK-10749,2025-12-31,2025-12-31,Program Management,Account Access,High,Closed,Systems Team,0,4,Met,Leadership Office,0-3 days
+TCK-10750,2025-08-02,2025-08-10,Finance,Data Correction,Critical,Closed,Systems Team,8,2,Missed,Program Office,8-14 days
+TCK-10751,2025-09-24,,Policy,Data Correction,High,Open,CRM Admin,218,4,Missed,Program Office,15+ days
+TCK-10752,2025-08-18,2025-08-21,Finance,User Permissions,Critical,Closed,Reporting Team,3,2,Missed,Leadership Office,0-3 days
+TCK-10753,2025-02-11,,Human Resources,User Permissions,Medium,Open,Systems Team,443,7,Missed,Internal User,15+ days
+TCK-10754,2025-06-04,,Program Management,System Error,Medium,Pending Customer,Tier 1 Support,330,7,Missed,Leadership Office,15+ days
+TCK-10755,2025-12-11,2025-12-14,Program Management,System Error,Medium,Closed,CRM Admin,3,7,Met,Internal User,0-3 days
+TCK-10756,2025-06-27,2025-07-03,Program Management,Report Request,High,Closed,CRM Admin,6,4,Missed,Internal User,4-7 days
+TCK-10757,2025-08-19,,IT Services,Account Access,High,Open,Tier 1 Support,254,4,Missed,Internal User,15+ days
+TCK-10758,2026-02-17,2026-02-18,Operations,Report Request,High,Closed,Tier 1 Support,1,4,Met,Internal User,0-3 days
+TCK-10759,2025-10-20,2025-10-24,Human Resources,User Permissions,High,Closed,CRM Admin,4,4,Met,Leadership Office,4-7 days
+TCK-10760,2025-02-06,2025-02-13,Program Management,User Permissions,Low,Closed,CRM Admin,7,10,Met,Leadership Office,4-7 days
+TCK-10761,2025-02-24,,Human Resources,Data Correction,Medium,Open,Tier 1 Support,430,7,Missed,Leadership Office,15+ days
+TCK-10762,2025-02-16,2025-03-01,Operations,Data Correction,Low,Closed,Tier 1 Support,13,10,Missed,Leadership Office,8-14 days
+TCK-10763,2025-02-10,2025-02-17,Policy,System Error,Medium,Closed,Systems Team,7,7,Met,Leadership Office,4-7 days
+TCK-10764,2025-04-06,2025-04-17,IT Services,Account Access,Medium,Closed,Reporting Team,11,7,Missed,Internal User,8-14 days
+TCK-10765,2025-09-17,,IT Services,Training Request,Low,Open,Tier 2 Support,225,10,Missed,Leadership Office,15+ days
+TCK-10766,2025-03-05,,Operations,Report Request,High,Open,Tier 2 Support,421,4,Missed,Internal User,15+ days
+TCK-10767,2025-07-22,2025-07-25,Finance,Data Correction,Medium,Closed,Reporting Team,3,7,Met,Program Office,0-3 days
+TCK-10768,2026-02-27,2026-03-02,Human Resources,User Permissions,Medium,Closed,CRM Admin,3,7,Met,Program Office,0-3 days
+TCK-10769,2026-01-22,,Human Resources,Training Request,Low,Open,Reporting Team,98,10,Missed,Internal User,15+ days
+TCK-10770,2025-12-12,2025-12-16,Human Resources,User Permissions,High,Closed,Tier 1 Support,4,4,Met,Program Office,4-7 days
+TCK-10771,2025-10-29,,Human Resources,Training Request,High,Pending Customer,CRM Admin,183,4,Missed,Leadership Office,15+ days
+TCK-10772,2026-03-06,2026-03-08,Program Management,Report Request,Medium,Closed,Reporting Team,2,7,Met,Program Office,0-3 days
+TCK-10773,2026-01-26,2026-01-31,Operations,Account Access,Medium,Closed,CRM Admin,5,7,Met,Program Office,4-7 days
+TCK-10774,2025-08-27,2025-08-28,Program Management,System Error,High,Closed,Reporting Team,1,4,Met,Program Office,0-3 days
+TCK-10775,2025-03-20,2025-03-27,Operations,Report Request,Low,Closed,Reporting Team,7,10,Met,Leadership Office,4-7 days
+TCK-10776,2025-03-18,,Policy,Data Correction,Medium,Open,Tier 2 Support,408,7,Missed,Leadership Office,15+ days
+TCK-10777,2025-04-05,,Operations,Account Access,Low,Open,Reporting Team,390,10,Missed,Program Office,15+ days
+TCK-10778,2025-03-23,,IT Services,Report Request,Medium,Escalated,Tier 2 Support,403,7,Missed,Internal User,15+ days
+TCK-10779,2025-09-07,2025-09-07,Program Management,User Permissions,Medium,Closed,Tier 1 Support,0,7,Met,Program Office,0-3 days
+TCK-10780,2025-02-24,2025-03-06,Program Management,Training Request,Low,Closed,CRM Admin,10,10,Met,Internal User,8-14 days
+TCK-10781,2025-05-01,2025-05-07,Finance,User Permissions,Medium,Closed,Tier 2 Support,6,7,Met,Program Office,4-7 days
+TCK-10782,2025-11-19,2025-11-28,IT Services,Account Access,Medium,Closed,Systems Team,9,7,Missed,Internal User,8-14 days
+TCK-10783,2025-09-29,2025-10-07,Finance,Training Request,Medium,Closed,Reporting Team,8,7,Missed,Internal User,8-14 days
+TCK-10784,2025-01-10,2025-01-10,Operations,Report Request,Medium,Closed,Tier 2 Support,0,7,Met,Program Office,0-3 days
+TCK-10785,2025-11-21,,IT Services,Report Request,High,Escalated,Tier 2 Support,160,4,Missed,Internal User,15+ days
+TCK-10786,2025-06-14,2025-06-14,Operations,User Permissions,High,Closed,Systems Team,0,4,Met,Leadership Office,0-3 days
+TCK-10787,2025-05-02,2025-05-02,Finance,Training Request,High,Closed,Tier 1 Support,0,4,Met,Program Office,0-3 days
+TCK-10788,2026-01-20,2026-01-25,IT Services,System Error,Low,Closed,Reporting Team,5,10,Met,Leadership Office,4-7 days
+TCK-10789,2026-01-08,2026-01-14,Finance,User Permissions,Medium,Closed,Tier 2 Support,6,7,Met,Program Office,4-7 days
+TCK-10790,2026-03-11,2026-03-11,Operations,User Permissions,High,Closed,Tier 1 Support,0,4,Met,Program Office,0-3 days
+TCK-10791,2025-07-02,2025-07-07,Finance,System Error,High,Closed,CRM Admin,5,4,Missed,Leadership Office,4-7 days
+TCK-10792,2026-03-29,,Policy,Data Correction,Medium,Pending Customer,Systems Team,32,7,Missed,Leadership Office,15+ days
+TCK-10793,2025-03-03,,IT Services,Report Request,Medium,Open,Tier 2 Support,423,7,Missed,Program Office,15+ days
+TCK-10794,2025-08-05,,Finance,Report Request,High,Pending Customer,Tier 2 Support,268,4,Missed,Internal User,15+ days
+TCK-10795,2025-06-01,2025-06-09,Program Management,Data Correction,Low,Closed,Reporting Team,8,10,Met,Leadership Office,8-14 days
+TCK-10796,2025-07-15,2025-07-19,Finance,Account Access,Medium,Closed,CRM Admin,4,7,Met,Program Office,4-7 days
+TCK-10797,2025-05-22,2025-05-29,Finance,Account Access,Low,Closed,Tier 1 Support,7,10,Met,Internal User,4-7 days
+TCK-10798,2026-03-21,2026-03-30,Operations,Report Request,Medium,Closed,Reporting Team,9,7,Missed,Leadership Office,8-14 days
+TCK-10799,2025-01-14,2025-01-17,Human Resources,User Permissions,Medium,Closed,CRM Admin,3,7,Met,Program Office,0-3 days
+TCK-10800,2025-10-17,,IT Services,Account Access,High,Open,Tier 2 Support,195,4,Missed,Program Office,15+ days
+TCK-10801,2025-02-02,,Policy,Data Correction,High,Open,Tier 1 Support,452,4,Missed,Program Office,15+ days
+TCK-10802,2025-07-02,2025-07-09,Human Resources,System Error,Medium,Closed,Reporting Team,7,7,Met,Leadership Office,4-7 days
+TCK-10803,2025-02-01,2025-02-05,Human Resources,Data Correction,Medium,Closed,Reporting Team,4,7,Met,Internal User,4-7 days
+TCK-10804,2025-03-01,,Operations,Data Correction,High,Pending Customer,Tier 1 Support,425,4,Missed,Leadership Office,15+ days
+TCK-10805,2025-12-16,,Human Resources,Account Access,Medium,Open,Tier 2 Support,135,7,Missed,Internal User,15+ days
+TCK-10806,2025-03-20,,Finance,Report Request,Critical,Open,Reporting Team,406,2,Missed,Leadership Office,15+ days
+TCK-10807,2025-12-10,2025-12-15,Policy,User Permissions,Medium,Closed,Reporting Team,5,7,Met,Leadership Office,4-7 days
+TCK-10808,2025-02-04,2025-02-12,Operations,Data Correction,Low,Closed,Systems Team,8,10,Met,Program Office,8-14 days
+TCK-10809,2025-01-04,,Operations,System Error,Medium,Open,Tier 2 Support,481,7,Missed,Internal User,15+ days
+TCK-10810,2025-10-02,2025-10-07,IT Services,Report Request,Low,Closed,CRM Admin,5,10,Met,Leadership Office,4-7 days
+TCK-10811,2025-07-11,,Finance,Data Correction,Medium,Open,CRM Admin,293,7,Missed,Program Office,15+ days
+TCK-10812,2025-07-21,2025-08-01,Human Resources,System Error,Low,Closed,Systems Team,11,10,Missed,Leadership Office,8-14 days
+TCK-10813,2025-12-10,2025-12-16,Human Resources,User Permissions,Medium,Closed,Tier 2 Support,6,7,Met,Internal User,4-7 days
+TCK-10814,2026-01-24,2026-01-30,Policy,User Permissions,Medium,Closed,Tier 2 Support,6,7,Met,Leadership Office,4-7 days
+TCK-10815,2026-02-23,2026-02-27,Finance,Data Correction,Medium,Closed,Systems Team,4,7,Met,Internal User,4-7 days
+TCK-10816,2025-06-08,,Finance,Data Correction,Low,Pending Customer,Reporting Team,326,10,Missed,Leadership Office,15+ days
+TCK-10817,2025-07-18,2025-07-18,Program Management,System Error,High,Closed,Systems Team,0,4,Met,Leadership Office,0-3 days
+TCK-10818,2025-05-27,2025-06-03,Operations,Account Access,High,Closed,Systems Team,7,4,Missed,Internal User,4-7 days
+TCK-10819,2026-03-29,,Finance,Account Access,Low,Open,CRM Admin,32,10,Missed,Program Office,15+ days
+TCK-10820,2025-07-15,,Human Resources,Account Access,High,Escalated,CRM Admin,289,4,Missed,Internal User,15+ days
+TCK-10821,2025-11-27,2025-12-05,Program Management,User Permissions,Low,Closed,Tier 1 Support,8,10,Met,Program Office,8-14 days
+TCK-10822,2026-01-30,,Operations,Report Request,Low,Open,Reporting Team,90,10,Missed,Internal User,15+ days
+TCK-10823,2025-03-03,2025-03-06,Program Management,Data Correction,High,Closed,Tier 1 Support,3,4,Met,Internal User,0-3 days
+TCK-10824,2025-02-14,2025-02-17,IT Services,User Permissions,High,Closed,Systems Team,3,4,Met,Program Office,0-3 days
+TCK-10825,2025-05-19,2025-05-31,Operations,Account Access,Low,Closed,Reporting Team,12,10,Missed,Leadership Office,8-14 days
+TCK-10826,2025-07-13,2025-07-22,Program Management,System Error,Low,Closed,Tier 2 Support,9,10,Met,Internal User,8-14 days
+TCK-10827,2025-10-23,2025-11-01,Policy,Report Request,High,Closed,Reporting Team,9,4,Missed,Internal User,8-14 days
+TCK-10828,2026-02-15,2026-02-19,Operations,Data Correction,Medium,Closed,Reporting Team,4,7,Met,Internal User,4-7 days
+TCK-10829,2025-11-29,2025-12-09,Policy,System Error,Low,Closed,Tier 2 Support,10,10,Met,Leadership Office,8-14 days
+TCK-10830,2026-03-11,2026-03-11,Human Resources,Training Request,High,Closed,CRM Admin,0,4,Met,Program Office,0-3 days
+TCK-10831,2026-02-25,,IT Services,Training Request,Medium,Open,Tier 2 Support,64,7,Missed,Program Office,15+ days
+TCK-10832,2026-01-12,2026-01-15,IT Services,System Error,Medium,Closed,CRM Admin,3,7,Met,Program Office,0-3 days
+TCK-10833,2025-06-27,,Policy,Training Request,High,Open,Reporting Team,307,4,Missed,Program Office,15+ days
+TCK-10834,2025-08-10,2025-08-12,Operations,Report Request,Low,Closed,CRM Admin,2,10,Met,Leadership Office,0-3 days
+TCK-10835,2025-08-27,2025-08-30,Finance,Training Request,Medium,Closed,Tier 2 Support,3,7,Met,Leadership Office,0-3 days
+TCK-10836,2025-06-24,,Operations,Training Request,Medium,Pending Customer,Tier 2 Support,310,7,Missed,Internal User,15+ days
+TCK-10837,2026-02-27,,IT Services,Training Request,Medium,Open,Tier 1 Support,62,7,Missed,Leadership Office,15+ days
+TCK-10838,2025-02-23,2025-03-01,IT Services,User Permissions,Medium,Closed,Tier 2 Support,6,7,Met,Leadership Office,4-7 days
+TCK-10839,2025-04-27,2025-04-30,Finance,Training Request,Medium,Closed,Reporting Team,3,7,Met,Leadership Office,0-3 days
+TCK-10840,2025-12-03,2025-12-07,Finance,User Permissions,High,Closed,Reporting Team,4,4,Met,Leadership Office,4-7 days
+TCK-10841,2026-01-20,2026-01-20,Policy,Data Correction,Critical,Closed,Tier 1 Support,0,2,Met,Leadership Office,0-3 days
+TCK-10842,2026-02-14,,Human Resources,User Permissions,Low,Open,CRM Admin,75,10,Missed,Internal User,15+ days
+TCK-10843,2026-01-22,,Operations,Account Access,Medium,Pending Customer,Tier 1 Support,98,7,Missed,Internal User,15+ days
+TCK-10844,2025-06-01,,Policy,Account Access,Low,Open,Tier 1 Support,333,10,Missed,Program Office,15+ days
+TCK-10845,2025-08-20,2025-08-20,Policy,Training Request,Critical,Closed,CRM Admin,0,2,Met,Program Office,0-3 days
+TCK-10846,2025-07-18,2025-07-26,IT Services,Training Request,Medium,Closed,Reporting Team,8,7,Missed,Leadership Office,8-14 days
+TCK-10847,2025-11-11,2025-11-20,Finance,Account Access,Medium,Closed,CRM Admin,9,7,Missed,Leadership Office,8-14 days
+TCK-10848,2025-08-31,2025-09-03,IT Services,Account Access,High,Closed,Reporting Team,3,4,Met,Leadership Office,0-3 days
+TCK-10849,2025-10-28,2025-11-06,Human Resources,System Error,Medium,Closed,Tier 1 Support,9,7,Missed,Program Office,8-14 days
+TCK-10850,2026-01-24,2026-01-27,IT Services,Account Access,High,Closed,Tier 1 Support,3,4,Met,Internal User,0-3 days
+TCK-10851,2026-01-06,2026-01-12,Finance,Data Correction,High,Closed,Systems Team,6,4,Missed,Program Office,4-7 days
+TCK-10852,2025-01-18,2025-01-25,Policy,System Error,Medium,Closed,Tier 2 Support,7,7,Met,Leadership Office,4-7 days
+TCK-10853,2025-07-30,2025-08-03,Human Resources,Training Request,Low,Closed,Reporting Team,4,10,Met,Internal User,4-7 days
+TCK-10854,2025-09-15,2025-09-20,IT Services,System Error,Low,Closed,Systems Team,5,10,Met,Leadership Office,4-7 days
+TCK-10855,2026-01-06,2026-01-12,Program Management,Report Request,Low,Closed,Tier 2 Support,6,10,Met,Internal User,4-7 days
+TCK-10856,2025-05-29,2025-05-31,Policy,Data Correction,Medium,Closed,Tier 1 Support,2,7,Met,Internal User,0-3 days
+TCK-10857,2025-09-04,,Operations,System Error,Medium,Open,Tier 1 Support,238,7,Missed,Program Office,15+ days
+TCK-10858,2025-04-04,,IT Services,System Error,Low,Pending Customer,Tier 2 Support,391,10,Missed,Leadership Office,15+ days
+TCK-10859,2025-08-16,,Operations,User Permissions,High,Escalated,Systems Team,257,4,Missed,Leadership Office,15+ days
+TCK-10860,2025-01-13,2025-01-20,Policy,System Error,Medium,Closed,Tier 1 Support,7,7,Met,Leadership Office,4-7 days
+TCK-10861,2025-09-26,2025-09-26,Human Resources,Report Request,High,Closed,Reporting Team,0,4,Met,Leadership Office,0-3 days
+TCK-10862,2025-12-26,,Finance,User Permissions,Medium,Open,CRM Admin,125,7,Missed,Program Office,15+ days
+TCK-10863,2025-07-25,2025-08-01,Human Resources,Data Correction,Medium,Closed,Tier 1 Support,7,7,Met,Leadership Office,4-7 days
+TCK-10864,2025-04-06,2025-04-11,IT Services,Report Request,Medium,Closed,Systems Team,5,7,Met,Program Office,4-7 days
+TCK-10865,2025-09-02,2025-09-11,IT Services,Account Access,Low,Closed,Tier 2 Support,9,10,Met,Internal User,8-14 days
+TCK-10866,2025-03-17,2025-03-25,Program Management,Account Access,Medium,Closed,CRM Admin,8,7,Missed,Internal User,8-14 days
+TCK-10867,2025-09-19,,Human Resources,Report Request,High,Open,Tier 2 Support,223,4,Missed,Program Office,15+ days
+TCK-10868,2025-05-05,2025-05-05,Operations,User Permissions,High,Closed,Reporting Team,0,4,Met,Program Office,0-3 days
+TCK-10869,2025-09-03,,Human Resources,Data Correction,Low,Open,Tier 2 Support,239,10,Missed,Leadership Office,15+ days
+TCK-10870,2025-03-16,,IT Services,Account Access,High,Open,Systems Team,410,4,Missed,Internal User,15+ days
+TCK-10871,2025-05-07,2025-05-08,Finance,System Error,Medium,Closed,Tier 1 Support,1,7,Met,Program Office,0-3 days
+TCK-10872,2025-01-22,2025-01-22,Human Resources,Data Correction,High,Closed,CRM Admin,0,4,Met,Program Office,0-3 days
+TCK-10873,2025-08-19,,IT Services,Training Request,Medium,Pending Customer,Reporting Team,254,7,Missed,Leadership Office,15+ days
+TCK-10874,2026-03-23,,IT Services,Training Request,High,Open,CRM Admin,38,4,Missed,Program Office,15+ days
+TCK-10875,2026-01-31,2026-02-04,Policy,Data Correction,Low,Closed,Tier 1 Support,4,10,Met,Program Office,4-7 days
+TCK-10876,2025-05-23,2025-05-30,Finance,Report Request,Medium,Closed,Systems Team,7,7,Met,Leadership Office,4-7 days
+TCK-10877,2025-06-17,,Policy,Training Request,High,Pending Customer,Systems Team,317,4,Missed,Leadership Office,15+ days
+TCK-10878,2025-11-06,2025-11-12,Operations,System Error,Medium,Closed,CRM Admin,6,7,Met,Internal User,4-7 days
+TCK-10879,2025-12-21,2025-12-22,Finance,User Permissions,Medium,Closed,CRM Admin,1,7,Met,Program Office,0-3 days
+TCK-10880,2026-03-24,2026-03-29,Finance,Report Request,Medium,Closed,Tier 2 Support,5,7,Met,Leadership Office,4-7 days
+TCK-10881,2025-04-08,2025-04-15,Program Management,Report Request,Medium,Closed,CRM Admin,7,7,Met,Leadership Office,4-7 days
+TCK-10882,2025-08-06,,IT Services,Data Correction,Medium,Open,CRM Admin,267,7,Missed,Internal User,15+ days
+TCK-10883,2025-12-18,2025-12-22,Program Management,Training Request,Medium,Closed,Systems Team,4,7,Met,Internal User,4-7 days
+TCK-10884,2025-03-02,,Policy,Data Correction,High,Pending Customer,Tier 2 Support,424,4,Missed,Leadership Office,15+ days
+TCK-10885,2026-02-09,2026-02-19,Finance,Data Correction,Medium,Closed,Reporting Team,10,7,Missed,Program Office,8-14 days
+TCK-10886,2026-01-03,2026-01-05,IT Services,Report Request,Medium,Closed,Tier 2 Support,2,7,Met,Program Office,0-3 days
+TCK-10887,2025-11-07,,Program Management,Account Access,Low,Open,Tier 1 Support,174,10,Missed,Internal User,15+ days
+TCK-10888,2026-02-20,,Program Management,Training Request,High,Escalated,Systems Team,69,4,Missed,Program Office,15+ days
+TCK-10889,2025-09-19,,Program Management,Training Request,Medium,Open,Tier 1 Support,223,7,Missed,Program Office,15+ days
+TCK-10890,2025-08-12,,Operations,Account Access,Medium,Open,CRM Admin,261,7,Missed,Internal User,15+ days
+TCK-10891,2025-01-22,2025-01-23,Human Resources,User Permissions,High,Closed,Reporting Team,1,4,Met,Internal User,0-3 days
+TCK-10892,2025-01-21,2025-01-24,Human Resources,Account Access,High,Closed,CRM Admin,3,4,Met,Leadership Office,0-3 days
+TCK-10893,2026-01-04,2026-01-10,IT Services,Report Request,Medium,Closed,Systems Team,6,7,Met,Program Office,4-7 days
+TCK-10894,2026-03-07,,IT Services,Report Request,Low,Open,Tier 2 Support,54,10,Missed,Internal User,15+ days
+TCK-10895,2026-02-17,2026-02-18,Operations,Account Access,Critical,Closed,Systems Team,1,2,Met,Leadership Office,0-3 days
+TCK-10896,2025-11-11,2025-11-12,Program Management,Account Access,Critical,Closed,Tier 1 Support,1,2,Met,Internal User,0-3 days
+TCK-10897,2026-03-09,2026-03-10,Operations,Report Request,Medium,Closed,Tier 1 Support,1,7,Met,Internal User,0-3 days
+TCK-10898,2025-05-03,2025-05-04,IT Services,System Error,Medium,Closed,Reporting Team,1,7,Met,Internal User,0-3 days
+TCK-10899,2025-04-29,,Policy,System Error,Low,Open,Systems Team,366,10,Missed,Program Office,15+ days
+TCK-10900,2025-01-12,2025-01-14,Policy,System Error,Medium,Closed,Reporting Team,2,7,Met,Leadership Office,0-3 days
+TCK-10901,2025-06-25,2025-06-26,IT Services,Data Correction,Medium,Closed,CRM Admin,1,7,Met,Internal User,0-3 days
+TCK-10902,2025-12-27,,Policy,System Error,Low,Pending Customer,Tier 2 Support,124,10,Missed,Program Office,15+ days
+TCK-10903,2025-04-17,2025-04-24,Operations,System Error,Low,Closed,Systems Team,7,10,Met,Program Office,4-7 days
+TCK-10904,2025-01-13,2025-01-23,Policy,User Permissions,Medium,Closed,Tier 1 Support,10,7,Missed,Program Office,8-14 days
+TCK-10905,2026-01-01,2026-01-03,Program Management,System Error,High,Closed,Reporting Team,2,4,Met,Program Office,0-3 days
+TCK-10906,2025-02-15,2025-02-23,Finance,Report Request,Medium,Closed,CRM Admin,8,7,Missed,Program Office,8-14 days
+TCK-10907,2025-03-22,,Operations,Account Access,Low,Pending Customer,Reporting Team,404,10,Missed,Program Office,15+ days
+TCK-10908,2025-01-25,,Operations,Account Access,High,Open,Systems Team,460,4,Missed,Leadership Office,15+ days
+TCK-10909,2025-10-11,,Finance,Data Correction,Low,Open,Reporting Team,201,10,Missed,Program Office,15+ days
+TCK-10910,2026-03-22,2026-03-24,Finance,Data Correction,High,Closed,Systems Team,2,4,Met,Internal User,0-3 days
+TCK-10911,2025-04-29,2025-04-29,Policy,Data Correction,High,Closed,CRM Admin,0,4,Met,Leadership Office,0-3 days
+TCK-10912,2025-08-29,,Operations,Account Access,High,Pending Customer,Tier 2 Support,244,4,Missed,Leadership Office,15+ days
+TCK-10913,2025-12-31,2026-01-07,IT Services,Account Access,Low,Closed,Reporting Team,7,10,Met,Leadership Office,4-7 days
+TCK-10914,2026-01-25,,IT Services,Data Correction,Medium,Open,Tier 2 Support,95,7,Missed,Internal User,15+ days
+TCK-10915,2025-06-16,2025-06-19,IT Services,Account Access,High,Closed,Reporting Team,3,4,Met,Internal User,0-3 days
+TCK-10916,2025-03-27,,Operations,Data Correction,Low,Open,Systems Team,399,10,Missed,Program Office,15+ days
+TCK-10917,2025-10-21,2025-10-21,Policy,Data Correction,High,Closed,Tier 2 Support,0,4,Met,Leadership Office,0-3 days
+TCK-10918,2025-11-07,,Program Management,Data Correction,High,Open,Tier 1 Support,174,4,Missed,Program Office,15+ days
+TCK-10919,2025-08-24,2025-08-30,Policy,System Error,Medium,Closed,Systems Team,6,7,Met,Program Office,4-7 days
+TCK-10920,2025-11-28,2025-11-28,IT Services,Training Request,High,Closed,Reporting Team,0,4,Met,Program Office,0-3 days
+TCK-10921,2025-09-26,,Human Resources,Data Correction,High,Open,Tier 1 Support,216,4,Missed,Leadership Office,15+ days
+TCK-10922,2025-07-08,,Program Management,System Error,High,Open,Reporting Team,296,4,Missed,Program Office,15+ days
+TCK-10923,2025-07-11,2025-07-19,Policy,Data Correction,Low,Closed,Reporting Team,8,10,Met,Leadership Office,8-14 days
+TCK-10924,2026-02-09,,Finance,System Error,High,Open,Tier 2 Support,80,4,Missed,Internal User,15+ days
+TCK-10925,2025-01-09,,Policy,System Error,High,Pending Customer,CRM Admin,476,4,Missed,Internal User,15+ days
+TCK-10926,2025-08-26,,Operations,Data Correction,Low,Escalated,Tier 1 Support,247,10,Missed,Program Office,15+ days
+TCK-10927,2025-07-11,2025-07-15,Program Management,Account Access,Low,Closed,Systems Team,4,10,Met,Program Office,4-7 days
+TCK-10928,2025-07-01,2025-07-07,Human Resources,System Error,High,Closed,Tier 1 Support,6,4,Missed,Program Office,4-7 days
+TCK-10929,2025-06-19,,Operations,User Permissions,Low,Escalated,Systems Team,315,10,Missed,Program Office,15+ days
+TCK-10930,2025-01-31,2025-02-16,IT Services,Report Request,Low,Closed,Tier 1 Support,16,10,Missed,Program Office,15+ days
+TCK-10931,2025-07-26,2025-07-30,Finance,Account Access,Medium,Closed,Systems Team,4,7,Met,Leadership Office,4-7 days
+TCK-10932,2025-03-05,2025-03-11,Program Management,Training Request,High,Closed,Tier 1 Support,6,4,Missed,Leadership Office,4-7 days
+TCK-10933,2026-02-04,2026-02-04,Operations,System Error,Medium,Closed,CRM Admin,0,7,Met,Leadership Office,0-3 days
+TCK-10934,2026-01-01,2026-01-06,Finance,Data Correction,Medium,Closed,Tier 2 Support,5,7,Met,Internal User,4-7 days
+TCK-10935,2025-02-17,2025-02-23,Human Resources,Data Correction,Medium,Closed,Tier 2 Support,6,7,Met,Program Office,4-7 days
+TCK-10936,2025-10-19,2025-10-27,Operations,System Error,Low,Closed,Systems Team,8,10,Met,Leadership Office,8-14 days
+TCK-10937,2025-05-11,2025-05-14,Human Resources,Report Request,Critical,Closed,Reporting Team,3,2,Missed,Internal User,0-3 days
+TCK-10938,2025-04-23,,Policy,System Error,Medium,Escalated,Tier 1 Support,372,7,Missed,Internal User,15+ days
+TCK-10939,2025-12-09,,Program Management,Report Request,Medium,Pending Customer,Systems Team,142,7,Missed,Leadership Office,15+ days
+TCK-10940,2025-10-08,2025-10-08,Finance,User Permissions,High,Closed,CRM Admin,0,4,Met,Leadership Office,0-3 days
+TCK-10941,2025-03-21,,IT Services,Data Correction,Medium,Pending Customer,Tier 2 Support,405,7,Missed,Internal User,15+ days
+TCK-10942,2025-08-11,2025-08-14,IT Services,Report Request,Medium,Closed,Reporting Team,3,7,Met,Leadership Office,0-3 days
+TCK-10943,2025-07-27,2025-08-04,Operations,Training Request,Low,Closed,Tier 2 Support,8,10,Met,Internal User,8-14 days
+TCK-10944,2026-03-27,2026-03-27,Operations,Account Access,Critical,Closed,Systems Team,0,2,Met,Leadership Office,0-3 days
+TCK-10945,2025-07-05,2025-07-08,Operations,Data Correction,Medium,Closed,Systems Team,3,7,Met,Program Office,0-3 days
+TCK-10946,2025-12-06,2025-12-12,Human Resources,System Error,Low,Closed,Reporting Team,6,10,Met,Program Office,4-7 days
+TCK-10947,2025-03-20,,Finance,Data Correction,Medium,Escalated,Reporting Team,406,7,Missed,Program Office,15+ days
+TCK-10948,2025-07-22,2025-07-30,Operations,Report Request,Medium,Closed,Tier 2 Support,8,7,Missed,Leadership Office,8-14 days
+TCK-10949,2026-02-16,,Human Resources,Account Access,Low,Open,Tier 1 Support,73,10,Missed,Internal User,15+ days
+TCK-10950,2026-02-12,,Program Management,System Error,High,Open,Tier 1 Support,77,4,Missed,Leadership Office,15+ days
+TCK-10951,2025-11-28,,Finance,Report Request,Low,Open,CRM Admin,153,10,Missed,Leadership Office,15+ days
+TCK-10952,2025-10-20,,Finance,Report Request,Low,Open,Tier 1 Support,192,10,Missed,Internal User,15+ days
+TCK-10953,2025-10-26,,Operations,System Error,Low,Open,Reporting Team,186,10,Missed,Internal User,15+ days
+TCK-10954,2025-05-17,2025-05-23,IT Services,Account Access,Medium,Closed,Systems Team,6,7,Met,Program Office,4-7 days
+TCK-10955,2025-03-12,2025-03-19,Policy,Training Request,Low,Closed,Tier 1 Support,7,10,Met,Program Office,4-7 days
+TCK-10956,2025-11-07,2025-11-19,Program Management,Report Request,Low,Closed,Tier 2 Support,12,10,Missed,Leadership Office,8-14 days
+TCK-10957,2025-08-31,2025-09-01,Policy,System Error,High,Closed,Reporting Team,1,4,Met,Internal User,0-3 days
+TCK-10958,2026-02-11,2026-02-12,Finance,Data Correction,Critical,Closed,Tier 2 Support,1,2,Met,Program Office,0-3 days
+TCK-10959,2025-03-18,,Operations,Account Access,High,Open,Reporting Team,408,4,Missed,Internal User,15+ days
+TCK-10960,2025-03-18,2025-03-24,Finance,User Permissions,High,Closed,CRM Admin,6,4,Missed,Leadership Office,4-7 days
+TCK-10961,2025-05-03,2025-05-10,Policy,Training Request,High,Closed,Systems Team,7,4,Missed,Program Office,4-7 days
+TCK-10962,2025-12-30,2026-01-10,Human Resources,Report Request,Low,Closed,Tier 2 Support,11,10,Missed,Program Office,8-14 days
+TCK-10963,2025-04-09,,Program Management,Data Correction,Medium,Open,Reporting Team,386,7,Missed,Program Office,15+ days
+TCK-10964,2025-12-04,2025-12-04,Finance,System Error,Critical,Closed,Tier 2 Support,0,2,Met,Program Office,0-3 days
+TCK-10965,2026-01-17,2026-01-17,IT Services,User Permissions,Critical,Closed,Tier 2 Support,0,2,Met,Internal User,0-3 days
+TCK-10966,2026-03-22,,Program Management,Account Access,High,Escalated,Reporting Team,39,4,Missed,Program Office,15+ days
+TCK-10967,2025-03-17,,Finance,Data Correction,Low,Open,Tier 2 Support,409,10,Missed,Program Office,15+ days
+TCK-10968,2025-01-20,2025-01-23,Policy,Report Request,High,Closed,Systems Team,3,4,Met,Program Office,0-3 days
+TCK-10969,2025-06-22,2025-07-01,Operations,Data Correction,Low,Closed,CRM Admin,9,10,Met,Leadership Office,8-14 days
+TCK-10970,2025-12-04,2025-12-04,Finance,Training Request,High,Closed,Reporting Team,0,4,Met,Leadership Office,0-3 days
+TCK-10971,2025-10-30,2025-10-30,Human Resources,System Error,Medium,Closed,Systems Team,0,7,Met,Leadership Office,0-3 days
+TCK-10972,2025-05-29,2025-06-06,Human Resources,Report Request,Medium,Closed,CRM Admin,8,7,Missed,Internal User,8-14 days
+TCK-10973,2025-07-28,,Program Management,System Error,Medium,Escalated,Systems Team,276,7,Missed,Leadership Office,15+ days
+TCK-10974,2025-04-29,,Operations,System Error,High,Pending Customer,CRM Admin,366,4,Missed,Program Office,15+ days
+TCK-10975,2025-11-30,2025-12-02,Program Management,Report Request,High,Closed,Tier 1 Support,2,4,Met,Leadership Office,0-3 days
+TCK-10976,2025-04-28,,Program Management,Data Correction,Low,Escalated,Reporting Team,367,10,Missed,Internal User,15+ days
+TCK-10977,2025-08-09,,IT Services,System Error,Low,Open,Tier 1 Support,264,10,Missed,Leadership Office,15+ days
+TCK-10978,2026-03-21,2026-03-21,Policy,Report Request,Critical,Closed,Systems Team,0,2,Met,Leadership Office,0-3 days
+TCK-10979,2025-01-27,2025-01-29,Human Resources,Data Correction,Medium,Closed,Reporting Team,2,7,Met,Leadership Office,0-3 days
+TCK-10980,2026-01-07,2026-01-12,Operations,Account Access,Medium,Closed,Reporting Team,5,7,Met,Internal User,4-7 days
+TCK-10981,2025-06-18,,Policy,User Permissions,Medium,Escalated,CRM Admin,316,7,Missed,Internal User,15+ days
+TCK-10982,2025-12-03,2025-12-09,Operations,System Error,Medium,Closed,Tier 2 Support,6,7,Met,Leadership Office,4-7 days
+TCK-10983,2025-03-25,2025-03-28,Policy,Training Request,Medium,Closed,Tier 1 Support,3,7,Met,Internal User,0-3 days
+TCK-10984,2025-03-21,,Human Resources,Data Correction,High,Pending Customer,Tier 1 Support,405,4,Missed,Program Office,15+ days
+TCK-10985,2025-04-02,2025-04-13,IT Services,System Error,Low,Closed,Systems Team,11,10,Missed,Internal User,8-14 days
+TCK-10986,2025-09-04,2025-09-13,Human Resources,Report Request,Medium,Closed,Tier 1 Support,9,7,Missed,Program Office,8-14 days
+TCK-10987,2025-04-01,,IT Services,Account Access,Medium,Open,Tier 1 Support,394,7,Missed,Internal User,15+ days
+TCK-10988,2025-03-16,2025-03-20,Policy,Training Request,Medium,Closed,Tier 2 Support,4,7,Met,Program Office,4-7 days
+TCK-10989,2026-01-23,,Program Management,Account Access,Medium,Open,Systems Team,97,7,Missed,Program Office,15+ days
+TCK-10990,2025-04-19,2025-04-22,Program Management,Training Request,Low,Closed,Tier 1 Support,3,10,Met,Leadership Office,0-3 days
+TCK-10991,2025-04-27,,Program Management,System Error,High,Escalated,CRM Admin,368,4,Missed,Leadership Office,15+ days
+TCK-10992,2025-07-08,,Program Management,Data Correction,Low,Open,Tier 1 Support,296,10,Missed,Leadership Office,15+ days
+TCK-10993,2025-07-01,2025-07-07,Policy,Account Access,Low,Closed,CRM Admin,6,10,Met,Program Office,4-7 days
+TCK-10994,2025-02-13,,IT Services,Training Request,Low,Open,Tier 1 Support,441,10,Missed,Leadership Office,15+ days
+TCK-10995,2025-03-11,2025-03-12,Human Resources,Training Request,Medium,Closed,Tier 1 Support,1,7,Met,Leadership Office,0-3 days
+TCK-10996,2025-06-12,2025-06-18,Program Management,Report Request,Low,Closed,Tier 1 Support,6,10,Met,Internal User,4-7 days
+TCK-10997,2025-01-29,2025-02-06,Program Management,Data Correction,High,Closed,CRM Admin,8,4,Missed,Program Office,8-14 days
+TCK-10998,2026-03-12,,IT Services,Report Request,Medium,Open,Tier 1 Support,49,7,Missed,Program Office,15+ days
+TCK-10999,2025-06-07,2025-06-13,Operations,User Permissions,High,Closed,Tier 1 Support,6,4,Missed,Internal User,4-7 days
+TCK-11000,2025-09-26,,Finance,Account Access,Medium,Pending Customer,Tier 1 Support,216,7,Missed,Program Office,15+ days
+TCK-11001,2026-01-29,,Human Resources,Data Correction,Medium,Pending Customer,Tier 1 Support,91,7,Missed,Program Office,15+ days
+TCK-11002,2025-06-09,2025-06-14,IT Services,Account Access,High,Closed,Systems Team,5,4,Missed,Leadership Office,4-7 days
+TCK-11003,2026-03-22,2026-03-25,Program Management,Account Access,Medium,Closed,CRM Admin,3,7,Met,Program Office,0-3 days
+TCK-11004,2025-02-17,2025-02-22,Human Resources,Data Correction,Medium,Closed,Tier 1 Support,5,7,Met,Internal User,4-7 days
+TCK-11005,2025-10-29,,Program Management,Training Request,Low,Pending Customer,Tier 1 Support,183,10,Missed,Program Office,15+ days
+TCK-11006,2025-03-23,2025-03-30,Operations,Account Access,Medium,Closed,CRM Admin,7,7,Met,Internal User,4-7 days
+TCK-11007,2025-04-05,2025-04-13,Human Resources,System Error,Medium,Closed,Tier 2 Support,8,7,Missed,Leadership Office,8-14 days
+TCK-11008,2025-12-29,2026-01-02,Policy,Training Request,Low,Closed,Tier 2 Support,4,10,Met,Program Office,4-7 days
+TCK-11009,2025-01-03,,Operations,System Error,Medium,Pending Customer,Systems Team,482,7,Missed,Internal User,15+ days
+TCK-11010,2025-01-31,2025-02-03,Program Management,Data Correction,Medium,Closed,Systems Team,3,7,Met,Program Office,0-3 days
+TCK-11011,2025-06-26,,Finance,Data Correction,Low,Escalated,Systems Team,308,10,Missed,Internal User,15+ days
+TCK-11012,2025-12-28,2026-01-05,Program Management,Account Access,Medium,Closed,Tier 1 Support,8,7,Missed,Program Office,8-14 days
+TCK-11013,2025-10-30,2025-11-08,Policy,Training Request,Low,Closed,Tier 1 Support,9,10,Met,Leadership Office,8-14 days
+TCK-11014,2025-05-08,,Operations,User Permissions,Low,Open,Tier 1 Support,357,10,Missed,Leadership Office,15+ days
+TCK-11015,2025-02-06,,IT Services,Account Access,Medium,Open,Tier 2 Support,448,7,Missed,Leadership Office,15+ days
+TCK-11016,2025-02-26,,Human Resources,Report Request,High,Open,Tier 2 Support,428,4,Missed,Program Office,15+ days
+TCK-11017,2025-03-15,2025-03-25,Program Management,System Error,Low,Closed,Systems Team,10,10,Met,Leadership Office,8-14 days
+TCK-11018,2025-05-21,2025-05-29,Policy,Data Correction,Medium,Closed,Tier 2 Support,8,7,Missed,Program Office,8-14 days
+TCK-11019,2025-06-30,2025-07-10,Program Management,Report Request,Low,Closed,Reporting Team,10,10,Met,Internal User,8-14 days
+TCK-11020,2025-05-10,2025-05-17,Human Resources,Account Access,Low,Closed,Reporting Team,7,10,Met,Leadership Office,4-7 days
+TCK-11021,2025-05-29,,Operations,System Error,Low,Open,Tier 1 Support,336,10,Missed,Program Office,15+ days
+TCK-11022,2026-02-07,,Program Management,Report Request,High,Open,CRM Admin,82,4,Missed,Leadership Office,15+ days
+TCK-11023,2025-04-25,2025-04-30,Program Management,Report Request,Medium,Closed,Tier 2 Support,5,7,Met,Program Office,4-7 days
+TCK-11024,2025-04-23,,Operations,User Permissions,Medium,Open,Reporting Team,372,7,Missed,Program Office,15+ days
+TCK-11025,2025-04-23,2025-04-23,Finance,User Permissions,Critical,Closed,CRM Admin,0,2,Met,Leadership Office,0-3 days
+TCK-11026,2025-05-11,2025-05-15,Policy,Training Request,Medium,Closed,CRM Admin,4,7,Met,Leadership Office,4-7 days
+TCK-11027,2025-07-26,2025-08-04,Finance,Report Request,Low,Closed,Tier 2 Support,9,10,Met,Leadership Office,8-14 days
+TCK-11028,2025-10-12,2025-10-14,IT Services,Data Correction,High,Closed,Reporting Team,2,4,Met,Leadership Office,0-3 days
+TCK-11029,2025-01-02,,Program Management,Training Request,Low,Open,CRM Admin,483,10,Missed,Internal User,15+ days
+TCK-11030,2025-09-04,,Finance,User Permissions,Low,Open,Reporting Team,238,10,Missed,Program Office,15+ days
+TCK-11031,2025-12-23,2025-12-23,IT Services,Training Request,High,Closed,Systems Team,0,4,Met,Program Office,0-3 days
+TCK-11032,2025-02-19,2025-02-21,Operations,Report Request,Medium,Closed,Tier 1 Support,2,7,Met,Program Office,0-3 days
+TCK-11033,2025-07-02,2025-07-06,IT Services,Account Access,Medium,Closed,Tier 1 Support,4,7,Met,Internal User,4-7 days
+TCK-11034,2025-10-17,2025-10-22,Human Resources,Data Correction,High,Closed,Reporting Team,5,4,Missed,Program Office,4-7 days
+TCK-11035,2025-10-01,,Program Management,User Permissions,Critical,Open,Tier 2 Support,211,2,Missed,Internal User,15+ days
+TCK-11036,2026-01-13,2026-01-13,Human Resources,Report Request,Low,Closed,Tier 1 Support,0,10,Met,Leadership Office,0-3 days
+TCK-11037,2025-07-29,2025-08-03,Operations,Account Access,Low,Closed,CRM Admin,5,10,Met,Internal User,4-7 days
+TCK-11038,2025-11-10,2025-11-16,IT Services,Training Request,Low,Closed,Tier 2 Support,6,10,Met,Internal User,4-7 days
+TCK-11039,2025-09-01,2025-09-04,Human Resources,System Error,Medium,Closed,Tier 2 Support,3,7,Met,Program Office,0-3 days
+TCK-11040,2026-03-31,,IT Services,Data Correction,Medium,Open,Systems Team,30,7,Missed,Program Office,15+ days
+TCK-11041,2025-01-01,2025-01-04,Policy,Data Correction,Medium,Closed,Tier 1 Support,3,7,Met,Leadership Office,0-3 days
+TCK-11042,2025-02-19,2025-02-23,Policy,Report Request,Critical,Closed,Tier 2 Support,4,2,Missed,Internal User,4-7 days
+TCK-11043,2026-02-26,2026-03-05,Operations,Data Correction,Low,Closed,Tier 2 Support,7,10,Met,Program Office,4-7 days
+TCK-11044,2025-08-24,2025-08-30,IT Services,Data Correction,Low,Closed,Tier 1 Support,6,10,Met,Internal User,4-7 days
+TCK-11045,2026-01-07,2026-01-07,Finance,User Permissions,High,Closed,Reporting Team,0,4,Met,Internal User,0-3 days
+TCK-11046,2025-12-19,,Program Management,System Error,Low,Pending Customer,Tier 1 Support,132,10,Missed,Internal User,15+ days
+TCK-11047,2025-07-11,,Human Resources,Data Correction,Low,Open,Tier 2 Support,293,10,Missed,Internal User,15+ days
+TCK-11048,2025-03-20,2025-03-23,Policy,Data Correction,Medium,Closed,CRM Admin,3,7,Met,Leadership Office,0-3 days
+TCK-11049,2025-09-24,,IT Services,Training Request,High,Pending Customer,CRM Admin,218,4,Missed,Program Office,15+ days
+TCK-11050,2025-03-22,2025-03-24,Policy,Training Request,High,Closed,Tier 2 Support,2,4,Met,Program Office,0-3 days
+TCK-11051,2025-08-06,,IT Services,Data Correction,Low,Pending Customer,Tier 1 Support,267,10,Missed,Internal User,15+ days
+TCK-11052,2025-07-27,2025-08-02,Program Management,Account Access,Medium,Closed,Systems Team,6,7,Met,Internal User,4-7 days
+TCK-11053,2026-02-12,,Human Resources,Training Request,Medium,Pending Customer,Reporting Team,77,7,Missed,Program Office,15+ days
+TCK-11054,2025-11-29,2025-12-09,Operations,Account Access,Medium,Closed,Systems Team,10,7,Missed,Internal User,8-14 days
+TCK-11055,2025-10-03,2025-10-07,IT Services,Training Request,High,Closed,Tier 1 Support,4,4,Met,Internal User,4-7 days
+TCK-11056,2025-10-03,2025-10-09,IT Services,Account Access,Medium,Closed,CRM Admin,6,7,Met,Program Office,4-7 days
+TCK-11057,2025-06-20,,Operations,Data Correction,Medium,Pending Customer,Tier 2 Support,314,7,Missed,Leadership Office,15+ days
+TCK-11058,2025-11-22,,Program Management,Account Access,Low,Open,Reporting Team,159,10,Missed,Leadership Office,15+ days
+TCK-11059,2025-11-21,2025-11-26,Finance,Report Request,Medium,Closed,Tier 1 Support,5,7,Met,Internal User,4-7 days
+TCK-11060,2026-01-27,,Policy,User Permissions,Low,Open,Tier 1 Support,93,10,Missed,Leadership Office,15+ days
+TCK-11061,2025-01-16,,Human Resources,Account Access,Low,Open,Tier 2 Support,469,10,Missed,Program Office,15+ days
+TCK-11062,2026-02-17,2026-02-20,IT Services,User Permissions,Low,Closed,CRM Admin,3,10,Met,Internal User,0-3 days
+TCK-11063,2026-02-08,,Finance,Report Request,Medium,Escalated,Reporting Team,81,7,Missed,Leadership Office,15+ days
+TCK-11064,2025-02-28,2025-03-04,Finance,Report Request,High,Closed,CRM Admin,4,4,Met,Internal User,4-7 days
+TCK-11065,2025-02-13,,Finance,System Error,Medium,Open,Systems Team,441,7,Missed,Internal User,15+ days
+TCK-11066,2025-03-19,2025-03-23,IT Services,Training Request,Low,Closed,Tier 1 Support,4,10,Met,Program Office,4-7 days
+TCK-11067,2025-07-14,2025-07-19,Human Resources,Account Access,Medium,Closed,CRM Admin,5,7,Met,Internal User,4-7 days
+TCK-11068,2025-07-13,2025-07-19,Finance,User Permissions,Medium,Closed,Systems Team,6,7,Met,Program Office,4-7 days
+TCK-11069,2025-09-29,2025-10-09,Finance,Training Request,Low,Closed,Tier 2 Support,10,10,Met,Program Office,8-14 days
+TCK-11070,2025-07-09,2025-07-17,Operations,Training Request,Medium,Closed,Reporting Team,8,7,Missed,Leadership Office,8-14 days
+TCK-11071,2025-01-22,,Operations,System Error,Medium,Open,Systems Team,463,7,Missed,Leadership Office,15+ days
+TCK-11072,2025-10-13,2025-10-19,Human Resources,Training Request,Medium,Closed,Systems Team,6,7,Met,Internal User,4-7 days
+TCK-11073,2025-03-06,2025-03-15,Program Management,Report Request,Low,Closed,Systems Team,9,10,Met,Internal User,8-14 days
+TCK-11074,2026-04-01,2026-04-07,Human Resources,Report Request,Medium,Closed,CRM Admin,6,7,Met,Leadership Office,4-7 days
+TCK-11075,2025-04-01,2025-04-08,Operations,System Error,Medium,Closed,Tier 2 Support,7,7,Met,Leadership Office,4-7 days
+TCK-11076,2025-11-28,2025-12-04,Operations,User Permissions,Low,Closed,Tier 1 Support,6,10,Met,Internal User,4-7 days
+TCK-11077,2025-12-23,2025-12-28,Policy,User Permissions,Medium,Closed,CRM Admin,5,7,Met,Program Office,4-7 days
+TCK-11078,2025-06-02,2025-06-06,Program Management,User Permissions,Low,Closed,Tier 2 Support,4,10,Met,Program Office,4-7 days
+TCK-11079,2026-01-05,2026-01-09,Finance,Account Access,High,Closed,Reporting Team,4,4,Met,Internal User,4-7 days
+TCK-11080,2026-02-25,,Policy,System Error,Medium,Escalated,Tier 2 Support,64,7,Missed,Program Office,15+ days
+TCK-11081,2026-01-20,2026-01-27,Operations,User Permissions,Medium,Closed,CRM Admin,7,7,Met,Program Office,4-7 days
+TCK-11082,2025-10-06,2025-10-10,Policy,Account Access,Medium,Closed,Tier 1 Support,4,7,Met,Program Office,4-7 days
+TCK-11083,2025-07-13,2025-07-21,IT Services,Training Request,Medium,Closed,Tier 1 Support,8,7,Missed,Internal User,8-14 days
+TCK-11084,2026-01-10,2026-01-15,Policy,Training Request,Low,Closed,Systems Team,5,10,Met,Internal User,4-7 days
+TCK-11085,2026-03-02,2026-03-07,Policy,Account Access,Critical,Closed,CRM Admin,5,2,Missed,Internal User,4-7 days
+TCK-11086,2025-05-29,,Finance,Data Correction,Medium,Open,Tier 2 Support,336,7,Missed,Internal User,15+ days
+TCK-11087,2025-04-17,,IT Services,Report Request,Critical,Pending Customer,Tier 1 Support,378,2,Missed,Program Office,15+ days
+TCK-11088,2026-01-08,,Human Resources,Account Access,Low,Open,Tier 1 Support,112,10,Missed,Leadership Office,15+ days
+TCK-11089,2025-11-04,2025-11-11,Human Resources,Training Request,Medium,Closed,Tier 2 Support,7,7,Met,Internal User,4-7 days
+TCK-11090,2025-10-31,2025-11-06,Program Management,Data Correction,Low,Closed,Tier 2 Support,6,10,Met,Program Office,4-7 days
+TCK-11091,2025-11-26,2025-12-06,Policy,Account Access,Medium,Closed,Tier 1 Support,10,7,Missed,Leadership Office,8-14 days
+TCK-11092,2026-01-25,2026-01-27,Finance,System Error,Medium,Closed,Tier 1 Support,2,7,Met,Program Office,0-3 days
+TCK-11093,2025-09-14,2025-09-17,Human Resources,Account Access,High,Closed,Tier 2 Support,3,4,Met,Internal User,0-3 days
+TCK-11094,2026-02-25,2026-03-01,IT Services,Account Access,Low,Closed,CRM Admin,4,10,Met,Program Office,4-7 days
+TCK-11095,2025-02-27,,Policy,System Error,Medium,Pending Customer,CRM Admin,427,7,Missed,Program Office,15+ days
+TCK-11096,2025-11-23,2025-11-26,Finance,Training Request,High,Closed,Tier 1 Support,3,4,Met,Leadership Office,0-3 days
+TCK-11097,2025-08-01,,IT Services,Report Request,High,Pending Customer,Tier 2 Support,272,4,Missed,Internal User,15+ days
+TCK-11098,2025-02-09,,Human Resources,Training Request,Medium,Open,Systems Team,445,7,Missed,Program Office,15+ days
+TCK-11099,2025-02-25,2025-02-28,Human Resources,Training Request,Medium,Closed,Tier 2 Support,3,7,Met,Program Office,0-3 days
+TCK-11100,2025-04-10,2025-04-20,Operations,Training Request,Low,Closed,Systems Team,10,10,Met,Leadership Office,8-14 days
+TCK-11101,2025-03-17,2025-03-23,Human Resources,Report Request,Low,Closed,Tier 1 Support,6,10,Met,Leadership Office,4-7 days
+TCK-11102,2026-01-17,2026-01-23,IT Services,Training Request,High,Closed,Reporting Team,6,4,Missed,Leadership Office,4-7 days
+TCK-11103,2025-01-22,2025-01-26,Program Management,System Error,High,Closed,Reporting Team,4,4,Met,Program Office,4-7 days
+TCK-11104,2026-02-09,2026-02-10,Human Resources,Account Access,High,Closed,Tier 2 Support,1,4,Met,Program Office,0-3 days
+TCK-11105,2026-02-04,,Human Resources,Training Request,High,Escalated,Tier 2 Support,85,4,Missed,Program Office,15+ days
+TCK-11106,2025-07-19,2025-07-22,Human Resources,System Error,Medium,Closed,Tier 2 Support,3,7,Met,Leadership Office,0-3 days
+TCK-11107,2025-08-22,,Operations,Report Request,Low,Escalated,CRM Admin,251,10,Missed,Program Office,15+ days
+TCK-11108,2025-01-27,2025-02-07,Operations,System Error,High,Closed,Systems Team,11,4,Missed,Internal User,8-14 days
+TCK-11109,2025-09-06,2025-09-12,Operations,Training Request,Medium,Closed,Tier 2 Support,6,7,Met,Leadership Office,4-7 days
+TCK-11110,2026-03-02,2026-03-03,Human Resources,Account Access,Medium,Closed,Tier 2 Support,1,7,Met,Program Office,0-3 days
+TCK-11111,2025-10-11,2025-10-17,Finance,Data Correction,Low,Closed,Reporting Team,6,10,Met,Leadership Office,4-7 days
+TCK-11112,2025-10-09,2025-10-13,Program Management,Account Access,High,Closed,Tier 2 Support,4,4,Met,Internal User,4-7 days
+TCK-11113,2025-11-27,2025-12-07,Program Management,User Permissions,Medium,Closed,Tier 1 Support,10,7,Missed,Leadership Office,8-14 days
+TCK-11114,2026-02-25,2026-03-06,IT Services,Training Request,Low,Closed,Tier 1 Support,9,10,Met,Program Office,8-14 days
+TCK-11115,2025-05-27,,Finance,Training Request,Medium,Escalated,Tier 2 Support,338,7,Missed,Program Office,15+ days
+TCK-11116,2026-01-23,2026-01-25,Policy,System Error,Medium,Closed,Systems Team,2,7,Met,Leadership Office,0-3 days
+TCK-11117,2026-02-18,2026-02-22,IT Services,Training Request,Medium,Closed,Reporting Team,4,7,Met,Internal User,4-7 days
+TCK-11118,2026-04-01,,Finance,Training Request,Medium,Open,Reporting Team,29,7,Missed,Leadership Office,15+ days
+TCK-11119,2025-10-19,2025-10-27,IT Services,Report Request,Low,Closed,Systems Team,8,10,Met,Leadership Office,8-14 days
+TCK-11120,2026-02-10,,Operations,Data Correction,Critical,Open,Tier 1 Support,79,2,Missed,Internal User,15+ days
+TCK-11121,2026-03-06,2026-03-09,Program Management,System Error,High,Closed,Systems Team,3,4,Met,Leadership Office,0-3 days
+TCK-11122,2025-01-29,2025-02-05,IT Services,System Error,Medium,Closed,Tier 2 Support,7,7,Met,Program Office,4-7 days
+TCK-11123,2025-11-24,2025-12-02,Program Management,Data Correction,Low,Closed,Tier 2 Support,8,10,Met,Program Office,8-14 days
+TCK-11124,2025-10-15,2025-10-18,IT Services,Training Request,High,Closed,Tier 2 Support,3,4,Met,Program Office,0-3 days
+TCK-11125,2025-12-10,,IT Services,Data Correction,Medium,Pending Customer,Systems Team,141,7,Missed,Internal User,15+ days
+TCK-11126,2026-03-05,2026-03-05,Human Resources,Report Request,High,Closed,Reporting Team,0,4,Met,Leadership Office,0-3 days
+TCK-11127,2025-03-02,,Human Resources,Training Request,Critical,Pending Customer,Tier 2 Support,424,2,Missed,Program Office,15+ days
+TCK-11128,2025-10-30,2025-11-01,Operations,System Error,High,Closed,CRM Admin,2,4,Met,Internal User,0-3 days
+TCK-11129,2026-02-06,2026-02-09,Operations,Account Access,Medium,Closed,Systems Team,3,7,Met,Program Office,0-3 days
+TCK-11130,2026-02-19,2026-02-28,Policy,Data Correction,Medium,Closed,Tier 2 Support,9,7,Missed,Leadership Office,8-14 days
+TCK-11131,2025-06-10,,Operations,Report Request,Medium,Escalated,Reporting Team,324,7,Missed,Leadership Office,15+ days
+TCK-11132,2025-03-18,2025-03-23,Finance,Training Request,Low,Closed,CRM Admin,5,10,Met,Leadership Office,4-7 days
+TCK-11133,2025-01-21,,Human Resources,Account Access,High,Pending Customer,Systems Team,464,4,Missed,Program Office,15+ days
+TCK-11134,2025-11-04,,Human Resources,Account Access,Medium,Pending Customer,Tier 1 Support,177,7,Missed,Program Office,15+ days
+TCK-11135,2025-09-15,,Human Resources,Account Access,Low,Open,Tier 1 Support,227,10,Missed,Program Office,15+ days
+TCK-11136,2025-09-28,2025-10-09,Human Resources,Report Request,Low,Closed,Systems Team,11,10,Missed,Internal User,8-14 days
+TCK-11137,2026-03-16,,Policy,Training Request,High,Open,Tier 2 Support,45,4,Missed,Leadership Office,15+ days
+TCK-11138,2025-08-15,2025-08-22,Human Resources,User Permissions,Medium,Closed,CRM Admin,7,7,Met,Internal User,4-7 days
+TCK-11139,2025-11-23,,Finance,System Error,Medium,Open,Tier 2 Support,158,7,Missed,Internal User,15+ days
+TCK-11140,2026-01-01,,Policy,System Error,High,Pending Customer,Reporting Team,119,4,Missed,Leadership Office,15+ days
+TCK-11141,2025-03-08,2025-03-12,Program Management,User Permissions,Medium,Closed,Reporting Team,4,7,Met,Program Office,4-7 days
+TCK-11142,2025-01-25,2025-01-26,IT Services,Account Access,Critical,Closed,CRM Admin,1,2,Met,Internal User,0-3 days
+TCK-11143,2025-07-23,2025-07-26,Operations,Data Correction,High,Closed,Reporting Team,3,4,Met,Internal User,0-3 days
+TCK-11144,2025-02-15,,Finance,Report Request,High,Escalated,Tier 2 Support,439,4,Missed,Internal User,15+ days
+TCK-11145,2025-06-26,2025-06-26,Program Management,Account Access,High,Closed,Tier 2 Support,0,4,Met,Internal User,0-3 days
+TCK-11146,2025-12-14,2025-12-23,Human Resources,System Error,Low,Closed,Tier 1 Support,9,10,Met,Internal User,8-14 days
+TCK-11147,2026-01-20,,Program Management,System Error,Medium,Pending Customer,Systems Team,100,7,Missed,Leadership Office,15+ days
+TCK-11148,2025-06-26,,Program Management,Account Access,Medium,Open,Systems Team,308,7,Missed,Program Office,15+ days
+TCK-11149,2025-06-07,,Finance,Account Access,Medium,Open,Tier 2 Support,327,7,Missed,Program Office,15+ days
+TCK-11150,2025-05-31,,Human Resources,System Error,Medium,Escalated,CRM Admin,334,7,Missed,Program Office,15+ days
+TCK-11151,2025-01-28,2025-02-04,Program Management,Training Request,Low,Closed,Tier 1 Support,7,10,Met,Internal User,4-7 days
+TCK-11152,2025-08-26,2025-08-31,IT Services,Data Correction,High,Closed,Tier 2 Support,5,4,Missed,Internal User,4-7 days
+TCK-11153,2025-01-08,2025-01-16,IT Services,Training Request,High,Closed,Tier 2 Support,8,4,Missed,Internal User,8-14 days
+TCK-11154,2025-11-18,2025-11-21,Program Management,Data Correction,Low,Closed,Systems Team,3,10,Met,Leadership Office,0-3 days
+TCK-11155,2025-06-24,2025-06-27,Operations,System Error,High,Closed,Tier 2 Support,3,4,Met,Leadership Office,0-3 days
+TCK-11156,2025-05-05,,Operations,Training Request,High,Pending Customer,CRM Admin,360,4,Missed,Program Office,15+ days
+TCK-11157,2025-01-15,2025-01-16,Program Management,User Permissions,Medium,Closed,Systems Team,1,7,Met,Leadership Office,0-3 days
+TCK-11158,2026-01-04,2026-01-11,Human Resources,System Error,Medium,Closed,Reporting Team,7,7,Met,Leadership Office,4-7 days
+TCK-11159,2025-02-01,,Operations,Account Access,Medium,Escalated,CRM Admin,453,7,Missed,Internal User,15+ days
+TCK-11160,2025-07-12,,Operations,Data Correction,Medium,Open,Tier 2 Support,292,7,Missed,Leadership Office,15+ days
+TCK-11161,2025-06-28,,Policy,Report Request,Medium,Open,Tier 1 Support,306,7,Missed,Program Office,15+ days
+TCK-11162,2025-10-04,,Policy,Report Request,Critical,Escalated,Reporting Team,208,2,Missed,Leadership Office,15+ days
+TCK-11163,2025-03-18,2025-03-22,IT Services,Data Correction,High,Closed,CRM Admin,4,4,Met,Leadership Office,4-7 days
+TCK-11164,2025-07-23,2025-07-23,Human Resources,Training Request,Critical,Closed,Systems Team,0,2,Met,Leadership Office,0-3 days
+TCK-11165,2026-01-31,2026-02-03,IT Services,Account Access,Medium,Closed,Tier 2 Support,3,7,Met,Internal User,0-3 days
+TCK-11166,2025-01-20,2025-01-21,IT Services,User Permissions,High,Closed,Tier 2 Support,1,4,Met,Leadership Office,0-3 days
+TCK-11167,2026-03-07,,IT Services,Report Request,Medium,Escalated,Tier 2 Support,54,7,Missed,Program Office,15+ days
+TCK-11168,2026-03-28,,IT Services,Training Request,Medium,Pending Customer,Systems Team,33,7,Missed,Leadership Office,15+ days
+TCK-11169,2025-02-03,2025-02-05,Program Management,Account Access,Medium,Closed,Reporting Team,2,7,Met,Internal User,0-3 days
+TCK-11170,2025-07-02,2025-07-07,IT Services,System Error,High,Closed,Reporting Team,5,4,Missed,Program Office,4-7 days
+TCK-11171,2025-09-02,2025-09-09,IT Services,System Error,Low,Closed,CRM Admin,7,10,Met,Program Office,4-7 days
+TCK-11172,2026-02-04,2026-02-11,Policy,User Permissions,Low,Closed,Reporting Team,7,10,Met,Program Office,4-7 days
+TCK-11173,2025-11-09,2025-11-17,Program Management,Training Request,Medium,Closed,Reporting Team,8,7,Missed,Leadership Office,8-14 days
+TCK-11174,2026-03-09,,Finance,Training Request,Low,Pending Customer,Systems Team,52,10,Missed,Internal User,15+ days
+TCK-11175,2025-09-10,,IT Services,Account Access,Critical,Open,Reporting Team,232,2,Missed,Leadership Office,15+ days
+TCK-11176,2025-04-06,2025-04-09,Finance,Account Access,Medium,Closed,CRM Admin,3,7,Met,Internal User,0-3 days
+TCK-11177,2025-12-06,2025-12-12,IT Services,Report Request,High,Closed,Reporting Team,6,4,Missed,Leadership Office,4-7 days
+TCK-11178,2025-01-20,,Finance,Training Request,Low,Open,Tier 2 Support,465,10,Missed,Leadership Office,15+ days
+TCK-11179,2025-06-25,2025-06-30,Program Management,Training Request,High,Closed,Reporting Team,5,4,Missed,Internal User,4-7 days
+TCK-11180,2025-03-13,2025-03-22,Finance,Data Correction,Medium,Closed,Tier 2 Support,9,7,Missed,Leadership Office,8-14 days
+TCK-11181,2025-03-10,2025-03-19,Operations,Data Correction,Medium,Closed,Systems Team,9,7,Missed,Leadership Office,8-14 days
+TCK-11182,2025-02-22,,Human Resources,User Permissions,Medium,Open,CRM Admin,432,7,Missed,Internal User,15+ days
+TCK-11183,2025-09-30,2025-10-05,Finance,System Error,High,Closed,Tier 2 Support,5,4,Missed,Leadership Office,4-7 days
+TCK-11184,2025-03-29,2025-04-03,Policy,Data Correction,Medium,Closed,CRM Admin,5,7,Met,Leadership Office,4-7 days
+TCK-11185,2025-11-08,2025-11-13,IT Services,Account Access,High,Closed,Systems Team,5,4,Missed,Leadership Office,4-7 days
+TCK-11186,2025-07-20,,Policy,System Error,Medium,Open,Systems Team,284,7,Missed,Program Office,15+ days
+TCK-11187,2025-07-17,2025-07-23,Program Management,User Permissions,High,Closed,CRM Admin,6,4,Missed,Program Office,4-7 days
+TCK-11188,2025-04-25,2025-05-03,IT Services,Account Access,Low,Closed,Systems Team,8,10,Met,Leadership Office,8-14 days
+TCK-11189,2025-02-08,,Human Resources,Data Correction,High,Open,Systems Team,446,4,Missed,Leadership Office,15+ days
+TCK-11190,2025-06-20,2025-06-26,Human Resources,Account Access,Medium,Closed,CRM Admin,6,7,Met,Internal User,4-7 days
+TCK-11191,2025-07-21,2025-07-24,Finance,Data Correction,Medium,Closed,Tier 1 Support,3,7,Met,Internal User,0-3 days
+TCK-11192,2026-01-09,2026-01-17,Operations,System Error,Low,Closed,Reporting Team,8,10,Met,Leadership Office,8-14 days
+TCK-11193,2026-03-10,,Finance,Account Access,Critical,Open,Tier 1 Support,51,2,Missed,Leadership Office,15+ days
+TCK-11194,2025-05-17,,Policy,Account Access,Critical,Open,CRM Admin,348,2,Missed,Internal User,15+ days
+TCK-11195,2025-01-19,,Human Resources,User Permissions,High,Open,Systems Team,466,4,Missed,Leadership Office,15+ days
+TCK-11196,2025-08-31,2025-09-08,Operations,System Error,Medium,Closed,Tier 1 Support,8,7,Missed,Program Office,8-14 days
+TCK-11197,2025-07-04,,Finance,System Error,Low,Pending Customer,Tier 2 Support,300,10,Missed,Internal User,15+ days
+TCK-11198,2025-06-19,,Program Management,System Error,Medium,Pending Customer,Tier 1 Support,315,7,Missed,Program Office,15+ days
+TCK-11199,2026-03-19,2026-03-23,Program Management,Report Request,High,Closed,CRM Admin,4,4,Met,Internal User,4-7 days
+TCK-11200,2025-03-12,2025-03-14,Finance,User Permissions,Medium,Closed,CRM Admin,2,7,Met,Leadership Office,0-3 days
+TCK-11201,2025-11-20,2025-12-01,Finance,User Permissions,Medium,Closed,Systems Team,11,7,Missed,Program Office,8-14 days
+TCK-11202,2025-04-02,2025-04-06,IT Services,Account Access,Medium,Closed,Tier 1 Support,4,7,Met,Leadership Office,4-7 days
+TCK-11203,2025-08-08,,Human Resources,Account Access,Critical,Open,Tier 2 Support,265,2,Missed,Program Office,15+ days
+TCK-11204,2025-07-10,2025-07-15,Operations,Account Access,Medium,Closed,Tier 2 Support,5,7,Met,Internal User,4-7 days
+TCK-11205,2025-11-26,,Finance,Account Access,High,Pending Customer,Tier 2 Support,155,4,Missed,Internal User,15+ days
+TCK-11206,2025-06-15,,Operations,User Permissions,Medium,Open,Reporting Team,319,7,Missed,Leadership Office,15+ days
+TCK-11207,2026-01-13,,IT Services,Training Request,Low,Open,Reporting Team,107,10,Missed,Program Office,15+ days
+TCK-11208,2025-10-28,2025-11-08,Operations,System Error,Medium,Closed,Tier 2 Support,11,7,Missed,Program Office,8-14 days
+TCK-11209,2025-08-18,2025-08-21,Program Management,Data Correction,High,Closed,Tier 1 Support,3,4,Met,Internal User,0-3 days
+TCK-11210,2025-07-07,,Policy,Data Correction,High,Escalated,CRM Admin,297,4,Missed,Program Office,15+ days
+TCK-11211,2025-04-18,,Policy,Training Request,High,Open,Tier 1 Support,377,4,Missed,Leadership Office,15+ days
+TCK-11212,2025-03-10,,Operations,Training Request,Low,Open,Tier 2 Support,416,10,Missed,Leadership Office,15+ days
+TCK-11213,2025-01-04,2025-01-14,Human Resources,Training Request,Medium,Closed,Tier 2 Support,10,7,Missed,Program Office,8-14 days
+TCK-11214,2025-05-15,2025-05-22,IT Services,System Error,Medium,Closed,CRM Admin,7,7,Met,Internal User,4-7 days
+TCK-11215,2025-09-30,2025-10-06,Program Management,Data Correction,Low,Closed,Tier 2 Support,6,10,Met,Program Office,4-7 days
+TCK-11216,2025-09-03,2025-09-08,Finance,Training Request,Medium,Closed,CRM Admin,5,7,Met,Program Office,4-7 days
+TCK-11217,2025-03-11,,IT Services,Account Access,Medium,Pending Customer,Systems Team,415,7,Missed,Leadership Office,15+ days
+TCK-11218,2026-01-15,,IT Services,Data Correction,Medium,Pending Customer,Tier 1 Support,105,7,Missed,Program Office,15+ days
+TCK-11219,2025-01-28,,Program Management,Data Correction,Medium,Open,Tier 1 Support,457,7,Missed,Program Office,15+ days
+TCK-11220,2025-12-18,2025-12-26,Policy,User Permissions,Low,Closed,Tier 2 Support,8,10,Met,Leadership Office,8-14 days
+TCK-11221,2025-12-02,,Operations,Data Correction,Medium,Open,Tier 2 Support,149,7,Missed,Leadership Office,15+ days
+TCK-11222,2025-10-18,2025-10-21,Program Management,Data Correction,High,Closed,Tier 1 Support,3,4,Met,Leadership Office,0-3 days
+TCK-11223,2025-08-07,2025-08-07,Operations,Training Request,High,Closed,Systems Team,0,4,Met,Internal User,0-3 days
+TCK-11224,2025-05-02,2025-05-03,Finance,User Permissions,High,Closed,Tier 2 Support,1,4,Met,Leadership Office,0-3 days
+TCK-11225,2026-03-15,2026-03-16,Program Management,Account Access,High,Closed,Reporting Team,1,4,Met,Leadership Office,0-3 days
+TCK-11226,2025-11-27,2025-12-02,Program Management,Data Correction,Medium,Closed,Tier 2 Support,5,7,Met,Program Office,4-7 days
+TCK-11227,2025-05-29,,IT Services,System Error,Low,Open,Systems Team,336,10,Missed,Leadership Office,15+ days
+TCK-11228,2026-01-07,,IT Services,Training Request,Low,Pending Customer,Reporting Team,113,10,Missed,Internal User,15+ days
+TCK-11229,2025-04-06,2025-04-13,Policy,Training Request,Medium,Closed,Reporting Team,7,7,Met,Leadership Office,4-7 days
+TCK-11230,2025-09-12,2025-09-18,Policy,Report Request,High,Closed,Tier 2 Support,6,4,Missed,Leadership Office,4-7 days
+TCK-11231,2025-10-13,2025-10-17,Policy,Account Access,High,Closed,Tier 2 Support,4,4,Met,Program Office,4-7 days
+TCK-11232,2025-07-23,2025-07-27,Human Resources,Training Request,High,Closed,Tier 2 Support,4,4,Met,Internal User,4-7 days
+TCK-11233,2025-01-20,2025-01-20,Policy,System Error,High,Closed,Systems Team,0,4,Met,Leadership Office,0-3 days
+TCK-11234,2025-09-17,2025-09-19,Policy,Data Correction,High,Closed,CRM Admin,2,4,Met,Leadership Office,0-3 days
+TCK-11235,2025-09-21,2025-09-21,Human Resources,Data Correction,Medium,Closed,Tier 1 Support,0,7,Met,Program Office,0-3 days
+TCK-11236,2025-06-04,2025-06-10,Human Resources,Training Request,Low,Closed,Systems Team,6,10,Met,Program Office,4-7 days
+TCK-11237,2025-02-26,2025-03-09,Policy,Training Request,Medium,Closed,Tier 1 Support,11,7,Missed,Internal User,8-14 days
+TCK-11238,2026-02-03,2026-02-05,Policy,Training Request,Low,Closed,CRM Admin,2,10,Met,Leadership Office,0-3 days
+TCK-11239,2025-01-13,,IT Services,Data Correction,Low,Open,Tier 1 Support,472,10,Missed,Leadership Office,15+ days
+TCK-11240,2026-02-26,,Program Management,System Error,Low,Open,Tier 1 Support,63,10,Missed,Internal User,15+ days
+TCK-11241,2025-12-18,,Human Resources,User Permissions,Medium,Open,Tier 2 Support,133,7,Missed,Leadership Office,15+ days
+TCK-11242,2025-03-19,,Policy,User Permissions,Low,Open,Reporting Team,407,10,Missed,Program Office,15+ days
+TCK-11243,2025-08-27,,Policy,Account Access,High,Open,Tier 1 Support,246,4,Missed,Internal User,15+ days
+TCK-11244,2025-07-15,,Operations,Account Access,Medium,Open,Tier 1 Support,289,7,Missed,Leadership Office,15+ days
+TCK-11245,2026-01-05,,IT Services,System Error,Low,Open,Tier 2 Support,115,10,Missed,Internal User,15+ days
+TCK-11246,2025-11-15,2025-11-23,Finance,Training Request,High,Closed,Tier 2 Support,8,4,Missed,Program Office,8-14 days
+TCK-11247,2025-07-14,2025-07-18,Policy,Report Request,Medium,Closed,Systems Team,4,7,Met,Internal User,4-7 days
+TCK-11248,2025-03-18,2025-03-19,Human Resources,Account Access,High,Closed,CRM Admin,1,4,Met,Internal User,0-3 days
+TCK-11249,2026-02-09,2026-02-09,Human Resources,Training Request,Medium,Closed,CRM Admin,0,7,Met,Internal User,0-3 days
+TCK-11250,2025-03-18,2025-03-22,Human Resources,Training Request,Medium,Closed,Tier 2 Support,4,7,Met,Leadership Office,4-7 days
+TCK-11251,2026-03-10,,Human Resources,User Permissions,Medium,Escalated,Tier 1 Support,51,7,Missed,Internal User,15+ days
+TCK-11252,2026-01-02,2026-01-02,Operations,User Permissions,Medium,Closed,Systems Team,0,7,Met,Program Office,0-3 days
+TCK-11253,2026-02-26,,Finance,Data Correction,Low,Open,Reporting Team,63,10,Missed,Program Office,15+ days
+TCK-11254,2025-10-09,2025-10-14,Finance,Data Correction,Medium,Closed,Tier 2 Support,5,7,Met,Internal User,4-7 days
+TCK-11255,2025-05-13,,Program Management,Account Access,High,Pending Customer,Reporting Team,352,4,Missed,Internal User,15+ days
+TCK-11256,2025-07-05,2025-07-10,IT Services,System Error,Medium,Closed,CRM Admin,5,7,Met,Internal User,4-7 days
+TCK-11257,2025-03-27,,Program Management,System Error,Medium,Open,Systems Team,399,7,Missed,Internal User,15+ days
+TCK-11258,2025-07-31,,Finance,Training Request,Low,Open,Tier 1 Support,273,10,Missed,Program Office,15+ days
+TCK-11259,2025-06-13,,Policy,Account Access,Medium,Pending Customer,Tier 2 Support,321,7,Missed,Leadership Office,15+ days
+TCK-11260,2025-12-30,,Human Resources,Account Access,High,Open,Tier 1 Support,121,4,Missed,Leadership Office,15+ days
+TCK-11261,2025-07-05,2025-07-05,Policy,System Error,High,Closed,CRM Admin,0,4,Met,Program Office,0-3 days
+TCK-11262,2026-02-07,,Program Management,Training Request,Medium,Open,CRM Admin,82,7,Missed,Program Office,15+ days
+TCK-11263,2025-05-26,,Human Resources,Data Correction,Medium,Open,CRM Admin,339,7,Missed,Program Office,15+ days
+TCK-11264,2025-08-11,,Human Resources,Account Access,Low,Open,Systems Team,262,10,Missed,Internal User,15+ days
+TCK-11265,2025-01-20,2025-01-27,Operations,Account Access,Low,Closed,Reporting Team,7,10,Met,Program Office,4-7 days
+TCK-11266,2025-05-22,,Operations,System Error,High,Open,Systems Team,343,4,Missed,Internal User,15+ days
+TCK-11267,2025-10-06,,Human Resources,Data Correction,Low,Open,Systems Team,206,10,Missed,Internal User,15+ days
+TCK-11268,2026-03-21,,Policy,Account Access,High,Escalated,Reporting Team,40,4,Missed,Internal User,15+ days
+TCK-11269,2025-04-11,2025-04-17,Policy,Data Correction,Medium,Closed,CRM Admin,6,7,Met,Internal User,4-7 days
+TCK-11270,2025-01-25,2025-01-29,IT Services,Report Request,High,Closed,Reporting Team,4,4,Met,Program Office,4-7 days
+TCK-11271,2025-04-13,,IT Services,System Error,High,Open,Tier 2 Support,382,4,Missed,Program Office,15+ days
+TCK-11272,2025-09-30,2025-10-03,Program Management,System Error,High,Closed,Reporting Team,3,4,Met,Leadership Office,0-3 days
+TCK-11273,2025-05-10,2025-05-13,Policy,Data Correction,Medium,Closed,Systems Team,3,7,Met,Program Office,0-3 days
+TCK-11274,2025-03-22,,Program Management,Report Request,High,Pending Customer,Reporting Team,404,4,Missed,Program Office,15+ days
+TCK-11275,2025-08-12,,Operations,User Permissions,High,Open,Reporting Team,261,4,Missed,Internal User,15+ days
+TCK-11276,2025-01-17,2025-01-23,Program Management,System Error,Low,Closed,Tier 1 Support,6,10,Met,Program Office,4-7 days
+TCK-11277,2025-06-19,,Program Management,Training Request,Medium,Open,Reporting Team,315,7,Missed,Leadership Office,15+ days
+TCK-11278,2025-08-28,2025-09-05,Human Resources,User Permissions,Low,Closed,CRM Admin,8,10,Met,Leadership Office,8-14 days
+TCK-11279,2025-05-01,,Policy,User Permissions,Medium,Escalated,CRM Admin,364,7,Missed,Leadership Office,15+ days
+TCK-11280,2025-01-02,2025-01-09,Policy,Account Access,Medium,Closed,CRM Admin,7,7,Met,Internal User,4-7 days
+TCK-11281,2025-01-22,2025-01-31,Policy,Training Request,Medium,Closed,Reporting Team,9,7,Missed,Program Office,8-14 days
+TCK-11282,2026-02-06,,Policy,Data Correction,Medium,Escalated,Tier 1 Support,83,7,Missed,Internal User,15+ days
+TCK-11283,2025-08-26,2025-09-02,IT Services,User Permissions,Medium,Closed,CRM Admin,7,7,Met,Internal User,4-7 days
+TCK-11284,2025-07-30,,Operations,Data Correction,High,Escalated,Reporting Team,274,4,Missed,Program Office,15+ days
+TCK-11285,2025-01-26,2025-02-01,Finance,System Error,Medium,Closed,Tier 2 Support,6,7,Met,Internal User,4-7 days
+TCK-11286,2026-01-13,2026-01-24,IT Services,Training Request,Medium,Closed,CRM Admin,11,7,Missed,Leadership Office,8-14 days
+TCK-11287,2025-10-19,,Policy,Report Request,High,Escalated,Tier 2 Support,193,4,Missed,Program Office,15+ days
+TCK-11288,2026-03-11,2026-03-13,Human Resources,Data Correction,Critical,Closed,Reporting Team,2,2,Met,Internal User,0-3 days
+TCK-11289,2025-09-21,,Program Management,Account Access,Medium,Pending Customer,Tier 2 Support,221,7,Missed,Leadership Office,15+ days
+TCK-11290,2025-12-07,2025-12-11,Policy,User Permissions,Medium,Closed,CRM Admin,4,7,Met,Internal User,4-7 days
+TCK-11291,2026-03-12,,Operations,Report Request,High,Escalated,Systems Team,49,4,Missed,Leadership Office,15+ days
+TCK-11292,2025-09-20,,IT Services,System Error,Medium,Pending Customer,Tier 2 Support,222,7,Missed,Internal User,15+ days
+TCK-11293,2025-02-12,,Policy,Training Request,Critical,Escalated,CRM Admin,442,2,Missed,Leadership Office,15+ days
+TCK-11294,2025-09-18,,Human Resources,Training Request,Low,Pending Customer,Reporting Team,224,10,Missed,Program Office,15+ days
+TCK-11295,2025-06-05,,Finance,Training Request,Medium,Open,Systems Team,329,7,Missed,Leadership Office,15+ days
+TCK-11296,2025-04-30,2025-05-10,IT Services,Report Request,Medium,Closed,Reporting Team,10,7,Missed,Internal User,8-14 days
+TCK-11297,2025-10-04,2025-10-11,Program Management,Report Request,Low,Closed,Reporting Team,7,10,Met,Leadership Office,4-7 days
+TCK-11298,2025-02-17,,Operations,System Error,High,Open,Systems Team,437,4,Missed,Internal User,15+ days
+TCK-11299,2025-06-03,,Operations,Training Request,Medium,Open,Reporting Team,331,7,Missed,Leadership Office,15+ days
+TCK-11300,2026-02-23,2026-02-27,IT Services,User Permissions,Medium,Closed,Reporting Team,4,7,Met,Leadership Office,4-7 days
+TCK-11301,2025-09-16,2025-09-18,Policy,System Error,Low,Closed,Tier 1 Support,2,10,Met,Program Office,0-3 days
+TCK-11302,2025-01-23,2025-02-02,Human Resources,Report Request,Medium,Closed,Tier 1 Support,10,7,Missed,Leadership Office,8-14 days
+TCK-11303,2025-08-05,2025-08-09,Operations,Data Correction,Low,Closed,Reporting Team,4,10,Met,Program Office,4-7 days
+TCK-11304,2025-12-12,2025-12-16,IT Services,Data Correction,High,Closed,CRM Admin,4,4,Met,Leadership Office,4-7 days
+TCK-11305,2025-07-13,2025-07-13,Policy,User Permissions,Medium,Closed,Reporting Team,0,7,Met,Internal User,0-3 days
+TCK-11306,2025-05-30,,Program Management,User Permissions,Medium,Pending Customer,CRM Admin,335,7,Missed,Leadership Office,15+ days
+TCK-11307,2025-07-12,2025-07-17,Human Resources,Report Request,Medium,Closed,Reporting Team,5,7,Met,Leadership Office,4-7 days
+TCK-11308,2025-06-09,2025-06-21,Operations,Training Request,Low,Closed,CRM Admin,12,10,Missed,Internal User,8-14 days
+TCK-11309,2025-07-17,,Policy,System Error,Low,Escalated,CRM Admin,287,10,Missed,Leadership Office,15+ days
+TCK-11310,2025-10-07,2025-10-18,IT Services,Data Correction,Low,Closed,CRM Admin,11,10,Missed,Leadership Office,8-14 days
+TCK-11311,2025-07-24,2025-07-25,Operations,Report Request,Medium,Closed,Reporting Team,1,7,Met,Program Office,0-3 days
+TCK-11312,2025-03-19,2025-03-19,Program Management,Training Request,Critical,Closed,Systems Team,0,2,Met,Internal User,0-3 days
+TCK-11313,2025-08-06,,Human Resources,Training Request,Low,Pending Customer,Tier 2 Support,267,10,Missed,Program Office,15+ days
+TCK-11314,2025-12-05,2025-12-09,Operations,Data Correction,High,Closed,Reporting Team,4,4,Met,Internal User,4-7 days
+TCK-11315,2025-04-30,2025-05-10,Operations,Account Access,Low,Closed,CRM Admin,10,10,Met,Program Office,8-14 days
+TCK-11316,2025-10-12,2025-10-16,Policy,Account Access,Medium,Closed,Tier 2 Support,4,7,Met,Program Office,4-7 days
+TCK-11317,2025-05-23,2025-05-26,Program Management,Report Request,High,Closed,Tier 1 Support,3,4,Met,Internal User,0-3 days
+TCK-11318,2025-12-23,,IT Services,System Error,Medium,Open,Reporting Team,128,7,Missed,Internal User,15+ days
+TCK-11319,2025-08-29,2025-09-06,IT Services,Data Correction,High,Closed,CRM Admin,8,4,Missed,Leadership Office,8-14 days
+TCK-11320,2025-10-03,2025-10-06,Human Resources,Training Request,Medium,Closed,Systems Team,3,7,Met,Leadership Office,0-3 days
+TCK-11321,2025-01-02,2025-01-04,Human Resources,System Error,High,Closed,CRM Admin,2,4,Met,Program Office,0-3 days
+TCK-11322,2025-09-22,,Operations,Report Request,High,Open,Systems Team,220,4,Missed,Internal User,15+ days
+TCK-11323,2025-07-21,,IT Services,Training Request,Medium,Escalated,Tier 2 Support,283,7,Missed,Leadership Office,15+ days
+TCK-11324,2025-10-25,2025-10-29,Program Management,Report Request,Medium,Closed,Systems Team,4,7,Met,Program Office,4-7 days
+TCK-11325,2025-10-18,,Finance,Report Request,Medium,Pending Customer,Tier 1 Support,194,7,Missed,Internal User,15+ days
+TCK-11326,2025-03-05,2025-03-12,Policy,Data Correction,Medium,Closed,Tier 1 Support,7,7,Met,Leadership Office,4-7 days
+TCK-11327,2026-02-04,2026-02-09,Policy,Account Access,Medium,Closed,CRM Admin,5,7,Met,Internal User,4-7 days
+TCK-11328,2025-02-06,2025-02-09,Policy,Account Access,Medium,Closed,Tier 2 Support,3,7,Met,Leadership Office,0-3 days
+TCK-11329,2025-10-03,2025-10-04,Operations,System Error,High,Closed,Tier 2 Support,1,4,Met,Internal User,0-3 days
+TCK-11330,2025-09-21,2025-09-28,IT Services,Account Access,Medium,Closed,Reporting Team,7,7,Met,Program Office,4-7 days
+TCK-11331,2025-01-04,2025-01-10,Operations,Report Request,Low,Closed,Systems Team,6,10,Met,Leadership Office,4-7 days
+TCK-11332,2025-05-09,2025-05-14,Program Management,System Error,Low,Closed,CRM Admin,5,10,Met,Leadership Office,4-7 days
+TCK-11333,2026-03-18,2026-03-23,Program Management,Report Request,Medium,Closed,Tier 2 Support,5,7,Met,Internal User,4-7 days
+TCK-11334,2026-02-24,2026-02-28,Program Management,Report Request,High,Closed,Reporting Team,4,4,Met,Program Office,4-7 days
+TCK-11335,2025-06-24,,Finance,Data Correction,Medium,Open,Tier 2 Support,310,7,Missed,Leadership Office,15+ days
+TCK-11336,2026-02-17,2026-02-25,Operations,Report Request,Medium,Closed,CRM Admin,8,7,Missed,Program Office,8-14 days
+TCK-11337,2026-03-25,,Finance,User Permissions,Medium,Open,CRM Admin,36,7,Missed,Internal User,15+ days
+TCK-11338,2025-02-25,2025-02-27,IT Services,Report Request,Medium,Closed,Tier 2 Support,2,7,Met,Internal User,0-3 days
+TCK-11339,2025-01-05,2025-01-12,Operations,Data Correction,Medium,Closed,CRM Admin,7,7,Met,Internal User,4-7 days
+TCK-11340,2026-01-26,2026-01-31,Program Management,User Permissions,High,Closed,Reporting Team,5,4,Missed,Program Office,4-7 days
+TCK-11341,2025-07-25,2025-08-02,Human Resources,Data Correction,Low,Closed,CRM Admin,8,10,Met,Leadership Office,8-14 days
+TCK-11342,2025-02-21,,IT Services,Report Request,Low,Pending Customer,Systems Team,433,10,Missed,Leadership Office,15+ days
+TCK-11343,2025-11-24,,Human Resources,Account Access,Medium,Open,Reporting Team,157,7,Missed,Leadership Office,15+ days
+TCK-11344,2025-09-22,2025-09-22,Program Management,Training Request,Critical,Closed,Tier 2 Support,0,2,Met,Internal User,0-3 days
+TCK-11345,2026-03-24,2026-04-03,Human Resources,Report Request,Low,Closed,Reporting Team,10,10,Met,Internal User,8-14 days
+TCK-11346,2026-01-03,2026-01-07,Operations,User Permissions,Medium,Closed,Reporting Team,4,7,Met,Internal User,4-7 days
+TCK-11347,2025-03-17,,Operations,User Permissions,High,Pending Customer,Reporting Team,409,4,Missed,Program Office,15+ days
+TCK-11348,2025-04-27,2025-05-04,Policy,System Error,Medium,Closed,Systems Team,7,7,Met,Internal User,4-7 days
+TCK-11349,2025-08-25,,Finance,Training Request,Medium,Escalated,Tier 2 Support,248,7,Missed,Program Office,15+ days
+TCK-11350,2025-03-07,2025-03-12,Operations,Training Request,Low,Closed,CRM Admin,5,10,Met,Program Office,4-7 days
+TCK-11351,2025-07-05,,Program Management,Report Request,High,Escalated,CRM Admin,299,4,Missed,Leadership Office,15+ days
+TCK-11352,2025-07-08,2025-07-14,Policy,Data Correction,Medium,Closed,Tier 2 Support,6,7,Met,Internal User,4-7 days
+TCK-11353,2025-02-27,,Finance,Training Request,Low,Open,Systems Team,427,10,Missed,Leadership Office,15+ days
+TCK-11354,2026-01-10,2026-01-10,IT Services,User Permissions,Critical,Closed,Tier 1 Support,0,2,Met,Program Office,0-3 days
+TCK-11355,2025-08-13,2025-08-18,Policy,User Permissions,High,Closed,Tier 2 Support,5,4,Missed,Program Office,4-7 days
+TCK-11356,2025-03-28,,IT Services,Training Request,Low,Pending Customer,Reporting Team,398,10,Missed,Leadership Office,15+ days
+TCK-11357,2025-03-28,,IT Services,Account Access,High,Pending Customer,Tier 1 Support,398,4,Missed,Leadership Office,15+ days
+TCK-11358,2026-02-06,2026-02-12,Human Resources,Report Request,Medium,Closed,CRM Admin,6,7,Met,Leadership Office,4-7 days
+TCK-11359,2025-11-22,2025-12-08,Finance,User Permissions,Low,Closed,Systems Team,16,10,Missed,Leadership Office,15+ days
+TCK-11360,2026-03-01,2026-03-08,Operations,Report Request,Low,Closed,Tier 2 Support,7,10,Met,Program Office,4-7 days
+TCK-11361,2025-01-07,,Human Resources,Training Request,Low,Escalated,Tier 1 Support,478,10,Missed,Leadership Office,15+ days
+TCK-11362,2026-03-23,2026-03-24,Finance,Training Request,Medium,Closed,Tier 1 Support,1,7,Met,Program Office,0-3 days
+TCK-11363,2025-06-26,2025-06-27,Finance,Report Request,Critical,Closed,CRM Admin,1,2,Met,Program Office,0-3 days
+TCK-11364,2025-01-28,2025-02-05,IT Services,Report Request,High,Closed,Tier 1 Support,8,4,Missed,Program Office,8-14 days
+TCK-11365,2025-11-05,2025-11-11,Policy,User Permissions,Medium,Closed,CRM Admin,6,7,Met,Internal User,4-7 days
+TCK-11366,2025-11-26,,Program Management,Training Request,Medium,Open,Systems Team,155,7,Missed,Leadership Office,15+ days
+TCK-11367,2025-05-11,2025-05-16,Program Management,Training Request,High,Closed,Systems Team,5,4,Missed,Leadership Office,4-7 days
+TCK-11368,2026-02-02,,Policy,Training Request,Low,Pending Customer,Tier 1 Support,87,10,Missed,Program Office,15+ days
+TCK-11369,2025-06-11,2025-06-17,Program Management,User Permissions,Medium,Closed,Tier 2 Support,6,7,Met,Program Office,4-7 days
+TCK-11370,2025-07-12,2025-07-18,Policy,Training Request,Low,Closed,Systems Team,6,10,Met,Leadership Office,4-7 days
+TCK-11371,2025-07-15,,IT Services,User Permissions,High,Open,Tier 2 Support,289,4,Missed,Leadership Office,15+ days
+TCK-11372,2025-08-19,2025-08-28,IT Services,Account Access,Low,Closed,Tier 2 Support,9,10,Met,Internal User,8-14 days
+TCK-11373,2025-11-27,2025-11-28,IT Services,Data Correction,Medium,Closed,Tier 2 Support,1,7,Met,Leadership Office,0-3 days
+TCK-11374,2026-03-20,,IT Services,Training Request,Medium,Open,Tier 2 Support,41,7,Missed,Internal User,15+ days
+TCK-11375,2025-03-16,2025-03-26,Human Resources,Account Access,Low,Closed,Tier 1 Support,10,10,Met,Leadership Office,8-14 days
+TCK-11376,2025-09-25,2025-10-01,Human Resources,Account Access,Medium,Closed,Tier 1 Support,6,7,Met,Leadership Office,4-7 days
+TCK-11377,2026-03-07,2026-03-07,Program Management,User Permissions,Medium,Closed,Reporting Team,0,7,Met,Internal User,0-3 days
+TCK-11378,2025-01-06,2025-01-10,Operations,Report Request,Medium,Closed,Reporting Team,4,7,Met,Internal User,4-7 days
+TCK-11379,2025-05-28,2025-06-06,Finance,User Permissions,Low,Closed,Tier 2 Support,9,10,Met,Leadership Office,8-14 days
+TCK-11380,2025-02-13,2025-02-17,Program Management,Report Request,Medium,Closed,Reporting Team,4,7,Met,Leadership Office,4-7 days
+TCK-11381,2025-11-25,2025-11-25,Finance,User Permissions,Low,Closed,Tier 1 Support,0,10,Met,Internal User,0-3 days
+TCK-11382,2025-01-02,2025-01-14,Human Resources,System Error,Low,Closed,Reporting Team,12,10,Missed,Internal User,8-14 days
+TCK-11383,2025-01-02,2025-01-14,IT Services,System Error,Medium,Closed,Reporting Team,12,7,Missed,Internal User,8-14 days
+TCK-11384,2025-06-19,2025-06-24,Program Management,System Error,Low,Closed,Reporting Team,5,10,Met,Program Office,4-7 days
+TCK-11385,2025-05-18,,Finance,Account Access,Low,Open,Tier 1 Support,347,10,Missed,Leadership Office,15+ days
+TCK-11386,2026-03-07,,Finance,Account Access,High,Escalated,Reporting Team,54,4,Missed,Leadership Office,15+ days
+TCK-11387,2025-06-15,2025-06-26,IT Services,System Error,Low,Closed,Tier 1 Support,11,10,Missed,Leadership Office,8-14 days
+TCK-11388,2025-11-11,2025-11-17,Operations,System Error,Low,Closed,Reporting Team,6,10,Met,Leadership Office,4-7 days
+TCK-11389,2025-04-14,,IT Services,System Error,Medium,Open,Tier 2 Support,381,7,Missed,Program Office,15+ days
+TCK-11390,2025-11-07,,Operations,Training Request,Medium,Open,Reporting Team,174,7,Missed,Leadership Office,15+ days
+TCK-11391,2025-10-12,2025-10-20,Policy,User Permissions,Medium,Closed,Reporting Team,8,7,Missed,Leadership Office,8-14 days
+TCK-11392,2025-02-07,2025-02-15,IT Services,System Error,Medium,Closed,Tier 2 Support,8,7,Missed,Program Office,8-14 days
+TCK-11393,2025-08-21,2025-08-25,IT Services,Data Correction,High,Closed,Tier 2 Support,4,4,Met,Internal User,4-7 days
+TCK-11394,2025-02-14,,Finance,System Error,Low,Pending Customer,Systems Team,440,10,Missed,Leadership Office,15+ days
+TCK-11395,2025-10-14,,IT Services,Account Access,High,Open,Systems Team,198,4,Missed,Program Office,15+ days
+TCK-11396,2025-03-13,2025-03-17,Finance,Report Request,High,Closed,Systems Team,4,4,Met,Program Office,4-7 days
+TCK-11397,2025-03-02,2025-03-06,Operations,System Error,Medium,Closed,CRM Admin,4,7,Met,Program Office,4-7 days
+TCK-11398,2025-11-05,,IT Services,User Permissions,Low,Open,Systems Team,176,10,Missed,Internal User,15+ days
+TCK-11399,2025-05-24,2025-05-30,Finance,Data Correction,Low,Closed,Tier 2 Support,6,10,Met,Internal User,4-7 days
+TCK-11400,2025-11-05,2025-11-09,IT Services,Account Access,High,Closed,Reporting Team,4,4,Met,Internal User,4-7 days
+TCK-11401,2026-02-20,,Finance,Report Request,High,Escalated,Tier 2 Support,69,4,Missed,Internal User,15+ days
+TCK-11402,2026-02-26,2026-02-28,Finance,System Error,Medium,Closed,Tier 1 Support,2,7,Met,Program Office,0-3 days
+TCK-11403,2025-08-11,,Finance,System Error,High,Open,Tier 1 Support,262,4,Missed,Leadership Office,15+ days
+TCK-11404,2025-10-22,2025-10-28,Human Resources,User Permissions,Low,Closed,Reporting Team,6,10,Met,Internal User,4-7 days
+TCK-11405,2025-12-27,2026-01-03,Operations,Data Correction,High,Closed,CRM Admin,7,4,Missed,Program Office,4-7 days
+TCK-11406,2025-04-01,,IT Services,Report Request,Medium,Pending Customer,CRM Admin,394,7,Missed,Internal User,15+ days
+TCK-11407,2025-01-30,2025-02-12,Operations,Data Correction,Low,Closed,CRM Admin,13,10,Missed,Leadership Office,8-14 days
+TCK-11408,2025-08-20,,Program Management,Account Access,Low,Open,Reporting Team,253,10,Missed,Leadership Office,15+ days
+TCK-11409,2026-02-11,,IT Services,User Permissions,High,Open,Tier 1 Support,78,4,Missed,Internal User,15+ days
+TCK-11410,2025-03-01,,IT Services,Data Correction,Medium,Escalated,Reporting Team,425,7,Missed,Internal User,15+ days
+TCK-11411,2026-02-22,2026-02-23,Human Resources,User Permissions,Medium,Closed,CRM Admin,1,7,Met,Internal User,0-3 days
+TCK-11412,2026-02-23,2026-03-01,IT Services,Data Correction,High,Closed,Tier 2 Support,6,4,Missed,Internal User,4-7 days
+TCK-11413,2025-01-17,2025-01-19,Human Resources,System Error,Medium,Closed,CRM Admin,2,7,Met,Leadership Office,0-3 days
+TCK-11414,2026-03-01,,IT Services,Training Request,Critical,Open,CRM Admin,60,2,Missed,Leadership Office,15+ days
+TCK-11415,2025-12-31,2026-01-06,IT Services,Training Request,Medium,Closed,Reporting Team,6,7,Met,Program Office,4-7 days
+TCK-11416,2025-10-31,2025-11-04,Program Management,Report Request,Medium,Closed,Tier 2 Support,4,7,Met,Leadership Office,4-7 days
+TCK-11417,2025-05-12,2025-05-22,Human Resources,Training Request,Medium,Closed,Systems Team,10,7,Missed,Internal User,8-14 days
+TCK-11418,2025-08-31,2025-09-11,IT Services,Account Access,Low,Closed,Tier 2 Support,11,10,Missed,Leadership Office,8-14 days
+TCK-11419,2026-02-01,2026-02-11,IT Services,User Permissions,Low,Closed,Systems Team,10,10,Met,Program Office,8-14 days
+TCK-11420,2025-04-24,,Finance,Data Correction,Medium,Open,CRM Admin,371,7,Missed,Program Office,15+ days
+TCK-11421,2025-05-12,,Operations,System Error,Medium,Pending Customer,Systems Team,353,7,Missed,Internal User,15+ days
+TCK-11422,2025-07-27,,Program Management,Account Access,High,Escalated,Reporting Team,277,4,Missed,Program Office,15+ days
+TCK-11423,2025-04-10,2025-04-15,Finance,Training Request,Medium,Closed,Systems Team,5,7,Met,Internal User,4-7 days
+TCK-11424,2025-10-08,,Operations,System Error,Medium,Open,CRM Admin,204,7,Missed,Program Office,15+ days
+TCK-11425,2025-03-12,2025-03-23,Finance,User Permissions,Medium,Closed,Tier 1 Support,11,7,Missed,Program Office,8-14 days
+TCK-11426,2025-07-04,2025-07-11,Human Resources,Report Request,Medium,Closed,Reporting Team,7,7,Met,Internal User,4-7 days
+TCK-11427,2025-04-16,2025-04-22,Finance,Report Request,Medium,Closed,Tier 1 Support,6,7,Met,Internal User,4-7 days
+TCK-11428,2025-09-10,2025-09-16,Human Resources,User Permissions,Medium,Closed,Systems Team,6,7,Met,Internal User,4-7 days
+TCK-11429,2026-04-01,,IT Services,System Error,Low,Escalated,Tier 1 Support,29,10,Missed,Leadership Office,15+ days
+TCK-11430,2025-12-18,2025-12-25,Finance,User Permissions,Low,Closed,Reporting Team,7,10,Met,Leadership Office,4-7 days
+TCK-11431,2025-07-19,2025-07-27,Policy,Training Request,Low,Closed,CRM Admin,8,10,Met,Internal User,8-14 days
+TCK-11432,2025-06-11,,Policy,Account Access,High,Escalated,Tier 2 Support,323,4,Missed,Internal User,15+ days
+TCK-11433,2025-02-12,,IT Services,Report Request,Medium,Open,Tier 1 Support,442,7,Missed,Internal User,15+ days
+TCK-11434,2025-03-22,2025-03-22,Policy,Account Access,High,Closed,Tier 1 Support,0,4,Met,Program Office,0-3 days
+TCK-11435,2025-02-26,,Finance,User Permissions,Medium,Pending Customer,Systems Team,428,7,Missed,Program Office,15+ days
+TCK-11436,2025-08-14,2025-08-17,Human Resources,System Error,Medium,Closed,CRM Admin,3,7,Met,Internal User,0-3 days
+TCK-11437,2026-03-04,2026-03-08,Program Management,Training Request,Medium,Closed,Systems Team,4,7,Met,Internal User,4-7 days
+TCK-11438,2025-07-01,2025-07-01,Finance,User Permissions,High,Closed,Tier 1 Support,0,4,Met,Internal User,0-3 days
+TCK-11439,2025-12-08,,Policy,Training Request,High,Open,Tier 2 Support,143,4,Missed,Program Office,15+ days
+TCK-11440,2026-01-31,2026-02-04,IT Services,Account Access,High,Closed,Tier 1 Support,4,4,Met,Program Office,4-7 days
+TCK-11441,2025-06-28,,IT Services,User Permissions,Low,Open,CRM Admin,306,10,Missed,Internal User,15+ days
+TCK-11442,2025-02-06,2025-02-12,Human Resources,Data Correction,Medium,Closed,CRM Admin,6,7,Met,Leadership Office,4-7 days
+TCK-11443,2025-11-12,,Operations,Report Request,High,Escalated,Systems Team,169,4,Missed,Program Office,15+ days
+TCK-11444,2025-03-17,2025-03-28,Human Resources,Account Access,Low,Closed,Reporting Team,11,10,Missed,Program Office,8-14 days
+TCK-11445,2025-10-19,,IT Services,Account Access,High,Open,Tier 1 Support,193,4,Missed,Leadership Office,15+ days
+TCK-11446,2025-07-18,2025-07-22,Human Resources,User Permissions,High,Closed,Tier 2 Support,4,4,Met,Program Office,4-7 days
+TCK-11447,2025-09-14,2025-09-18,Policy,Data Correction,Medium,Closed,Systems Team,4,7,Met,Program Office,4-7 days
+TCK-11448,2025-06-07,,Finance,Data Correction,Medium,Escalated,Tier 1 Support,327,7,Missed,Internal User,15+ days
+TCK-11449,2025-07-21,2025-07-28,Finance,Account Access,Medium,Closed,Tier 2 Support,7,7,Met,Internal User,4-7 days
+TCK-11450,2025-11-21,,Program Management,Data Correction,Medium,Open,Reporting Team,160,7,Missed,Program Office,15+ days
+TCK-11451,2025-05-11,2025-05-18,Finance,Data Correction,Low,Closed,Systems Team,7,10,Met,Internal User,4-7 days
+TCK-11452,2025-11-18,,Policy,Data Correction,Low,Escalated,Tier 2 Support,163,10,Missed,Internal User,15+ days
+TCK-11453,2025-06-07,,IT Services,Account Access,Medium,Open,Reporting Team,327,7,Missed,Leadership Office,15+ days
+TCK-11454,2025-01-24,,IT Services,Training Request,Medium,Open,Reporting Team,461,7,Missed,Leadership Office,15+ days
+TCK-11455,2025-05-10,,Program Management,System Error,Low,Open,Tier 2 Support,355,10,Missed,Internal User,15+ days
+TCK-11456,2025-11-12,2025-11-15,Policy,Report Request,High,Closed,Reporting Team,3,4,Met,Program Office,0-3 days
+TCK-11457,2026-01-22,2026-01-26,Finance,Training Request,High,Closed,Tier 2 Support,4,4,Met,Internal User,4-7 days
+TCK-11458,2025-03-29,2025-03-31,Program Management,Report Request,Medium,Closed,Tier 2 Support,2,7,Met,Program Office,0-3 days
+TCK-11459,2025-01-24,,Operations,Account Access,Low,Pending Customer,Tier 2 Support,461,10,Missed,Program Office,15+ days
+TCK-11460,2025-07-09,,Finance,System Error,Medium,Open,Reporting Team,295,7,Missed,Internal User,15+ days
+TCK-11461,2025-12-22,,Finance,Data Correction,Medium,Open,Tier 2 Support,129,7,Missed,Leadership Office,15+ days
+TCK-11462,2026-01-20,,Program Management,User Permissions,Medium,Open,Tier 2 Support,100,7,Missed,Internal User,15+ days
+TCK-11463,2025-11-28,2025-12-03,IT Services,Account Access,High,Closed,Systems Team,5,4,Missed,Leadership Office,4-7 days
+TCK-11464,2025-09-08,2025-09-14,IT Services,Account Access,High,Closed,Reporting Team,6,4,Missed,Internal User,4-7 days
+TCK-11465,2026-01-31,2026-02-05,IT Services,Account Access,Low,Closed,Systems Team,5,10,Met,Program Office,4-7 days
+TCK-11466,2025-10-19,2025-10-22,Program Management,Data Correction,High,Closed,Tier 1 Support,3,4,Met,Program Office,0-3 days
+TCK-11467,2025-10-12,2025-10-18,Operations,System Error,Medium,Closed,Systems Team,6,7,Met,Leadership Office,4-7 days
+TCK-11468,2025-11-06,,Program Management,Training Request,High,Open,Tier 2 Support,175,4,Missed,Leadership Office,15+ days
+TCK-11469,2025-10-25,,Finance,Account Access,Medium,Open,Tier 1 Support,187,7,Missed,Leadership Office,15+ days
+TCK-11470,2025-03-12,2025-03-19,Operations,Account Access,Low,Closed,Tier 1 Support,7,10,Met,Internal User,4-7 days
+TCK-11471,2025-10-10,2025-10-22,Operations,Data Correction,Low,Closed,Tier 2 Support,12,10,Missed,Internal User,8-14 days
+TCK-11472,2025-05-10,2025-05-22,Finance,User Permissions,Low,Closed,Tier 2 Support,12,10,Missed,Leadership Office,8-14 days
+TCK-11473,2025-03-09,,Finance,Training Request,High,Pending Customer,Systems Team,417,4,Missed,Leadership Office,15+ days
+TCK-11474,2025-04-11,2025-04-13,Policy,User Permissions,High,Closed,Tier 1 Support,2,4,Met,Internal User,0-3 days
+TCK-11475,2025-01-19,,Operations,Data Correction,Medium,Escalated,Tier 2 Support,466,7,Missed,Internal User,15+ days
+TCK-11476,2026-01-03,2026-01-13,Operations,User Permissions,Medium,Closed,Tier 1 Support,10,7,Missed,Internal User,8-14 days
+TCK-11477,2025-07-10,,Human Resources,System Error,High,Open,CRM Admin,294,4,Missed,Internal User,15+ days
+TCK-11478,2025-07-28,,Policy,Account Access,Medium,Open,CRM Admin,276,7,Missed,Leadership Office,15+ days
+TCK-11479,2026-02-11,,Program Management,Training Request,Medium,Escalated,Tier 1 Support,78,7,Missed,Leadership Office,15+ days
+TCK-11480,2025-10-03,2025-10-12,Policy,Account Access,Low,Closed,Tier 2 Support,9,10,Met,Leadership Office,8-14 days
+TCK-11481,2025-02-15,,Program Management,Report Request,Medium,Pending Customer,Reporting Team,439,7,Missed,Leadership Office,15+ days
+TCK-11482,2025-01-21,,Policy,Training Request,High,Open,Tier 2 Support,464,4,Missed,Internal User,15+ days
+TCK-11483,2026-02-07,2026-02-18,Finance,Account Access,Low,Closed,Systems Team,11,10,Missed,Program Office,8-14 days
+TCK-11484,2025-07-20,2025-07-27,Operations,Account Access,Low,Closed,Reporting Team,7,10,Met,Program Office,4-7 days
+TCK-11485,2025-01-08,2025-01-11,Program Management,System Error,Medium,Closed,Reporting Team,3,7,Met,Internal User,0-3 days
+TCK-11486,2025-07-16,2025-07-22,Operations,Account Access,Low,Closed,Systems Team,6,10,Met,Leadership Office,4-7 days
+TCK-11487,2026-02-16,2026-02-21,Finance,Report Request,Medium,Closed,Tier 1 Support,5,7,Met,Program Office,4-7 days
+TCK-11488,2025-08-09,,Finance,Training Request,Medium,Open,Tier 2 Support,264,7,Missed,Leadership Office,15+ days
+TCK-11489,2025-04-26,2025-04-30,Operations,System Error,Medium,Closed,Tier 2 Support,4,7,Met,Internal User,4-7 days
+TCK-11490,2026-03-10,,Human Resources,Account Access,Low,Open,CRM Admin,51,10,Missed,Internal User,15+ days
+TCK-11491,2025-05-11,2025-05-22,Finance,User Permissions,Low,Closed,Systems Team,11,10,Missed,Leadership Office,8-14 days
+TCK-11492,2025-06-14,,Policy,Training Request,Medium,Open,Systems Team,320,7,Missed,Leadership Office,15+ days
+TCK-11493,2026-03-30,2026-03-30,Policy,Training Request,Critical,Closed,Tier 1 Support,0,2,Met,Leadership Office,0-3 days
+TCK-11494,2025-11-15,,Operations,User Permissions,High,Open,CRM Admin,166,4,Missed,Leadership Office,15+ days
+TCK-11495,2025-02-13,2025-02-17,IT Services,Report Request,Medium,Closed,Tier 2 Support,4,7,Met,Internal User,4-7 days
+TCK-11496,2026-01-04,,Program Management,Data Correction,Critical,Escalated,CRM Admin,116,2,Missed,Leadership Office,15+ days
+TCK-11497,2025-01-30,2025-02-05,Human Resources,User Permissions,Medium,Closed,Tier 2 Support,6,7,Met,Internal User,4-7 days
+TCK-11498,2025-02-10,2025-02-21,Policy,Training Request,High,Closed,Reporting Team,11,4,Missed,Program Office,8-14 days
+TCK-11499,2025-01-15,2025-01-18,Policy,System Error,Medium,Closed,Systems Team,3,7,Met,Leadership Office,0-3 days
+TCK-11500,2025-05-18,2025-05-26,Program Management,Training Request,Medium,Closed,CRM Admin,8,7,Missed,Leadership Office,8-14 days
