@@ -13,6 +13,11 @@
       --bg: #f9fafb;
       --button: #1f2937;
       --button-hover: #374151;
+      --accent: #1f4e79;
+    }
+
+    * {
+      box-sizing: border-box;
     }
 
     body {
@@ -25,20 +30,25 @@
     }
 
     main {
-      max-width: 1180px;
+      max-width: 1200px;
       margin: 0 auto;
     }
 
     h1 {
       margin-bottom: 4px;
-      font-size: 36px;
+      font-size: 38px;
       line-height: 1.2;
     }
 
     h2 {
       margin-top: 0;
-      font-size: 25px;
+      font-size: 26px;
       line-height: 1.3;
+    }
+
+    h3 {
+      margin-top: 0;
+      font-size: 20px;
     }
 
     .subtitle {
@@ -53,18 +63,17 @@
       margin: 22px 0 28px;
     }
 
-    .grid {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 18px;
-    }
-
     .card {
       background: var(--card);
       border: 1px solid var(--border);
       border-radius: 14px;
       padding: 24px;
       box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+      margin-bottom: 20px;
+    }
+
+    .highlight {
+      border-top: 6px solid var(--accent);
     }
 
     .tag {
@@ -113,92 +122,120 @@
       background: #f3f4f6;
     }
 
+    .dashboard-frame {
+      width: 100%;
+      height: 675px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      margin-top: 18px;
+      background: #ffffff;
+    }
+
+    .note {
+      color: var(--muted);
+      font-size: 14px;
+      margin-top: 10px;
+    }
+
+    .two-column {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    ul {
+      padding-left: 22px;
+    }
+
     footer {
       margin-top: 34px;
       color: #6b7280;
       font-size: 14px;
+    }
+
+    @media (max-width: 800px) {
+      body {
+        padding: 24px 16px;
+      }
+
+      h1 {
+        font-size: 31px;
+      }
+
+      .two-column {
+        grid-template-columns: 1fr;
+      }
+
+      .dashboard-frame {
+        height: 500px;
+      }
     }
   </style>
 </head>
 <body>
   <main>
     <h1>Anthony Mays</h1>
-    <p class="subtitle">Data Analyst | BI Reporting | SQL | Tableau | Excel | Federal Program Analytics</p>
+    <p class="subtitle">Data Analyst | BI Reporting | SQL | Power BI | Tableau | Excel | Federal Program Analytics</p>
 
     <p class="intro">
-      This portfolio highlights synthetic data projects focused on operational reporting, data quality, dashboard development,
-      SQL analysis, and executive-ready insights. All datasets are synthetic and safe for public use.
+      This portfolio highlights a synthetic Army housing analytics project focused on operational reporting, utilization analysis,
+      dashboard development, SQL-style analysis, and executive-ready insights. All data shown is synthetic and safe for public use.
     </p>
 
-    <section class="grid">
+    <section class="card highlight">
+      <h2>Power BI Dashboard: Synthetic Army Housing Utilization &amp; Vacancy</h2>
+      <p>
+        This interactive dashboard analyzes occupancy, vacancy, net utilization, condition score, work order risk, and low-utilization
+        buildings across fictional installations. The project is designed to demonstrate the type of repeatable leadership reporting,
+        data cleaning, and dashboard development used in federal program analytics.
+      </p>
+
+      <div>
+        <span class="tag">Power BI</span>
+        <span class="tag">SQL Analysis</span>
+        <span class="tag">Excel/CSV</span>
+        <span class="tag">Executive Reporting</span>
+        <span class="tag">Synthetic Data</span>
+      </div>
+
+      <iframe
+        class="dashboard-frame"
+        title="Mays Portfolio"
+        src="https://app.powerbi.com/view?r=eyJrIjoiNTA4NWI5NWQtZmI4OS00ZTVkLTgyYzAtOTBhNmMwOTFmOTllIiwidCI6ImJhZjgyMThlLWIzMDItNDQ2NS1hOTkzLTRhMzljOTcyNTFiMiIsImMiOjF9"
+        frameborder="0"
+        allowFullScreen="true">
+      </iframe>
+
+      <p class="note">
+        If the embedded report does not load immediately, use the direct Power BI link below. The report uses fully synthetic data only.
+      </p>
+
+      <div class="button-row">
+        <a class="button" href="https://app.powerbi.com/view?r=eyJrIjoiNTA4NWI5NWQtZmI4OS00ZTVkLTgyYzAtOTBhNmMwOTFmOTllIiwidCI6ImJhZjgyMThlLWIzMDItNDQ2NS1hOTkzLTRhMzljOTcyNTFiMiIsImMiOjF9" target="_blank" rel="noopener">Open Power BI Dashboard</a>
+        <a class="secondary-button" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Mays_Data_Portfolio/01_Army_Housing_Utilization" target="_blank" rel="noopener">View Project Files</a>
+        <a class="secondary-button" href="https://github.com/wizfan92301/AM-Portfolio" target="_blank" rel="noopener">View GitHub Repository</a>
+      </div>
+    </section>
+
+    <section class="two-column">
       <article class="card">
-        <h2>Synthetic Army Housing Utilization &amp; Vacancy Dashboard</h2>
-        <p>Analyzes occupancy, vacancy, utilization, condition score, and work order risk across fictional installations.</p>
-        <div>
-          <span class="tag">SQL</span>
-          <span class="tag">Tableau</span>
-          <span class="tag">Excel</span>
-          <span class="tag">Data Quality</span>
-        </div>
-        <div class="button-row">
-          <a class="button" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Mays_Data_Portfolio/01_Army_Housing_Utilization" target="_blank" rel="noopener">View Project Files</a>
-          <a class="secondary-button" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Mays_Data_Portfolio/01_Army_Housing_Utilization/data" target="_blank" rel="noopener">View Data</a>
-        </div>
+        <h3>Project Focus</h3>
+        <ul>
+          <li>Monitor housing utilization and vacancy across fictional installations.</li>
+          <li>Identify buildings below utilization targets.</li>
+          <li>Track occupancy, vacant beds, condition score, and work order risk.</li>
+          <li>Present leadership-ready findings using a clean dashboard format.</li>
+        </ul>
       </article>
 
       <article class="card">
-        <h2>Data Quality Validation Framework</h2>
-        <p>Demonstrates validation checks for duplicates, missing values, invalid occupancy records, and inconsistent naming.</p>
-        <div>
-          <span class="tag">SQL</span>
-          <span class="tag">QA/QC</span>
-          <span class="tag">Data Governance</span>
-        </div>
-        <div class="button-row">
-          <a class="button" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Mays_Data_Portfolio/02_Data_Quality_ETL_Validation" target="_blank" rel="noopener">View Project Files</a>
-          <a class="secondary-button" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Mays_Data_Portfolio/02_Data_Quality_ETL_Validation/sql" target="_blank" rel="noopener">View SQL</a>
-        </div>
-      </article>
-
-      <article class="card">
-        <h2>HR Hiring Pipeline Dashboard</h2>
-        <p>Analyzes applicant flow, time-to-fill, hiring stages, conversion rates, and requisitions over target.</p>
-        <div>
-          <span class="tag">HR Analytics</span>
-          <span class="tag">Dashboarding</span>
-          <span class="tag">Excel</span>
-        </div>
-        <div class="button-row">
-          <a class="button" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Mays_Data_Portfolio/03_HR_Hiring_Pipeline" target="_blank" rel="noopener">View Project Files</a>
-          <a class="secondary-button" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Mays_Data_Portfolio/03_HR_Hiring_Pipeline/data" target="_blank" rel="noopener">View Data</a>
-        </div>
-      </article>
-
-      <article class="card">
-        <h2>CRM Ticket Backlog Dashboard</h2>
-        <p>Reviews service desk ticket volume, backlog aging, SLA performance, ticket categories, and resolution trends.</p>
-        <div>
-          <span class="tag">CRM Reporting</span>
-          <span class="tag">Operations Analytics</span>
-          <span class="tag">SLA</span>
-        </div>
-        <div class="button-row">
-          <a class="button" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Mays_Data_Portfolio/04_CRM_Ticket_Backlog" target="_blank" rel="noopener">View Project Files</a>
-          <a class="secondary-button" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Mays_Data_Portfolio/04_CRM_Ticket_Backlog/sql" target="_blank" rel="noopener">View SQL</a>
-        </div>
-      </article>
-
-      <article class="card">
-        <h2>Executive Leadership Briefing Pack</h2>
-        <p>Converts analysis into executive-ready findings, risks, recommendations, and a concise leadership briefing structure.</p>
-        <div>
-          <span class="tag">Executive Reporting</span>
-          <span class="tag">Storytelling</span>
-          <span class="tag">PowerPoint</span>
-        </div>
-        <div class="button-row">
-          <a class="button" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Mays_Data_Portfolio/05_Executive_Briefing_Pack" target="_blank" rel="noopener">View Project Files</a>
-        </div>
+        <h3>Skills Demonstrated</h3>
+        <ul>
+          <li>Power BI dashboard design and report publishing.</li>
+          <li>Data modeling with a date dimension and housing fact table.</li>
+          <li>DAX measures for KPIs such as beds, vacancy, and utilization.</li>
+          <li>Executive storytelling with synthetic operational data.</li>
+        </ul>
       </article>
     </section>
 
