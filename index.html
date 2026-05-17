@@ -1,19 +1,19 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Anthony Mays | Data Analytics Portfolio</title>
   <style>
     :root {
-      --text: #111827;
-      --muted: #4b5563;
-      --border: #e5e7eb;
+      --bg: #f7f9fc;
       --card: #ffffff;
-      --bg: #f9fafb;
-      --button: #1f2937;
-      --button-hover: #374151;
-      --accent: #1f4e79;
+      --ink: #111827;
+      --muted: #4b5563;
+      --line: #dbe3ef;
+      --blue: #1f4e79;
+      --blue2: #2f6f9f;
+      --tag: #eef2f7;
     }
 
     * {
@@ -21,177 +21,178 @@
     }
 
     body {
-      font-family: Arial, sans-serif;
       margin: 0;
-      padding: 40px 28px;
-      line-height: 1.6;
-      color: var(--text);
+      font-family: Arial, Helvetica, sans-serif;
       background: var(--bg);
+      color: var(--ink);
+      line-height: 1.55;
     }
 
-    main {
-      max-width: 1200px;
+    .wrap {
+      width: min(1180px, calc(100% - 40px));
       margin: 0 auto;
+      padding: 36px 0 48px;
+    }
+
+    header {
+      margin-bottom: 26px;
     }
 
     h1 {
-      margin-bottom: 4px;
-      font-size: 38px;
-      line-height: 1.2;
-    }
-
-    h2 {
-      margin-top: 0;
-      font-size: 26px;
-      line-height: 1.3;
-    }
-
-    h3 {
-      margin-top: 0;
-      font-size: 20px;
+      font-size: 34px;
+      margin: 0 0 8px;
+      letter-spacing: .2px;
     }
 
     .subtitle {
       color: var(--muted);
-      margin-top: 0;
-      font-size: 18px;
+      font-size: 17px;
+      margin: 0 0 16px;
     }
 
-    .intro {
-      font-size: 18px;
-      max-width: 1100px;
-      margin: 22px 0 28px;
+    .summary {
+      max-width: 1000px;
+      font-size: 16px;
+      margin: 0;
     }
 
     .card {
       background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 14px;
+      border: 1px solid var(--line);
+      border-top: 7px solid var(--blue);
+      border-radius: 16px;
+      box-shadow: 0 10px 26px rgba(17, 24, 39, .06);
       padding: 24px;
-      box-shadow: 0 1px 2px rgba(0,0,0,0.04);
-      margin-bottom: 20px;
+      margin-top: 22px;
     }
 
-    .highlight {
-      border-top: 6px solid var(--accent);
+    h2 {
+      margin: 0 0 12px;
+      font-size: 25px;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 18px 0 22px;
     }
 
     .tag {
-      display: inline-block;
-      background: #f3f4f6;
-      padding: 4px 9px;
+      background: var(--tag);
       border-radius: 999px;
-      margin: 4px 5px 4px 0;
+      padding: 7px 12px;
       font-size: 14px;
-      color: #111827;
+      color: #1f2937;
+    }
+
+    .viz-frame {
+      width: 100%;
+      height: 720px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      overflow: hidden;
+      background: white;
+      margin-top: 16px;
+    }
+
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: 0;
     }
 
     .button-row {
-      margin-top: 16px;
       display: flex;
+      gap: 12px;
       flex-wrap: wrap;
-      gap: 10px;
+      margin-top: 18px;
     }
 
     .button {
       display: inline-block;
-      padding: 10px 14px;
-      border-radius: 8px;
-      background: var(--button);
-      color: #ffffff;
+      background: var(--blue);
+      color: #fff;
       text-decoration: none;
-      font-weight: bold;
+      padding: 11px 15px;
+      border-radius: 9px;
+      font-weight: 700;
+      font-size: 14px;
     }
 
-    .button:hover {
-      background: var(--button-hover);
-    }
-
-    .secondary-button {
-      display: inline-block;
-      padding: 10px 14px;
-      border-radius: 8px;
-      background: #ffffff;
-      color: var(--button);
-      text-decoration: none;
-      font-weight: bold;
-      border: 1px solid var(--border);
-    }
-
-    .secondary-button:hover {
-      background: #f3f4f6;
-    }
-
-    .dashboard-frame {
-      width: 100%;
-      height: 675px;
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      margin-top: 18px;
-      background: #ffffff;
+    .button.secondary {
+      background: var(--blue2);
     }
 
     .note {
+      margin-top: 16px;
       color: var(--muted);
       font-size: 14px;
-      margin-top: 10px;
     }
 
-    .two-column {
+    .grid {
       display: grid;
       grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: 18px;
+      gap: 16px;
+      margin-top: 18px;
     }
 
-    ul {
-      padding-left: 22px;
+    .mini {
+      background: #f8fafc;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 16px;
+    }
+
+    .mini h3 {
+      margin: 0 0 8px;
+      font-size: 17px;
     }
 
     footer {
-      margin-top: 34px;
-      color: #6b7280;
+      margin-top: 30px;
+      color: var(--muted);
       font-size: 14px;
     }
 
     @media (max-width: 800px) {
-      body {
-        padding: 24px 16px;
-      }
-
-      h1 {
-        font-size: 31px;
-      }
-
-      .two-column {
+      .grid {
         grid-template-columns: 1fr;
       }
 
-      .dashboard-frame {
-        height: 500px;
+      .viz-frame {
+        height: 560px;
+      }
+
+      h1 {
+        font-size: 28px;
       }
     }
   </style>
 </head>
 <body>
-  <main>
-    <h1>Anthony Mays</h1>
-    <p class="subtitle">Data Analyst | BI Reporting | SQL | Power BI | Tableau | Excel | Federal Program Analytics</p>
+  <main class="wrap">
+    <header>
+      <h1>Anthony Mays</h1>
+      <p class="subtitle">Data Analyst | BI Reporting | Tableau | Excel</p>
+      <p class="summary">
+        This portfolio highlights synthetic data projects focused on operational reporting,
+        dashboard development, executive-ready insight delivery, and federal program analytics.
+        All data shown is synthetic and safe for public use.
+      </p>
+    </header>
 
-    <p class="intro">
-      This portfolio highlights a synthetic Army housing analytics project focused on operational reporting, utilization analysis,
-      dashboard development, synthetic data preparation, and executive-ready insight delivery. All data shown is synthetic and safe for public use.
-    </p>
-
-    <section class="card highlight">
-      <h2>Power BI Dashboard: Synthetic Army Housing Utilization &amp; Vacancy</h2>
+    <section class="card">
+      <h2>Tableau Dashboard: Synthetic Army Housing Utilization &amp; Vacancy</h2>
       <p>
-        This interactive Power BI dashboard analyzes occupancy, vacancy, net utilization, condition score, open work orders, and low-utilization
-        buildings across fictional installations. The project demonstrates repeatable leadership reporting, synthetic data preparation,
+        This interactive Tableau dashboard analyzes occupancy, vacancy, net utilization,
+        open work orders, and low-utilization buildings across fictional installations.
+        The project demonstrates repeatable leadership reporting, synthetic data preparation,
         dashboard development, and executive-ready insight delivery for a federal program analytics scenario.
       </p>
 
-      <div>
-        <span class="tag">Power BI</span>
+      <div class="tags">
+        <span class="tag">Tableau</span>
         <span class="tag">Excel/CSV</span>
         <span class="tag">Dashboard Development</span>
         <span class="tag">Executive Reporting</span>
@@ -199,49 +200,62 @@
         <span class="tag">Federal Program Analytics</span>
       </div>
 
-      <iframe
-        class="dashboard-frame"
-        title="Mays Portfolio"
-        src="https://app.powerbi.com/view?r=eyJrIjoiNTA4NWI5NWQtZmI4OS00ZTVkLTgyYzAtOTBhNmMwOTFmOTllIiwidCI6ImJhZjgyMThlLWIzMDItNDQ2NS1hOTkzLTRhMzljOTcyNTFiMiIsImMiOjF9"
-        frameborder="0"
-        allowFullScreen="true">
-      </iframe>
-
-      <p class="note">
-        If the embedded report does not load immediately, use the direct Power BI link below. The report uses fully synthetic data only.
-      </p>
+      <div class="viz-frame">
+        <iframe
+          src="https://public.tableau.com/views/SyntheticArmyHousingUtilizationVacancyDashboard/SyntheticArmyHousingUtilizationVacancyDashboard?:showVizHome=no&:embed=true&:toolbar=yes"
+          title="Synthetic Army Housing Utilization & Vacancy Tableau Dashboard"
+          allowfullscreen>
+        </iframe>
+      </div>
 
       <div class="button-row">
-        <a class="button" href="https://app.powerbi.com/view?r=eyJrIjoiNTA4NWI5NWQtZmI4OS00ZTVkLTgyYzAtOTBhNmMwOTFmOTllIiwidCI6ImJhZjgyMThlLWIzMDItNDQ2NS1hOTkzLTRhMzljOTcyNTFiMiIsImMiOjF9" target="_blank" rel="noopener">Open Power BI Dashboard</a>
-        <a class="secondary-button" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Mays_Data_Portfolio/01_Army_Housing_Utilization" target="_blank" rel="noopener">View Project Files</a>
-        <a class="secondary-button" href="https://github.com/wizfan92301/AM-Portfolio" target="_blank" rel="noopener">View GitHub Repository</a>
+        <a class="button" href="https://public.tableau.com/app/profile/a.m1875/viz/SyntheticArmyHousingUtilizationVacancyDashboard/SyntheticArmyHousingUtilizationVacancyDashboard" target="_blank" rel="noopener">View Tableau Dashboard</a>
+        <a class="button secondary" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Mays_Data_Portfolio/01_Army_Housing_Utilization" target="_blank" rel="noopener">View Project Files</a>
+        <a class="button secondary" href="https://github.com/wizfan92301/AM-Portfolio" target="_blank" rel="noopener">View GitHub Repository</a>
+      </div>
+
+      <p class="note">
+        Note: The embedded Tableau view may load slowly depending on browser settings.
+        Use the “View Tableau Dashboard” button if the embedded view does not display.
+      </p>
+    </section>
+
+    <section class="grid">
+      <div class="mini">
+        <h3>Business Scenario</h3>
+        <p>
+          Leadership needs a repeatable way to monitor utilization, vacancy, and buildings
+          that may require follow-up across a fictional housing portfolio.
+        </p>
+      </div>
+
+      <div class="mini">
+        <h3>Key Metrics</h3>
+        <p>
+          Total beds, occupied beds, vacant beds, net use percentage, open work orders,
+          and low-utilization buildings.
+        </p>
+      </div>
+
+      <div class="mini">
+        <h3>Portfolio Value</h3>
+        <p>
+          Shows the ability to turn operational data into dashboard visuals,
+          trend analysis, and leadership-ready reporting.
+        </p>
+      </div>
+
+      <div class="mini">
+        <h3>Data Note</h3>
+        <p>
+          The dataset is fully synthetic. It does not contain real government,
+          military, personal, or sensitive data.
+        </p>
       </div>
     </section>
 
-    <section class="two-column">
-      <article class="card">
-        <h3>Project Focus</h3>
-        <ul>
-          <li>Monitor housing utilization and vacancy across fictional installations.</li>
-          <li>Identify buildings below utilization targets.</li>
-          <li>Track occupancy, vacant beds, condition score, and work order risk.</li>
-          <li>Present leadership-ready findings using a clean dashboard format.</li>
-        </ul>
-      </article>
-
-      <article class="card">
-        <h3>Skills Demonstrated</h3>
-        <ul>
-          <li>Power BI dashboard design and report publishing.</li>
-          <li>Data modeling with a date dimension and housing fact table.</li>
-          <li>DAX measures for KPIs such as beds, vacancy, and utilization.</li>
-          <li>Executive storytelling with synthetic operational data.</li>
-        </ul>
-      </article>
-    </section>
-
     <footer>
-      Portfolio built with synthetic data for public demonstration purposes. No real government, military, personal, or operational data is included.
+      © Anthony Mays | Data Analytics Portfolio
     </footer>
   </main>
 </body>
