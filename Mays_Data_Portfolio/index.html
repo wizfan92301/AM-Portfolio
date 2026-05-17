@@ -15,11 +15,7 @@
       --blue2: #2f6f9f;
       --tag: #eef2f7;
     }
-
-    * {
-      box-sizing: border-box;
-    }
-
+    * { box-sizing: border-box; }
     body {
       margin: 0;
       font-family: Arial, Helvetica, sans-serif;
@@ -27,35 +23,27 @@
       color: var(--ink);
       line-height: 1.55;
     }
-
     .wrap {
       width: min(1180px, calc(100% - 40px));
       margin: 0 auto;
       padding: 36px 0 48px;
     }
-
-    header {
-      margin-bottom: 26px;
-    }
-
+    header { margin-bottom: 26px; }
     h1 {
       font-size: 34px;
       margin: 0 0 8px;
       letter-spacing: .2px;
     }
-
     .subtitle {
       color: var(--muted);
       font-size: 17px;
       margin: 0 0 16px;
     }
-
     .summary {
       max-width: 1000px;
       font-size: 16px;
       margin: 0;
     }
-
     .card {
       background: var(--card);
       border: 1px solid var(--line);
@@ -65,19 +53,13 @@
       padding: 24px;
       margin-top: 22px;
     }
-
-    h2 {
-      margin: 0 0 12px;
-      font-size: 25px;
-    }
-
+    h2 { margin: 0 0 12px; font-size: 25px; }
     .tags {
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
       margin: 18px 0 22px;
     }
-
     .tag {
       background: var(--tag);
       border-radius: 999px;
@@ -85,7 +67,6 @@
       font-size: 14px;
       color: #1f2937;
     }
-
     .viz-frame {
       width: 100%;
       height: 720px;
@@ -95,20 +76,13 @@
       background: white;
       margin-top: 16px;
     }
-
-    iframe {
-      width: 100%;
-      height: 100%;
-      border: 0;
-    }
-
+    iframe { width: 100%; height: 100%; border: 0; }
     .button-row {
       display: flex;
       gap: 12px;
       flex-wrap: wrap;
       margin-top: 18px;
     }
-
     .button {
       display: inline-block;
       background: var(--blue);
@@ -119,54 +93,30 @@
       font-weight: 700;
       font-size: 14px;
     }
-
-    .button.secondary {
-      background: var(--blue2);
-    }
-
+    .button.secondary { background: var(--blue2); }
     .note {
       margin-top: 16px;
       color: var(--muted);
       font-size: 14px;
     }
-
     .grid {
       display: grid;
       grid-template-columns: repeat(2, minmax(0, 1fr));
       gap: 16px;
       margin-top: 18px;
     }
-
     .mini {
       background: #f8fafc;
       border: 1px solid var(--line);
       border-radius: 12px;
       padding: 16px;
     }
-
-    .mini h3 {
-      margin: 0 0 8px;
-      font-size: 17px;
-    }
-
-    footer {
-      margin-top: 30px;
-      color: var(--muted);
-      font-size: 14px;
-    }
-
+    .mini h3 { margin: 0 0 8px; font-size: 17px; }
+    footer { margin-top: 30px; color: var(--muted); font-size: 14px; }
     @media (max-width: 800px) {
-      .grid {
-        grid-template-columns: 1fr;
-      }
-
-      .viz-frame {
-        height: 560px;
-      }
-
-      h1 {
-        font-size: 28px;
-      }
+      .grid { grid-template-columns: 1fr; }
+      .viz-frame { height: 560px; }
+      h1 { font-size: 28px; }
     }
   </style>
 </head>
@@ -177,7 +127,7 @@
       <p class="subtitle">Data Analyst | BI Reporting | Tableau | Excel</p>
       <p class="summary">
         This portfolio highlights synthetic data projects focused on operational reporting,
-        dashboard development, executive-ready insight delivery, and federal program analytics.
+        dashboard development, executive-ready insight delivery, and data storytelling.
         All data shown is synthetic and safe for public use.
       </p>
     </header>
@@ -188,7 +138,7 @@
         This interactive Tableau dashboard analyzes occupancy, vacancy, net utilization,
         open work orders, and low-utilization buildings across fictional installations.
         The project demonstrates repeatable leadership reporting, synthetic data preparation,
-        dashboard development, and executive-ready insight delivery for a federal program analytics scenario.
+        dashboard development, and executive-ready insight delivery for an operational reporting scenario.
       </p>
 
       <div class="tags">
@@ -197,7 +147,6 @@
         <span class="tag">Dashboard Development</span>
         <span class="tag">Executive Reporting</span>
         <span class="tag">Synthetic Data</span>
-        <span class="tag">Federal Program Analytics</span>
       </div>
 
       <div class="viz-frame">
@@ -210,7 +159,7 @@
 
       <div class="button-row">
         <a class="button" href="https://public.tableau.com/app/profile/a.m1875/viz/SyntheticArmyHousingUtilizationVacancyDashboard/SyntheticArmyHousingUtilizationVacancyDashboard" target="_blank" rel="noopener">View Tableau Dashboard</a>
-        <a class="button secondary" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Mays_Data_Portfolio/01_Army_Housing_Utilization" target="_blank" rel="noopener">View Project Files</a>
+        <a class="button secondary" href="https://github.com/wizfan92301/AM-Portfolio/tree/main/Tableau_Army_Housing_Utilization" target="_blank" rel="noopener">View Project Files</a>
         <a class="button secondary" href="https://github.com/wizfan92301/AM-Portfolio" target="_blank" rel="noopener">View GitHub Repository</a>
       </div>
 
@@ -249,7 +198,7 @@
         <h3>Data Note</h3>
         <p>
           The dataset is fully synthetic. It does not contain real government,
-          military, personal, or sensitive data.
+          military, personal, operational, or sensitive data.
         </p>
       </div>
     </section>
